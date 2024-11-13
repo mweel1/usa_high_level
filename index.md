@@ -4,7 +4,7 @@ title: Home
 
 hero:
   name: "A Government Roadmap of Revolutionary Technologies"
-  text: An offering for investment projects that prioritize American citizens' safety and prosperity, while generating new tax revenue.
+  text: An offering for investment projects that prioritize American citizens' safety and prosperity, while creating more accountability for the government and its citizens.
   actions:
     - theme: brand
       text: About Martin Weel
@@ -81,6 +81,7 @@ features:
 
   - title: Express Visa
     link: /express-visa
+
     details: A streamlined visa process integrating criminal records, banking and taxation to make immigration easier, safe and fair for American citizens.
 
   - title: Product Safety Agency
@@ -88,6 +89,10 @@ features:
 
   - title: Voting ID
     details: Provide a voting capability for various area of the government by providing an ID during the voting process, and an open database to verify results.
+
+  - title: Tickets
+    details: Licensed businesses would register to issue tickets with a licensed e-mail address for selling tickets.
+    link: /tickets
 
   - title: Micro-Industrial Revolution
     details: The micro-industrial revolution would call on corporate America to usher in a new production capacity to develop products and services in local areas with smaller production processes and better environmental controls.  This would be coupled with a standardized robust API system to allow these small areas of production, services and consumers to communicate.  Today our supply chain(s) are far to long and costly in environmental, and to difficult to protect with ongoing wars.

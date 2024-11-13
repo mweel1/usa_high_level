@@ -18,6 +18,7 @@ Domain can be registered with the following:
 - news-paper
 - news-article
 - advertiser
+- news-segment
 
 Items can be copyrighted where the copyrighted work can only go to places based on the [copyright rules](/copyright)
 
@@ -27,6 +28,8 @@ Citizens can choose to provide personal information around age,race, or other ma
 
 All transactions will work with the [e-check](/e-check/) system for sale, and other credit card rail payment methods.
 
-The market place can make their own distribution channels and pricing models.
+The market place can make their own distribution channels and pricing models, and secure wall gardens will have access to these servers.
+
+\*\* If you did have access to all media players, the media id could be paid for when its consumed.
 
 A [federal grant](/grants/) could be provided to develop these distribution channels to purchase and sell to the market in different ways.

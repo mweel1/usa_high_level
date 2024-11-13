@@ -13,3 +13,5 @@ All requesting individuals can file a complaint for:
   ...
 
 Each taxi driver will have to be [certified](./certification/) where they would receive a taxi.gov e-mail address where they can log into their application to provide service.
+
+Sphere's will also be geo-located where taxi drop off and pick up zones are.

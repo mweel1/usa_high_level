@@ -22,34 +22,35 @@ Additionally, we rely on corporations like Google to protect users from monopoli
 
 # United States Domain System (USDS)
 
-A new domain system would be provided which would add a country code at the beginning of each domain. For example us.www.whitehouse.gov.
+A new domain system would be provided which would add a country, state a code at the beginning of each domain. For example us.www.whitehouse.gov.
 
 If no country code is defined the normal DNS system is used, otherwise the countries DNS system is used.
 
 The United States DNS system be built with a new design architecture that will include new registering requirements and provide licensing services that would be issue license and revoke them if requirements were not met.
 
-## Registration
+## Operating System Requirements
 
-To register a domain, a citizen must:
+Operating systems that operate on the USA Internet must provide the following during DNS resolution:
 
-- Authenticate with their [id.gov](/government-os-services/id-gov).
-- Enter the age requirement of the website.
-- Provide a link to their cancellation policies (if applicable).
-- Submit Terms of Service.
+- Enforce age requirements using [gov.id authorization](/government-os-services/id-gov/).
+- Each domain type will have a terms of service template that must be met.
+- Link to cancellation policies for the domain.
+- Link to file complaints against the domain owner.
+- Link to file complaints in domain claims court to resolve dispute with domain owners.
+- Provide domain claims court case resolutions.
+- Provide a list of review sites chosen by the domain owner (at least 3) from the registry.
+- Show a certification when an e-mail is from a .gov agency.
 
 ## Domain Protection
 
 A [Content Filtering and Security Service](/content-filtering-and-security-service) will be use AI technology to:
 
-- Ensure all user-generated content posted to sites is checked and tagged.
-- Crawl domains to ensure content that has not been checked is safe on an ongoing basis.
+- Ensure all user-generated content posted to a business API or personal API is checked and tagged.
+- Crawl domains to ensure content that has not been checked is safe on an ongoing basis, priorities will be based on how popularity is trending.
 
 ## DNS Requirements
 
-- All Domains are available for the public.
-- Domains must make public the hit counts.
-- Domains can make "marketing information" requests for various personal information.
-- All domains can provide an address and mile radius in which their content is worthy.
+- The DNS will track all requests made, and caching is illegal.
 
 ## Licensed Domains
 
@@ -94,21 +95,9 @@ Some domain names to prevent mis-information, and national security threats on-l
 - Press - A person of the press that would be providing press information.
 - Influencer - A person that is influencing a large part of the population with media.
 
-Both Federal, State, and City/County would have access to licensing requirements for various domains allowing the domain system to allow all federal, state, and local requirements to play a role in licensing and revoking.
+An API would be available for licensed domains to keep track of any attributes that are needed for the licensing and would possibly be private and/or public based on the licensing type.
 
-We will also have grants to train people to enforce and monitor licensing, our current cities will not be able to handle the workload in this transitional phase of our country.
-
-## Operating System Requirements
-
-Operating systems that operate on the USA Internet must provide the following during DNS resolution:
-
-- Enforce age requirements using [gov.id authorization](/government-os-services/id-gov/).
-- Each domain type will have a terms of service template that must be met.
-- Link to cancellation policies for the domain.
-- Link to file complaints against the domain owner.
-- Link to file complaints in domain claims court to resolve dispute with domain owners.
-- Provide domain claims court case resolutions.
-- Provide a list of review sites chosen by the domain owner (at least 3)
+A license key would be needed from [licensing services](/licenseing-agency) to receive an e-mail domain.
 
 ## Legal
 

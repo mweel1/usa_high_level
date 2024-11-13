@@ -44,3 +44,7 @@ An application store would be available to use your personal information.
 The application can subscribe to events in your personal profile, or access personal profile information.
 
 These are just "access" application services. They are not runnable application services.
+
+# Vehicle Keys
+
+Vehicle keys would be in your public profile.
