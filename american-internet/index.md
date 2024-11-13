@@ -97,7 +97,7 @@ Some domain names to prevent mis-information, and national security threats on-l
 
 An API would be available for licensed domains to keep track of any attributes that are needed for the licensing and would possibly be private and/or public based on the licensing type.
 
-A license key would be needed from [licensing services](/licenseing-agency) to receive an e-mail domain.
+The licensing agency [licensing agency](/licenseing-agency) would have access to the American Internet to revoke and receive-emails.
 
 ## Legal
 
