@@ -2,11 +2,11 @@
 
 Transactions for at risk products and service would be checked at all point of sales and declined for red-flags. Red flags including but not limited to prescriptions, gambling, bomb making material, bulk purchases of gas or other energy sources.
 
-# Legalization of illicit drugs
+The POS provides a JSON receipt with a product type, based on the product type the following security checks are made.
 
-The illegal drug trade has a lot of issues including corruption, poisoning, education, and substance abuse.
+# Alcohol
 
-The transaction safety system would ensure that controls are places on illicit drugs the same way pharmaceuticals are managed. Controls would be put in place to ensure people do abuse these drugs base on guidelines.
+The Bureau of Alcohol will set a per person drink minimum in a certain period of time, and all transaction will be denied if they go over that amount.
 
 # Pharmaceutical Safety
 

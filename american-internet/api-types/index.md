@@ -18,6 +18,6 @@ A local delivery driver would have a pick list of orders from the transportation
 
 ## Coop Service Provider
 
-A chicken coop service provider would have a .service\*chicken-coop they would have all the licenses in-place, and training opportunities.
+A licensed chick coop service provider would manage chicken coupes for people.
 
-A grant would be issued to manage the [master service provider list](/grants/master-service-list/).
+A grant would be issued to manage the [B2B](/grants/b2b-standards/) in this example business network.

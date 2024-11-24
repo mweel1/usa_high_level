@@ -4,12 +4,12 @@
 
 The current grant system provides funding exclusively at the federal level, meaning grant needs and priorities are determined solely by federal guidelines.
 
-The proposed grant system would empower state and local municipalities with greater autonomy to identify their specific needs and offer a simple, streamlined way to provide funding and most important vs. today is accountability by the public.
+The proposed grant system would empower federal, state and local municipalities with greater autonomy to identify their specific needs and offer a simple, streamlined way to provide funding and most importantly accountability to the public.
 
-All grants would be voted on by their municipality to continue and to receive funding.
+All grants would be voted on by their municipality to continue and to receive funding based on their parent jurisdiction allocations.
 
 All grant organizations will have comparison ledgers if they share commonalities with other organizations. For example. Put out 400 fires with x,y,z. At a cost/per-fire rate. I'm not a financial expert, but you must make sure these organizations stay in financial bounds, because voting for free money in
-not acceptable in a market economy.
+not acceptable.
 
 I would like to ponder the question, if people are voting for these organizations to serve the public, they are indeed government organizations. That conflicts with our tax base and their organizations.
 
@@ -30,7 +30,7 @@ The state system will have grant money available for their constituents by [cate
 
 State citzens can
 
-## Cities
+## County
 
 The county system will have grant money available for the public by [categories](./category/)
 

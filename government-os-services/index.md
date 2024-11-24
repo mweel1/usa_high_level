@@ -24,18 +24,29 @@ Having a government operating system inside all operating system devices puts th
 
 When a user uses their mobile, gaming or desktop operating system for the first time they will be required first to authenticate with [id.gov](./id-gov).
 
-Once their government ID has been saved into the operating system they would need to authorize the following services:
+Once their government ID has been saved into the operating system they would need to authorize the following services if they had not already.
 
 - E-Check [echeck.gov](/e-check/)
-- FCC Emergency Communication System [ecs.gov](/ecs-gov)
-- National Security Agency [nsa.gov](/national-security-agency)
+
+- FCC Emergency Communication System [ecs.gov](/ecs-gov). To receive emergency communications from government agencies.
+
+- National Security Agency [nsa.gov](/national-security-agency). To allow the government to access your phone with a warrant.
+
 - FEMA Emergency Response Keys [fema.gov](/fema/)
-- [Citizen to Local Dispatch Communication](/local-dispatch/)
-- [Census Participation](/e-census/)
-- [Jury Service](/jury-service/)
+  To allow the government to update keys on your phone to access emergency services.
+
+- [Citizen to Local Dispatch Communication](/local-dispatch/). Allow the citizens to send dispatch requests to local dispatch for police and emergency services.
+
+- [Census Participation](/e-census/). To register for census services via e-mail.
+
+- [Jury Service](/jury-service/). This would register for jury services, where the operating system would provide notifications and reminders of needed jury service needs.
+
+- [FBI](./fbi). This would allow the FBI to use your location if you were near an active investigation and would be need to be contacted for questioning.
+
+Operating Systems with shared datastores may use these authorizations (for example ICloud, etc)
 
 For vehicle OS's the following services would have to be authorized:
 
 [Federal Roadway Signs](/federal-roadway-signs).
 
-Operating Systems with shared datastores may use these authorizations (for example ICloud, etc)
+- FCC Emergency Communication System [ecs.gov](/ecs-gov). To receive emergency communications from government agencies.

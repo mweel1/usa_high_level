@@ -88,6 +88,8 @@ Here are a number examples of domain names that would enable users to provide se
 - Podiatrist
 - Dietitian/Nutritionist
 - Land Surveyor
+- Judge
+- AI Technician
 
 Some domain names to prevent mis-information, and national security threats on-line would
 
@@ -97,7 +99,7 @@ Some domain names to prevent mis-information, and national security threats on-l
 
 An API would be available for licensed domains to keep track of any attributes that are needed for the licensing and would possibly be private and/or public based on the licensing type.
 
-The licensing agency [licensing agency](/licenseing-agency) would have access to the American Internet to revoke and receive-emails.
+The licensing agency [licensing agency](/licenseing-agency) would have access to the American Internet to revoke and issue emails.
 
 ## Legal
 

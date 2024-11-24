@@ -96,4 +96,8 @@ features:
 
   - title: Micro-Industrial Revolution
     details: The micro-industrial revolution would call on corporate America to usher in a new production capacity to develop products and services in local areas with smaller production processes and better environmental controls.  This would be coupled with a standardized robust API system to allow these small areas of production, services and consumers to communicate.  Today our supply chain(s) are far to long and costly in environmental, and to difficult to protect with ongoing wars.
+
+  - title: Animal Control Agency
+    link: /animal-agency
+    details: The animal control agency would allow supply and demand for animal populations along with registration, transfer, validation of animals.
 ---

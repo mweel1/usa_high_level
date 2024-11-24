@@ -7,3 +7,5 @@ Public announcements will be made letting people know these cameras are secure, 
 Each camera that is manufactured will register a device id, and encryption key.
 
 An application can be used to validate the camera is valid by personnel who manage the camera where it's checked physically determined by the license of the facility.
+
+There must be multiple signins to access production data.

@@ -5,3 +5,5 @@ The licensing agency would be developed for the American internet, and have rule
 The licensing agency would have a directory of education companies that would provide training and certification, where when completed a license ID would be provided.
 
 Certain licenses would need to be kept up to date based on the rules of the licensing type.
+
+The license ID would be public and as a URL, or QR Code for verification.

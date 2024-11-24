@@ -1,9 +1,27 @@
-# Touch Bluetooth
+# Touch Bluetooth Service
 
-Touch bluetooth would provide a bi-directional tcp/ip stack between two devices when touched together.
+An ID is sent to the bluetooth service with a JSON payload.
 
-For example, if you installed a thread based home automation system and purchased a home automation router you could touch the router with your device and provision in it.
+The sender ID has an S at the front for a screen, or D for Dual Display.
 
-It would also provide event links to native devices to call application or links.
+Touch Blue Tooth stack can be bound with receiver or sender mode.
 
-A proxy would be available from the pairing device to access the internet.
+## Dual Phone
+
+Trail Capitan touches mtn bikers phone as receiver and requests mountain bike pass from wallet.
+
+Mountain Biker acknowledges request from wallet.
+
+Trail Capitan receives an ID from mountain biker wallet of type mountain bike pass.
+
+Trail Capitan application calls the touch bluetooth service and receives JSON with a ticket ID.
+
+Trail Capital application receives JSON and checks [ticketing system](/tickets/) for a valid ticket.
+
+# Single Receiver with RFID coin.
+
+Trail Capitan touches mtn bikers coin as receiver with dual display identification.
+
+The receiver shows the wallet request login id.
+
+The user logs in with their 4 digit code, the wallet request for mtn bike pass from wallet where its checked in the [ticket system](/tickets).
