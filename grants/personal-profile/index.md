@@ -4,10 +4,9 @@ All personal profile servers must protect from key attacks.
 
 # Login
 
-- The browser or OS will have your personal profile URL. The URL will be based on large key that would be difficult to find in the public.
-
-- A website will make a call to it.
-- It will notify on your devices and can choose to login.
+- The browser or OS will have your personal profile URL.
+- A website will make a call to your personal profile with a login-key.
+- The user can then accept the login key if its new, or login with a previous key.
 
 # Storage Categories
 
@@ -26,11 +25,15 @@ All receipts would have to include the JSON and UPC information.
 
 ## Homes
 
+## Medical Events
+
+Licensed POS systems would receive and send medical events to the personal profile.
+
 ### Home Automation Devices
 
 Home automation hubs can be added to your personal profile where their settings can be configured.
 
-## Wedding Ring
+## Bookmarks
 
 A link to a store where a women wants her wedding ring.
 
@@ -47,4 +50,8 @@ These are just "access" application services. They are not runnable application 
 
 # Vehicle Keys
 
-Vehicle keys would be in your public profile.
+Vehicles, and vehicle keys would be in your public profile.
+
+# Personal Profile Licensing Service
+
+A [personal profile licensing service](../personal-profile-licensing-agency/) would handle security to ensure various operating systems could only request certain information from the personal profile.

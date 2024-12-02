@@ -9,4 +9,5 @@ This would include:
 3. Internet IP Addresses
 4. American Internet IP Addresses
 
-5. GPS Locations
+5. GPS Locations, Date & Time
+6. IP Addresses, Start, End Date & Time

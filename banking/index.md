@@ -4,7 +4,7 @@ We will develop a local bank, where the federal reserve will connect us to the A
 
 Like the grant system the federal reserve will allocate capital based on categories and needs determined by the local banks planning loan officers.
 
-For example, if our market needs more chicken coupe management companies rates can be lowered accordingly, or a high rise building.
+For example, if our market needs more chicken coupe management companies rates can be lowered accordingly to meet the demand, if markets are over saturated rates can be raised.
 
 Each loan office would have discretion of their banks funds to provide loans that would be based on their licensing guidelines.
 
@@ -22,4 +22,5 @@ Any transactions that is processed will be sent to both the personal server and 
 
 [personal profile](/grants/personal-profile/).
 
-Any transactions that has a product safety issue will be able send the UPC information
+Any transactions that have a product safety issue will be able send the UPC information
+to the [product safety agency](/product-safety-agency/).

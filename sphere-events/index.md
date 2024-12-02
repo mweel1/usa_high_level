@@ -1,13 +1,15 @@
 # Sphere Events
 
-Federal, State, City, Home owners and Businesses would be able to geo-fence their areas which would event domain links, and/or native os-applications when a request was made by the [government OS service](/government-os-services/) for their current location.
+Federal and state spheres are set by their jurisdiction via .gov email addresses.
 
-Applications can be ordered in the sphere with categories based on the business type.
+Apps are approved as they are added by the jurisdiction.
 
-Imagine walking into a restaurant with you mobile device and press the sphere button on your mobile device where your menu would be provided, and other local services for the facility.
+Special Adventure District will have office that approves spheres with a .gov email addresses will be integrated permitting office where a spec will be defined in the g2g standards for other districts.
 
-Imagine going to a mountain bike park and receiving passes along with rules and regulations.
+Other districts that don’t support integrated business licensing will have to manually review business licenses before they approve businesses spheres and apps and keep up to date on them.
 
-Imagine driving into a city and your [car os](/vehicle-technology-act/) auto loads applications for city services of that specific city.
+The transportation authority in the district will also have spheres that can be updated in real time with a key.
 
-These events would be provided via the [government-os](/government-os-services/) and the host operating system must run the link in a browser, or open the application.
+Apple or Google cannot show these apps unless they are triggered by the provisioning process during os setup where a secure web socket receives all events from the sphere system, where they opt in on os startup.
+
+A history of applications will be available where they can be used out of context.

@@ -17,6 +17,8 @@ One might consider winding government offices down and start pulling off taxes a
 
 If we started self funding and closing government organizations citzens would have to be aware of inflation or deflation repercussions as best possible.
 
+We will call these cooperative government agencies and will have .cga domain name.
+
 ## Federal
 
 The grant system will receive an allocation from congress each year.

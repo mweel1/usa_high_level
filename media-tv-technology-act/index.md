@@ -30,6 +30,4 @@ All transactions will work with the [e-check](/e-check/) system for sale, and ot
 
 The market place can make their own distribution channels and pricing models, and secure wall gardens will have access to these servers.
 
-\*\* If you did have access to all media players, the media id could be paid for when its consumed.
-
-A [federal grant](/grants/) could be provided to develop these distribution channels to purchase and sell to the market in different ways.
+When purchasing these items there would be different price points based on their distribution. For example, if a documentary was being purchased at a movie theater a movie theater price would be billed.

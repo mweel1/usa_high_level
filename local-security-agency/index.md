@@ -1,6 +1,6 @@
-# National Security Agency (nsa.gov)
+# Local Security Agency (lsa.gov)
 
-The National Security Agency acknowledgement statement would be provided to the citzens under United States Law that on the issuance of a [warrant](/warrant-gov/) or emergency order the National Security Agency could:
+The Local Security Agency acknowledgement statement would be provided to the citzens that on the issuance of a [warrant](/warrant-gov/) or emergency order the Local Security Agency could:
 
 - Allow government agencies the ability to login as the owner of the device.
 - Provide access to the device screens, and microphones.

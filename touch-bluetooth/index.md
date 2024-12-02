@@ -18,10 +18,14 @@ Trail Capitan application calls the touch bluetooth service and receives JSON wi
 
 Trail Capital application receives JSON and checks [ticketing system](/tickets/) for a valid ticket.
 
-# Single Receiver with RFID coin.
+## Single Receiver with RFID coin.
 
 Trail Capitan touches mtn bikers coin as receiver with dual display identification.
 
 The receiver shows the wallet request login id.
 
 The user logs in with their 4 digit code, the wallet request for mtn bike pass from wallet where its checked in the [ticket system](/tickets).
+
+## Touch Bluetooth Cache
+
+Touch Bluetooth Cache would be a native store on the phone that would sync any id set with local mode on the wallet in case the phone was disconnected during the touch process.

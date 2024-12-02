@@ -4,4 +4,7 @@ Instead of getting rid of the department of education, we will develop curriculu
 
 We will also develop a platform that ensures that when children are attending school, that they are meeting the requirements of these standards across various schools.
 
-The first grant will be mountain bike educators where curriculum be defined.
+The first grant will be for the following education groups:
+
+- Mountain Bike educators where curriculum be defined
+- Hiking Educators

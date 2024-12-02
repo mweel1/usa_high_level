@@ -43,10 +43,14 @@ Once their government ID has been saved into the operating system they would nee
 
 - [FBI](./fbi). This would allow the FBI to use your location if you were near an active investigation and would be need to be contacted for questioning.
 
+- [Sphere Events](/sphere-events/). This would setup a channel to receive application events when users were in certain areas and pressed the sphere zone option on their operating system.
+
+- FCC Emergency Communication System [ecs.gov](/ecs-gov). To receive emergency communications from government agencies.
+
+- [Local Dispatch](./local-dispatch/) is a communication channel that allow operating systems to communicate with local dispatch systems.
+
 Operating Systems with shared datastores may use these authorizations (for example ICloud, etc)
 
 For vehicle OS's the following services would have to be authorized:
 
 [Federal Roadway Signs](/federal-roadway-signs).
-
-- FCC Emergency Communication System [ecs.gov](/ecs-gov). To receive emergency communications from government agencies.

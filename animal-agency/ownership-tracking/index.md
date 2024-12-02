@@ -6,7 +6,7 @@ When an animal is born, the breeder would log-in and register the breed where a 
 
 ## Transfer of ownership
 
-At any-time the owner can transfer the chip to another owner where they would become the owner.
+At any-time the owner can transfer the chip to another owner where they would become the owner via e-mail address if they were allowed to purchase animals.
 
 ## Finding Lost Animals
 
