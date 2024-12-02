@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "The American Internet"
+  name: "The Silverado Network"
   tagline: "Making the internet safe and secure for countries while providing opportunities for the marketplace."
 ---
 
