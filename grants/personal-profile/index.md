@@ -8,7 +8,12 @@ All personal profile servers must protect from key attacks.
 - A website will make a call to your personal profile with a login-key.
 - The user can then accept the login key if its new, or login with a previous key.
 
-# Storage Categories
+
+# Public API
+
+- Language Code
+
+# Protected Storage Categories
 
 ## Address Information
 
