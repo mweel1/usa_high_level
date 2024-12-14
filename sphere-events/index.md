@@ -16,4 +16,4 @@ A history of applications by will be available where they can be used out of con
 
 For spheres where tight accuracy is needed an SSID registry will be created where applications and links can be associated to a network where they are triggeres on connection.
 
- 
+ Operating systems must accept control commands.  for example an ebike on a trail, or a camera during a concert on the floor.
