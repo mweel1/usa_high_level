@@ -12,4 +12,8 @@ The transportation authority in the district will also have spheres that can be 
 
 Apple or Google cannot show these apps unless they are triggered by the provisioning process during os setup where a secure web socket receives all events from the sphere system, where they opt in on os startup.
 
-A history of applications will be available where they can be used out of context.
+A history of applications by will be available where they can be used out of context.
+
+For spheres where tight accuracy is needed an SSID registry will be created where applications and links can be associated to a network where they are triggeres on connection.
+
+ 
