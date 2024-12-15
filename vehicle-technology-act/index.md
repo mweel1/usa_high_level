@@ -19,3 +19,4 @@ The war between the mobile companies and in-car informatics systems has left the
 - All vehicles must provide a single operating system. If Apple, Google and others want to play in the market they must provide an in-car operating system, not requiring a user to have a phone.
 - All operating systems must operate on any screen configuration so it can be transferable between vehicles.
 - All vehicle operating systems must be approved by the NHTSA before being released based on their requirements.
+- Authwntication happens with a camera that must be installed on all vehicles, or code entry.

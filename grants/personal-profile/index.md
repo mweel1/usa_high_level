@@ -115,7 +115,12 @@ Debit card would be added by oAuthing to your bank where the source account ids 
 
 When accounts are transacted it will use the [United Stated Debit System](/debit) to process transaction between two parties.
 
-# Storage Categories
+
+# Public API
+
+- Language Code
+
+# Protected Storage Categories
 
 ## Address Information
 
