@@ -6,6 +6,4 @@ Jurisdictions could query the FBI services for example a police department could
 
 The results would return not only the individuals in that area but also the criminal records associated with them.
 
-A warrant would need to be provided via the [warrant system](/warrant-gov/).
-
 Geo-fencing could also be setup for example a restraining order of two individuals could be setup where if one person came in with a certain area of another it would alert the person with the restraining order, where they could call the police via their [government os](/government-os-services/).

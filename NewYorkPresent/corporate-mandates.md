@@ -11,6 +11,11 @@ One operating system for Vehicles.
 - Enforce Category Types of Content
 - Have Open AI create content protection when posting messages to social media
 
+## Content Filtering on all messaging applications
+
+- Provide content filtering on all messaging applications
+- Work with Apple and Google on which messaging applications can be used in the market.
+
 ## Gov ID registration on domain names
 
 - When registering domains, a user must provide ID.

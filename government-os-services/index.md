@@ -51,6 +51,8 @@ Once their government ID has been saved into the operating system they would nee
 
 Operating Systems with shared datastores may use these authorizations (for example ICloud, etc)
 
+[Personal Profile](/grants/personal-profile/) Personal Profile will be attached to allow the operating system to interact with the personal profile. A secure socket will be created for notifications that will have a URL associated with them.
+
 For vehicle OS's the following services would have to be authorized:
 
 [Federal Roadway Signs](/federal-roadway-signs).

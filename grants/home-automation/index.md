@@ -10,4 +10,5 @@ The TV box has a thread enabled device that turns it on and off, and has menu co
 
 Any speakers that are connected to the TV thread device will also have volume controls.
 
-If you want to play music, your TV will be connected to your personal music collection and subscriptions.
+If you want to play music, your TV will be connected to your personal music collection and subscription.
+

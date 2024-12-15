@@ -23,23 +23,17 @@ If one chooses they can goto [banking services](./banking-services/) and receive
 
 Apple and Google release a sphere capability with the FCC based on [sphere events](/sphere-events/).
 
-This loads an interface which includes all the applications for the Santiago Park at the "City" Level.
+This loads an interface which includes all the applications for the Santiago Park at the "District" Level.
 
 One of the first applications would be to buy a pass for the park.
 
-# Setup Park Wallet
+# Social Security Personal Profile
 
-If you currently do not have a wallet setup:
+The social security will release a [personal profile](/grants/personal-profile/) that will allow people to:
 
-Depending on the wallet contents a synchronization occurs between the mobile wallets on the mobile phone and personal profile wallet where you can confirm the addition, update and removal of items, including:
-
-1. Debit Cards
+1. Add government Id
 2. Credit Cards
-3. Identification in Clear Text and Image
-
-A secure connection to the resort bank is made between the wallet the resort bank.
-
-This would be a feature released by the National Parks on mobile phones.
+3. Debit Cards
 
 # Purchasing a Pass
 
