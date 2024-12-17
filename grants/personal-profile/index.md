@@ -68,38 +68,46 @@ The key will be stored in the Windows Data Protection API (DPAPI)
 
 ####
 
-# Login to Websites
+# Login to Websites and Applications
 
-- The browser and eventually the OS will have your personal profile URL. Which will be your SSN.profile.
+- The OS will have your personal profile URL. Which will be in the URL form of SSN.profile.
 
-- A web page can request the personal profile url, and device name.
+- When using an application or browsing a website. These applications can use the personal profile to login.
 
-- From the server, a request will be made to the personal profile for a login passkey with the device id.
+- The host operating system will have a channel to the personal profile. A website or application can use the operating system channel to request a one-time auth key which is passed to an application server where the authorization or authentication process can be proceed.
 
-If a key for the domain is not found the authenticator applications will request to sign-up, upon accepting sign-up the authenticator app will always launch that domain with at the /sign-up url after confirmation ensuring your are logging into the correct the domain.
+If a key for the domain is not found the authenticator applications will accept a key from the calling the site, where the key and meta-data will be stored upon confirmation.
 
-If a key for the domain is already found, and you choose to login you always be directed to the domain with /logged-in.
+If a key for the domain is already found, it's returned to the calling application along with any meta-data associated with they key.
 
 # Login to 3rd party key services.
 
 When you make an initial connection to a 3rd party API service they will provide a 3rd party application auth key that will:
 
-1. Allow you to retrieve an application key for 3rd party applications.
-2. Receive the scopes of a 3rd party application.
+1. Allow you to retrieve an application key for direct 3rd party application access.
+2. Receive the scopes of the 3rd party application and present them.
 
-When a 3rd party application is installed against a 3rd party service:
+When a 3rd party application is installed with another 3rd party application:
 
 1. The 3rd party application scopes are provided to the user.
 
 2. The user will ack those scopes.
 
-3. The 3rd party service will provide an authorization key to the 3rd party application.
+3. The 3rd party service will provide an authorization key to the source 3rd party application to the destination 3rd party application.
 
 # Government Id
 
-We will use a government id validation service and add the image. All operating systems must provide a frame around the ID. Operating systems must now show this frame under any other circumstances.
+We will use a government id validation service and add the front and back image. All operating systems must provide a frame around the ID when presenting people. Operating systems must not show this frame under any other circumstances.
 
 In the future, users will be able to oauth to their department of motor vehicles to add their state ID. All DMV offices must have an e-mail on file for all licenses issued.
+
+Once a government Id is added, a service will be available to verify age.
+
+An attribute can be passed where an age verification can complete with parents approval.
+
+# Parents
+
+If a government Id is uploaded of a person under the age of 18, at least 1 parent must be associated to the account to provide services for the child where needed.
 
 # Credit Cards
 
@@ -113,8 +121,7 @@ All payment gateways must accept these keys when processing payments.
 
 Debit card would be added by oAuthing to your bank where the source account ids would be provided as a key along with the accounts.
 
-When accounts are transacted it will use the [United Stated Debit System](/debit) to process transaction between two parties.
-
+When accounts are transacted with a 3rd party process these cards will use the [United Stated Debit System](/debit) to process transaction between two parties.
 
 # Public API
 
@@ -133,39 +140,76 @@ All receipts would have to include the JSON and UPC information.
 
 ## Date of Birth
 
-## Homes
+## Owned Homes
+
+All title transfer companies must accept a personal profile URL to set details about the home, or it can be manually entered.
+
+## Rented Homes
+
+All rental agreements must use the personal profile URL to set rental information, or it can be manually entered.
 
 ## Medical Events
 
-Licensed POS systems would receive and send medical events to the personal profile.
+Licensed medical systems would receive and send medical events to the personal profile.
 
 ### Home Automation Devices
 
-Home automation hubs can be added to your personal profile where their settings can be configured.
+[Home automation hubs](/grants/home-automation/) can be added to your personal profile where their services can be shared.
 
 ## Bookmarks
 
-A link to a store where a women wants her wedding ring.
+- Bookmarks can have multiple categories.
+
+- Bookmarks can be saved from the browser, and all native applications must have bookmarking functionality along along with optionally having deep linking capabilities.
 
 ## Contacts
 
-When adding a contact you can add it in clear text, or you can have a direct API link to another contact so when there information so does yours.
+When adding a contact you can add it in clear text, or you can have a direct API link to another contact so when there information changes so does yours.
 
 ## Communication
 
-Communication lines can be setup between personal profile to make voice calls, and text messaging services.
+[Communication lines](./communication/) can be setup between personal profile to make voice calls, and text messaging services.
+
+# Untied States Post Office
+
+The USPO would manage all the mail where all communications would be routed through the USPO for national security purposes.
+
+All mail would have to have a category when sent.
+
+There would be special govt in-box, and a public in-box.
+
+Any mail readers that accessed the the in-boxes would have the following requirements for govt emails when received:
+
+1. It would have to show the government agency associated with the e-mail.
+2. A special inbox for govt communications only.
+3. Provide alerts for critical e-mail(s).
+4. Provide a confirmation status they received the e-mail when read.
 
 # Application Store
 
 An application store would be available to use your personal information.
-The application can subscribe to events in your personal profile, or access personal profile information.
+Associated applications can:
 
-These are just "access" application services. They are not runnable application services.
+- Subscribe to events in your personal profile
+- Access personal profile information.
+- Provide access keys for application to application communication.
 
-# Vehicle Keys
+# Storage
+
+A storage provider can be attached to a personal profile where folders and files can be managed. For example i-cloud, DropBox, and more. All storage facilities must provide a transfer capability if people want to switch.
+
+# Keys
+
+All keys can have meta-data associated with them along with the key. For example, a hotel room might have meta data around the room #. Furthermore keys can be issued where applications and URls are associated where applications would have direct access to the keys contents without a permission request. For example a hotel can provide a key and hotel automation system could have access to that key to receive meta-data, for example the room #.
+
+## Vehicle Keys
 
 Vehicles, and vehicle keys would be in your public profile.
 
+## Hotel Keys
+
+Hotel keys can be provided to your personal profile.
+
 # Personal Profile Licensing Service
 
-A [personal profile licensing service](../personal-profile-licensing-agency/) would handle security to ensure various operating systems could only request certain information from the personal profile.
+A [personal profile licensing service](../personal-profile-licensing-agency/) would handle security to ensure only certain operating systems could only request certain information from the personal profile. For example Apple would be a license provider to handle authorization events from the personal profile. All licensed applications would be logged in the personal profile for foul play.

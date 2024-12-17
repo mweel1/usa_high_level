@@ -32,17 +32,15 @@ Once approved the e-mail address would be assigned to the correct government age
 
 Before a message would be sent to the population it would have to be approved by a pre-assigned quorum of members of the agency. There can be many predefined messages for each government agency, or they can customize one.
 
-A list of citzens can be queried from the [citizen contact data warehouse](./citizen-contact-datawarehouse/) by jurisdiction.
+A list of citzens can be queried from the [citizen contact data warehouse](./citizen-contact-datawarehouse/) based on the jurisdiction the user is logged into and assigned to.
 
 ## Devices
 
-All physical communication devices would be registered with the Emergency Communication System where they would be notified in case of emergencies also.
-
-Priorities would be set on devices in case agencies messages were overlapping.
+All physical communication devices/operating systems would be registered with the Emergency Communication System where they would be notified in case of emergencies also during the [operating system setup](/government-os-services/) process.
 
 ## Location Based Emergency Messaging
 
-In the case of location based messages a geo-fence can be provided to the [citizen contact data warehouse](./citizen-contact-datawarehouse/) from an agency where a list of all information would be returned including e-mail addresses, and mobile numbers.
+In the case of location based messages a geo-fence can be provided to the [citizen contact data warehouse](./citizen-contact-datawarehouse/) with an agencies jurisdiction from an agency where a list of all information would be returned including e-mail addresses, and mobile numbers.
 
 Some uses for this technology would be:
 
@@ -51,7 +49,7 @@ Some uses for this technology would be:
 - A serial killer on the loose in an area
 - A lost dog
 - Active shooter at school
-- Emergency vehicles could will emit its location and send messages to turn down the car radio and alert to pay attention for siren noises.
+- Emergency vehicles would emit its location and send messages to turn down the car radio and alert to pay attention for siren noises as it drives down the street.
 
 ### Message Requirements
 

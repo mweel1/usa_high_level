@@ -74,6 +74,8 @@ Here are a few grants I would propose on this system:
 
 - [micro-industrial revolution](./micro-industrial-revolution/)
 
+- [Drone Registry](/grants/drone-registry/) will allow jurisdictions to find owners of drones.
+
 I suggest all grant money comes from the military as we move to more local processes our need for oversea adventures will be diminished.
 
 I would also like to see the United State's export this technology to give us a good standing in the world again.

@@ -72,6 +72,8 @@ Once content is approved it is watermarked with a provided [content id](./conten
 
 Once content is approved the customer is notified with the [approved content information](./approved-content-information).
 
+Anyone hosting content or distributing content without permission will be tried in [jury service](/jury-service/) where they can loose their ability to operate an American Internet domain.
+
 ## Government Agent Portal
 
 The government agent portal provides all the functionality to allow government agents the ability to decline or approve content.

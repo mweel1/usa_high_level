@@ -1,6 +1,6 @@
 # Citizen Data Agency
 
-The citizen data warehouse will be a data warehouse of all citizens in the united states and any information would have available about them.
+The citizen data agency will be a data warehouse of all citizens in the United States and any information would have available about them.
 
 This would include:
 
