@@ -210,6 +210,16 @@ Vehicles, and vehicle keys would be in your public profile.
 
 Hotel keys can be provided to your personal profile.
 
+# Government Border & Animation
+
+A secure, animated border would appear around certain items on a phone, originating from a personal profile, and visible only when shared publicly. This border and animation would be impossible to replicate using the phone itself.
+
+These borders would apply to:
+• Government IDs
+• Tickets
+
+Only licensed services would be authorized to update these documents.
+
 # Personal Profile Licensing Service
 
 A [personal profile licensing service](../personal-profile-licensing-agency/) would handle security to ensure only certain operating systems could only request certain information from the personal profile. For example Apple would be a license provider to handle authorization events from the personal profile. All licensed applications would be logged in the personal profile for foul play.

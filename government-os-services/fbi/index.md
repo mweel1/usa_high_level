@@ -11,3 +11,5 @@
 - All networks that created across b2b and b2c will be available for the FBI to monitor as their b2b and b2c connections and are trending. For example, a photographer my associate their work to many photographic social networks that could have security implications. Using the American Internet DNS logging systems will also be available to find up and coming popular networks.
 
 - Citizens will have an option with their personal profiles to report any unlawful or deceitful requests from 3rd parties, where the FBI can track, manage, warn, and file claims in domain court.
+
+- Courts can provide no entry zones for citzens. For example, a person with 5 DUIs could not enter a bar, or a child molester could not enter a school zone.
