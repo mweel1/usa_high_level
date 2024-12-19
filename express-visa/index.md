@@ -10,4 +10,8 @@ Participants would be provided a .express-visa e-mail address along with a bank 
 
 Any hiring of legal immigrants would have to pay through the bank account and verify e-mail address each day of work.
 
-Each country would have a tax bracket.
+Each country would have a tax bracket. 
+
+It would be illegal to leave the country with cash or send it abroad.
+
+
