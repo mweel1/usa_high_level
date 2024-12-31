@@ -10,15 +10,13 @@ While serving, I swore to uphold the Constitution, which created a passion withi
 
 During my time in these institutions, I organized and refined my ideas, convinced that technology could revolutionize how public services are delivered. Upon release, I found myself at a halfway house, where I developed software for a company my brother worked at, slowly getting back on my feet. However, I remained driven by the need to solidify my vision for technological innovation in government.
 
-The ideas I propose are a direct response to the issues I have heard from various levels of government. This proposal outlines technology-driven solutions aimed at improving government services and addressing public sector challenges.
-
-Today I am just sharing with you the high-level projects, but details can be worked on together on based on America's priority.
+The ideas I propose are a direct response to many many years of dealing in this domain. This proposal outlines technology-driven solutions aimed at improving government services and addressing public sector challenges.
 
 I am providing this to you first because I respect the compassion we all have to make the United States a better country for its citizens and I would like you to help me garner as much support as possible for any of these projects you agree with.
 
 Best Regards,
 
-Marty Weel
+Martin D. Weel
 Fellow Constituent
 
 949-537-1738

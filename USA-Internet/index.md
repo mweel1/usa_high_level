@@ -65,10 +65,6 @@ The goal of application zones is to bridge the gap between the physical world an
 
 Validation of all operating system releases, browsers, and e-mails clients are required to ensure that all services meet applicable laws and regulations during the [OS and application certification process](/os-certificiation-process/).
 
-## 3rd Party Application Licensing
-
-A licensing service will be deployed to ensure only certain 3rd party applications can update certain information in a personal profile. For example ticket agencies would only be able to update ticket information in the personal profile if they were licensed.
-
 ## Domain Claims Court
 
 The Domain Claims Court is a jury based system where complaints are processed and managed.
