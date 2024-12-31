@@ -1,3 +1,9 @@
 # Voting
 
-You would create a ballot. Get a random printed QR Code, and then view the database.
+Various jurisdiction will provide a ballot.
+
+A citizen must provide an American Issued Government ID.
+
+When the citizen goes to vote they will receive a QR Code with a public ID.
+
+That QR Code will go to an open database with the public IDs and show the result of ballot items.

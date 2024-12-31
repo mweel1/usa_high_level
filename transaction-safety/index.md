@@ -15,3 +15,7 @@ The pharmaceutical safety services would require POS systems at pharmacies to se
 # Gambling
 
 Many people have lost their life savings to gambling. These transaction rails would ensure if someone was isn't in the position to be gambling safely they wouldn't be able to.
+
+# Pregnancy
+
+Many products can not be purchased when women are pregnant.

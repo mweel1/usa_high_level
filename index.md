@@ -11,11 +11,13 @@ hero:
       link: /bio
 
 features:
-  - title: Government Services for Operating Systems
-    details: A set of government services that integrate with mobile phones, car operating systems, TV systems, and gaming systems to bridge communication gaps between the government and its citizens. Today we depend on corporations to handle governmental roles in our devices, and the further they take those roles on the further our risk is increased of governmental takeover.
+  - title: Personal Profile
+    details: A personal profile is a personal server of sorts thats allows citizens to store information that is related to them.
+    link: /grants/personal-profile
 
-  - title: American Internet
+  - title: United States Internet
     details: Making the internet safe and prosperous for American citizens by providing a private domain system. Which includes licensing capabilities, revocation capabilities, government ID verification, and content filtering and security using Artificial Intelligence.
+    link: /USA-internet
 
   - title: Real-time E-Check System
     details: A real-time e-check system will allow American citizens to transfer money electronically in real-time with no costs to each other. A jury system that allows judgement against buyers and sellers where domains can be fined and/or revoked for fraud.
@@ -38,11 +40,8 @@ features:
   - title: Open Voice Assistant
     details: Regulations for AI voice assistants to be configurable on mobile phones and other environments, ensuring open access to various marketplace assistants.
 
-  - title: Virtual Sphere Events
-    details: Virtual sphere events would have capability at federal, state, and city levels, allowing GPS geo-fencing where much like plots of land, when a user in a certain area can press a button and get applications that pertain to that area.  For example going to a restaurant and getting the menu, or going to a parking garage and purchasing a parking pass, or going to a state park and getting trail maps.
-
   - title: StarLink Satellite Network
-    details: Collaborate with the United Nations and the USA to make the StarLink Satellite system an FCC asset and allow the public to sell Wi-Fi devices under their own businesses in a unified sales platform.
+    details: Collaborate with the United Nations and the USA to make the StarLink Satellite system an FCC asset and allow the public to sell Wi-Fi devices under their own businesses in a unified sales platform.  In exchange a contract will be provided to Elon Musk to provide real-time details of the earth's surface much like Google Maps displays data today.
 
   - title: Artificial Intelligence Protection Agency
     details: Tools and technologies to evaluate AI models and understand political intents behind foreign actor AI models.  For example, you could have an Anthropic (USA) vs. Qwen (Chinese) debate on whether Taiwan is a Chinese owned country or an independent country.  These type of policy questions/conflicts can be debated between AI models, and you can have deep insights into the AI’s training models to uncover their true intent.  This product is already completed.
@@ -62,9 +61,11 @@ features:
 
   - title: Safe Passage
     details: A technology platform for at-risk homeless individuals and/or families to find safe housing regardless of their circumstances.
+    link: /safe-passage
 
-  - title: Vehicle Technology Act
+  - title: National Highway Traffic Safety Administration (NHTSA)
     details: Today car manufacturers and phone providers are fighting over the cars infotainment systems.  The vehicle technology act would allow buyers of cars to install their own operating systems in the car so the user can have a single easy to use interface while driving. Operating systems would be transferable from car to car.
+    link: /vehicle-technology-act
 
   - title: Television Technology Act
     details: Enforcement of a single operating system on the TV's that can be installed by the customer.  Again, Apple/Google/Amazon and TV manufacturers are fighting over control of the TV which has made it extremely difficult for the consumer to navigate and use.
@@ -100,4 +101,12 @@ features:
   - title: Animal Control Agency
     link: /animal-agency
     details: The animal control agency would allow supply and demand for animal populations along with registration, transfer, validation of animals.
+
+  - title: CDC
+    details: The center for disease and control will provide real-time test results from testing facilities, unknown diseases will have containment plans for jurisdictions. Where people will be notified via the [emergency notification system](/ecs-gov/) to stay in doors.
+    link: /cdc
+
+  - title: Trade School Accountability Act
+    details: Provide people with the training and job placement where resources are needed in the private market place to reduce immigration.
+    link: /trade-school-accountability-act
 ---

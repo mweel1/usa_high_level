@@ -17,9 +17,14 @@ The citizen contact data warehouse would be a single location where every citize
 
 This information would be derived from all possible sources of data to be up to date and accurate.
 
+The jurisdictions in which they reside.
+
 All GPS coordinates would need to be provided by cell phone carriers every 5 seconds.
+
+Identification Pictures
 
 The following agencies can query information from this database:
 
 [Emergency Contact Services](/ecs-gov/).
 [FBI](/fbi)
+[Census](/e-census/)

@@ -1,8 +1,8 @@
-# Content Filtering and National Security Services
+# Content Moderation
 
 ## Summary
 
-In today’s market, the responsibility for filtering illicit content falls on content providers, and finding those providers is largely driven by platforms like Google. This creates challenges for both the government and the market in ensuring safe content for public consumption, including:
+In today’s market, the responsibility for filtering illicit content falls on content providers, and searching for those services is largely driven by platforms like Google. This creates challenges for both the government and the market in ensuring safe content for public consumption, including:
 
 - The government having to collaborate with many content providers, each with their own technologies and enforcement policies. Managing a large number of providers is impractical.
 - Even if rules are clearly defined, enforcement and monitoring across various content providers is difficult.
@@ -29,11 +29,10 @@ When a content provider signs up the following information will be required to r
 - Must provide [gov-id](/government-os-services/id-gov/).
 - Provide [debit](/micro-debit/) or credit card.
 - A $500.00 dollar setup a fee is required (configurable).
-- Select city and state from the city/state table.
 - Must define if they are going to be providing explicit content.
 - A summary of the content service that they will be providing to the marketplace.
-- Enter domain in which the content filtering will be taking place for. This will be verified by e-mail address.
-- Register any e-mail addresses that have copyright(s) to be verified while submitting content.
+- Enter domain in which the content filtering will be taking place for. This will be verified by oAuth to the American DNS System for verification.
+- Register any personal profiles that have copyright(s) to be verified while submitting content.
 
 Before the content provider is approved, they must agree to the following terms and conditions:
 
@@ -45,16 +44,26 @@ If the user is over 18 and agree to the viewing of explicit content. the system 
 
 If the user is under 18 it must provide the [content categories for under 18](./content-categories-for-18-under/).
 
-#### Content Provider Content Uploading
+### Attach Media Server
 
-Once Content Provider Profile has been approved, they can upload content to the service.
+Once a profile is setup the user can oAuth to a media server where media servers are attached to their account.
 
-The following requirements are needed:
+### Attach Live Media Servers
+
+Once a profile is setup the user can oAuth to attach to live media servers where they are attached to the account.
+
+#### Media Content Profile
+
+Once Content Provider Profile has been approved, and the media servers are attached they can upload content to the service. Where a media content profile is created.
+
+The following requirements are needed when uploading content:
 
 1. Content Type Details
 2. Age Requirement
 3. Content Categories
 4. AI/Computer Generated (shown for at frame level)
+5. Media Server(s) to store on
+6. Public or Secure Content
 
 When content is uploaded a transaction fee is applied to the content provider based on the category pricing table.
 
@@ -70,9 +79,11 @@ Content provider profiles can be set to automatic approve, or go to the content 
 
 Once content is approved it is watermarked with a provided [content id](./content-id/), which can be decoded by media sites and reference any of the details about the content from content filtering services to meet the [media requirements](./media-requirements/) of displaying content.
 
-Once content is approved the customer is notified with the [approved content information](./approved-content-information).
+Once content is approved the customer is notified with the [approved content information](./approved-content-information), and the content is sent to their [media server(s)](./media-servers/).
 
 Anyone hosting content or distributing content without permission will be tried in [jury service](/jury-service/) where they can loose their ability to operate an American Internet domain.
+
+Copyright will be checked on the transfer of content between media servers, unless tested performance with AI can show otherwise.
 
 ## Government Agent Portal
 
@@ -84,6 +95,30 @@ The content queue management system is designed to allow government agents to ap
 
 Once content is approved the [approved content information](./approved-content-information) is sent to the content profile owner. If its declined the content provider is notified with the [decline information](./decline-content-information).
 
+## Checksum Check
+
+A checksum service will randomly check files on media servers to ensure the file hasn't been tampered with and disable if it has and alert the content provider and content filtering service agent.
+
 ## Content API
 
+## Meta Data
+
 The content API will allow any media service the ability to send a content-id and receive all media meta-data that is required along with the media to display the correct content splash screens.
+
+## Content Complaints
+
+All content can must have a complaint capability when showing it to the market place which will be sent to the content complaint API. If the agency finds the content to be in violation of its initial categories it can send a delete request to the [media server(s)](./media-servers/) in which its hosted on.
+
+# Live Content
+
+If a content provider is going to provide a live content stream they must meet all the requirements that static content does. However, instead of setting a media server to upload content to they will define a media streaming provider where they will stream to.
+
+All content streamed through live media server must go through the content filtering process for each frame.
+
+A one minute delay will be provided in the content to allow it to be monitored.
+
+Live media servers will event the personal profile of each stream received, where a list of content and the amount views will be shown.
+
+Agents must be able to go into content and view it and have a kill switch.
+
+Any content that is found to not have meet the initial media content profile will be reviewed where violations or the lost of account can be levied against the account.

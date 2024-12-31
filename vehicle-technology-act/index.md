@@ -14,6 +14,8 @@ The war between the mobile companies and in-car informatics systems has left the
 
 # Singe Vehicle Operating Systems
 
+The only requirement for the market place is that one operating system must be present. Otherwise car manufacturers can participate in the following:
+
 - The federal government will be provide a OS boot loader to allow for multiple operating choices in vehicles, around with an open market place to purchase these operating systems.
 - Using AI operating systems will be evaluated for their safety standards.
 - The federal government will take control of the standards between the vehicle and and operating systems that will be available to the market.
@@ -28,3 +30,4 @@ The war between the mobile companies and in-car informatics systems has left the
 - Provide AI bugs from driver assisted technologies to improve roadway design
 - Provide road condition information for example a pot hole that jolts the vehicle where it can be distributed to municipalities for repair.
 - Receive "hot" plates where video systems could provide locations of vehicles when scene by cameras
+- Provide the location of an intoxicated driver that might be hard breaking, via the [Highway Patrol](/highway-patrol) API.

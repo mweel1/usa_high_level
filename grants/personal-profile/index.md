@@ -1,160 +1,163 @@
-# Servers
+# Personal Profile
 
-All personal profile servers must protect from key attacks.
+When logging into the American Internet for the first time a citizen must create a personal profile from a licensed directory of personal profile providers.
 
-# Setup
+A personal profile is a personal server thats allows citizens to store, receive and send information that is related to them. A personal profile can be used for many purposes including but not limited to:
 
-## Multi-Tenant Personal Profiles
+1. Logging into operating systems.
+2. Storing government issued documents.
+3. Receiving and storing information from 3rd parties after a transaction.
+4. Storing access keys to 3rd Party Services, for example an AI Assistant or Vehicle Services.
+5. Authorizing and storing keys to government services to allow operating systems to interact with government services.
+6. Storing keys to login into domains and native applications.
 
-Multi-Tenant personal profiles can bet setup where a provisioning process will be provided where the personal profile e-mail and password is stored along with a tenant id.
+# Security
 
-## Single Server
-
-The initial setup will setup a personal profile. The personal profile will be encrypted with a passphrase and an e-mail address where it can be recovered or changed.
-
-## Authenticator Setup
-
-When installing an authenticator application to a personal profile you will use your password to make the connection to the personal profile, where the personal profile will oAuth to the personal profile and receive a JWT & refresh token and make a socket connection. The authenticator app will provide also provide a device id.
-
-Once authenticated a private channel will be created on the pusher server and returned to authenticator.
-
-The socket connection will make a connection to a private channel on pusher.
-
-Once the social security office implements this, the authenticator process will be part of any operating system that is setup where the unique id of the device will be available to the browser along with the profile.
-
-Applications that use personal servers must register their domain, where a public key will be provided to interact with personal servers.
-
-## Login Procedures
-
-### Signing Up
-
-The login application will request the following from the browser/os:
-
-    - Device Id
-    - Personal Profile Url
-
-Once received, it will send a request to the personal server for sign-up which will include:
-
-    - Permissions Requested
-        - Internal Data
-        - 3rd Party Services
-    - AccountGuid
-    - Public Application Id
-
-The personal server will also provide any other logins for this public application.
-
-Once accepted the personal server will store the AccountGuid and and the returned login key, and call the URL set in the personal profile application settings that the account is logged in.
-
-The login application will then set a server side cookie with a JWT or other session.
-
-## Logging In
-
-When logging into an application it will request the following from the browser/os :
-
-- Personal Profile Url
-- Device Id
-
-## Security
-
-The JWT and Refresh Key will be stored encrypted in the user folder with where the key will be stored.
-
-### Mac / Apple Phone
-
-The key will be stored in Mac keychain.
-
-### Windows
-
-The key will be stored in the Windows Data Protection API (DPAPI)
-
-####
-
-# Login to Websites and Applications
-
-- The OS will have your personal profile URL. Which will be in the URL form of SSN.profile.
-
-- When using an application or browsing a website. These applications can use the personal profile to login.
-
-- The host operating system will have a channel to the personal profile. A website or application can use the operating system channel to request a one-time auth key which is passed to an application server where the authorization or authentication process can be proceed.
-
-If a key for the domain is not found the authenticator applications will accept a key from the calling the site, where the key and meta-data will be stored upon confirmation.
-
-If a key for the domain is already found, it's returned to the calling application along with any meta-data associated with they key.
-
-# Login to 3rd party key services.
-
-When you make an initial connection to a 3rd party API service they will provide a 3rd party application auth key that will:
-
-1. Allow you to retrieve an application key for direct 3rd party application access.
-2. Receive the scopes of the 3rd party application and present them.
-
-When a 3rd party application is installed with another 3rd party application:
-
-1. The 3rd party application scopes are provided to the user.
-
-2. The user will ack those scopes.
-
-3. The 3rd party service will provide an authorization key to the source 3rd party application to the destination 3rd party application.
+The personal profile will be encrypted with a passphrase and an e-mail address where it can be recovered or changed.
 
 # Government Id
 
-We will use a government id validation service and add the front and back image. All operating systems must provide a frame around the ID when presenting people. Operating systems must not show this frame under any other circumstances.
+When adding a government Id. The front and back picture must be taken, where the government id will be used to verify the user with a video, and out of pocket questions.
 
-In the future, users will be able to oauth to their department of motor vehicles to add their state ID. All DMV offices must have an e-mail on file for all licenses issued.
+When presenting the id in public, attendants have 2 options, the citizen can show their ID's image where an animated government seal will surround the ID, or the bar code can be scanned on the back of the ID for further verification.
 
-Once a government Id is added, a service will be available to verify age.
+Government seals can only be shown when presenting their respective document. Under no circumstances will the operating system allow this framed image to be shown, or created on the operating system unless it comes directly from a personal profile.
 
-An attribute can be passed where an age verification can complete with parents approval.
+If this impacts Plaid's business enough we will acuire it.
 
-# Parents
+# Passport
 
-If a government Id is uploaded of a person under the age of 18, at least 1 parent must be associated to the account to provide services for the child where needed.
+If a user is not a citizen of the United States they can upload a passport where its verified along with creating an [express visa account](/express-visa/).
 
-# Credit Cards
+# Government OS Services
 
-Card companies will provide a directory of issuing banks based on the card number.
+Once the user is validated with a government Id, or Passport they will authenticate to [government OS services](./government-os-services/) where the keys of these government services will be stored in the personal profile which will allow operating systems to communicate with the government.
 
-When adding a card, the wallet will contact the issuing bank where a key will be provided for the card.
+# Authorization Setup
 
-All payment gateways must accept these keys when processing payments.
+Today its very difficult to log-in to websites. There many, many authorization applications which make it confusing and difficult for users. Since the authorization process is "flat", you have to fill out captchas and "are you a robot" forms. Using a personal profile for authorization will remove these issues.
 
-# Debit Cards
+As part of the binding process the operating system will ask the user what authorization the method the user would like to use for normal authorization requests, and critical authorization requests. For critical authorization requests it will be highly recommended to use a pin.
 
-Debit card would be added by oAuthing to your bank where the source account ids would be provided as a key along with the accounts.
+When the operating system receives a request for login it will use the JWT and send a login request with the domain name.
 
-When accounts are transacted with a 3rd party process these cards will use the [United Stated Debit System](/debit) to process transaction between two parties.
+The operating system will then provide the authorization to the user based on their settings.
 
-# Public API
+# Login to Websites and Applications using Pass Keys
+
+- The OS will have your personal profile URL. Which will be in the URL form of SSN.profile.
+
+- When using an application or browsing a website. These applications can use the personal profile to login via JavaScript SDKs, or Native application SDKs.
+
+- The host operating system will have a channel to the personal profile. A website or application can use the operating system channel to request a one-time auth key which is passed to an application server where the authorization or authentication process can be proceed.
+
+If a key for the domain is not found the authenticator applications will accept a key from the calling the domain, where the key and meta-data will be stored upon confirmation. The key must be 4096 bytes.
+
+If a key for the domain is already found, it's returned to the calling application along with any meta-data associated with they key where the login process can proceed to various account services for the application (selecting a user, filling out user information, etc)
+
+The following will be stored with login pass keys:
+
+- General application
+- Domain Name
+- Operating Systems Id
+- Device Id
+- Cancellation Link
+
+# Login to 3rd party key services
+
+The personal profile can connect to 3rd party services, this will allow users 3rd party services to interact with each other.
+
+For example, I could setup an AI Assistant.
+
+When I setup my operating system it would request access to this 3rd party service where it can interact with it based on an common API.
+
+# Legal Guardian
+
+If a government id is uploaded of a person under the age of 18, at least 1 legal guardian must be associated to the personal profile or a legal guardian to the account to provide services for the child where needed. This is done by uploading the birth certificate where the birth certificate would ideally be verified by the issuing state.
+
+Anytime an ID is checked with a parent and an adult (for example an airport), any children on a missing persons list will be flagged.
+
+In the case of traveling by train, long haul bus, or air plane a guardian consent must be bound to the personal traveling with the child.
+
+# Personal Profile Storage Types
+
+## Public API
+
+Public APIs require no authorization process. For example, if I were to visit a website they can receive my language code in order to present the correct language to the user.
 
 - Language Code
 
-# Protected Storage Categories
+## Credit Cards
+
+Today we are riddled with Google Pay and Apple Pay if we allow these technologies to be the only solution to processing cards very difficult to untangle monopolies will be created.
+
+Card companies will provide a directory of issuing banks based on the card number.
+
+When adding a card, the wallet will contact the issuing bank where a authorization key will be provided for the card.
+
+When processing a payment this authorization key will be used to receive a one-time credit card key that will be used for the transaction.
+
+If the card is requested to be stored, a multi-use credit card key will be used. All stored card numbers that are issues will be stored in the personal profile with the domain for easy cancellation. A URL must be provided by the domain to send the cancellation to the domain.
+
+All payment gateways must accept these cards when processing payments.
+
+The personal profile will also provide callback URLs and header keys that will allow the debit system to update, change and delete cards.
+
+## Real-Time Check Processing
+
+The real-time check processing will be added by oAuth to the [The American real-time check system](/real-time-check-system/), where a list of accounts and an authorization key for each bank account will be stored to the profile, along with images.
+
+When processing a payment this authorization key will be used to receive a one-time debit card token that will be used for the transaction.
+
+If the card is requested to be stored, a multi-use debit card token will be used, where the domain and and token will be stored for easy cancellation. A URL must be provided by the domain to send the cancellation to the domain.
+
+The personal profile will also provide callback URLs and header keys that will allow the debit system to update, change and delete cards.
 
 ## Address Information
 
-- A website will call your personal profile requesting your billing or shipping address.
-- The OS will confirm that the website is requesting your address.
+Address information will be stored that will list all your residencies. A default can be set which defines your default residence.
 
 ## Receipts
 
-All receipts would have to include the JSON and UPC information.
+When receiving receipts from 3rd parties they must include all the receipt details along with a JSON file of the receipt contents. All receipts must include:
 
-## Date of Birth
+- Business Name, Address, Phone, Website, Email Address
+- Item UPC, Description, Price
+- Totals w/ Taxes
+- Link to cancel services
+
+When 3rd party systems request the receipt for display to the user the FDA authorization will allow the user to generate a link for each UPC item that can be clicked to report product issues.
+
+Receipts will be sent to Department of Health and Human Services (HHS) when received.
 
 ## Owned Homes
 
-All title transfer companies must accept a personal profile URL to set details about the home, or it can be manually entered.
+As the market adapts to the technology, all title transfer companies must accept a personal profile URL to set details about a users home that can be requested by the 3rd parties.
 
 ## Rented Homes
 
-All rental agreements must use the personal profile URL to set rental information, or it can be manually entered.
+As the market adapts to the technology,  
+All rental agreements must use the personal profile URL to set rental information.
 
 ## Medical Events
 
 Licensed medical systems would receive and send medical events to the personal profile.
 
+Licensed 3rd Party Applications can receive medical records if the user opts into it.
+
+All medial events will be sent to Department of Health and Human Services (HHS).
+
 ### Home Automation Devices
 
 [Home automation hubs](/grants/home-automation/) can be added to your personal profile where their services can be shared.
+
+### Trackable Devices
+
+All trackable devices that can be tracked must emit their locations to the persons trackable device locations with a discovery URL. These would include bluetooth enabled tracking devices and any other device that can emit its location.
+
+## Books
+
+A list of your purchased books in PDF format. These can be shared based on rights when purchasing, or transferred.
 
 ## Bookmarks
 
@@ -164,62 +167,65 @@ Licensed medical systems would receive and send medical events to the personal p
 
 ## Contacts
 
-When adding a contact you can add it in clear text, or you can have a direct API link to another contact so when there information changes so does yours.
+When adding a contact you can add it in clear text, or you can send a request to link directly to another contact so when there information changes so does yours or visa versa.
+
+## Current Job
+
+This will include your current place of employment and must be updated for each job you start, stop and apply for.
+
+## Calendar
+
+You can setup multiple calendars that can be shared and updated between between parties.
 
 ## Communication
 
-[Communication lines](./communication/) can be setup between personal profile to make voice calls, and text messaging services.
+[Communication lines](./communication/) can be setup between personal profile to make voice calls.
 
 # Untied States Post Office
 
-The USPO would manage all the mail where all communications would be routed through the USPO for national security purposes.
+The USPO would manage all the mail where all communications would be directed through a proxy server at the [National Security Agency](/national-security-agency/) where with warrants e-mails can be retrieved.
 
-All mail would have to have a category when sent.
+All mail must have to have a category when sent.
+
+Any mail could have a flag for instant delivery, where a user can disable when received from a sender to normal.
 
 There would be special govt in-box, and a public in-box.
 
 Any mail readers that accessed the the in-boxes would have the following requirements for govt emails when received:
 
-1. It would have to show the government agency associated with the e-mail.
+1. It would have to show the government agency associated with the e-mail along with a link.
 2. A special inbox for govt communications only.
-3. Provide alerts for critical e-mail(s).
-4. Provide a confirmation status they received the e-mail when read.
-
-# Application Store
-
-An application store would be available to use your personal information.
-Associated applications can:
-
-- Subscribe to events in your personal profile
-- Access personal profile information.
-- Provide access keys for application to application communication.
+3. Provide an alert for critical e-mail(s).
+4. Provide a confirmation status they received the e-mail when read, where a callback URL is called.
 
 # Storage
 
-A storage provider can be attached to a personal profile where folders and files can be managed. For example i-cloud, DropBox, and more. All storage facilities must provide a transfer capability if people want to switch.
+A storage provider can be attached to a personal profile where folders and files can be managed. For example I-Cloud, DropBox, and more. All storage facilities must provide a transfer capability if people want to switch.
 
 # Keys
 
-All keys can have meta-data associated with them along with the key. For example, a hotel room might have meta data around the room #. Furthermore keys can be issued where applications and URls are associated where applications would have direct access to the keys contents without a permission request. For example a hotel can provide a key and hotel automation system could have access to that key to receive meta-data, for example the room #.
+All keys can have meta-data associated with them along with the key. For example, a hotel room might have meta data around the room #.
 
 ## Vehicle Keys
 
-Vehicles, and vehicle keys would be in your public profile.
+Keys would be added to the personal profile by oAuth with the manufacturer along with meta-data.
 
-## Hotel Keys
+## Access Control Keys
 
-Hotel keys can be provided to your personal profile.
+Access control keys can be stored to provide access to buildings, hotels and other locations along with meta-data.
 
-# Government Border & Animation
+# Signed Documents
 
-A secure, animated border would appear around certain items on a phone, originating from a personal profile, and visible only when shared publicly. This border and animation would be impossible to replicate using the phone itself.
-
-These borders would apply to:
-• Government IDs
-• Tickets
-
-Only licensed services would be authorized to update these documents.
+All signed documents would be stored in your signed documents profile via the [e sign agency](/grants/e-sign-agency/). Anytime these documents are displayed in the operating system they would include the USA seal frame.
 
 # Personal Profile Licensing Service
 
-A [personal profile licensing service](../personal-profile-licensing-agency/) would handle security to ensure only certain operating systems could only request certain information from the personal profile. For example Apple would be a license provider to handle authorization events from the personal profile. All licensed applications would be logged in the personal profile for foul play.
+A [personal profile licensing service](../personal-profile-licensing-agency/) would handle security to ensure only certain operating systems and applications could only request or post certain information from the personal profile. For example Apple would be a license provider to handle authorization events from the personal profile.
+
+# Technical Requirements
+
+- All personal profile servers must protect from key attacks.
+- When logging in they can only login from the device they are using.
+- All applications that use personal servers must register their domain with the licensing service, where a public key will be provided to interact with personal servers.
+- All tokens that access the personal profile must be stored securely in the operating system.
+- All applications attached to your personal profile can be viewed were access can be revoked.

@@ -76,6 +76,12 @@ Here are a few grants I would propose on this system:
 
 - [Drone Registry](/grants/drone-registry/) will allow jurisdictions to find owners of drones.
 
+- [medical-testing](./medical-testing) grant objective will be to lower the cost of medical testing for citzens while reducing the need for insurance.
+
+- [pharmaceutical](./pharma) grants objective will be to lower the costs of pharmaceutical manufacturing, distribution and retail.
+
+- [Notary](./notary/) the notary service would allow licensed e-sign companies the ability to sign documents, and place them in the personal profile where a government seal would be placed around them with the peoples signatures whenever they are viewed on operating systems.
+
 I suggest all grant money comes from the military as we move to more local processes our need for oversea adventures will be diminished.
 
 I would also like to see the United State's export this technology to give us a good standing in the world again.
