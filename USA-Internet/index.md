@@ -56,7 +56,7 @@ The directory of the American Domain System would be publicly available along wi
 All domains that are registered on the American Internet DNS system can be registered to an [FCC application zone](./application-zones/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
 
 - You goto a concert and press the application zone on your phone and can purchase the concert.
-- You go into a city and press the application zone and get a map of the city.
+- You go into a city and press the application zone and get a map of the city, trolly locations, taxi services and much more.
 - You go on-line and select your housing community and select a used product marketplace site that allows the community to buy and sell products from each other.
 
 The goal of application zones is to bridge the gap between the physical world and virtual world with more context aware sites.
@@ -150,9 +150,8 @@ To begin to develop these standards we will start with the following use case:
 
 1. Allow an artist to post their music on .artist domain name and submit content to the moderation service and media server.
 2. Allow the artist to publish their music for discovery to various networks that they choose to allow preview of content.
-3. Allow a hotel to purchase their music from the artist while providing a commission to the network (if defined).
-4. Allow users to purchase music from live artists that are playing.
-5. Allow users to purchase the music when its playing throughout the hotel where it will be added to their [personal profile](/grants/personal-profile/) music catalog upon completion. The app will be launched using [application zones](/application-zones/).
-6. Order food from a local restaurant where its delivered via food delivery services.
-7. Order food at the restaurant
-8. Purchase tickets to a show
+3. Allow a hotel to purchase their music from the artist via a network.
+4. Allow users to press the application zone button and purchase music from a live artists that is playing, or provide a tip.
+5. Order food from a local restaurant where its delivered via food delivery services.
+6. Order food at the restaurant
+7. Purchase tickets to a show

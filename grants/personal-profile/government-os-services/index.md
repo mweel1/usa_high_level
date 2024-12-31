@@ -39,7 +39,7 @@ Allowing companies like Apple and Google to provide government services is probl
 
 - [FBI](./fbi). This would allow the FBI to use your location if you were near an active investigation and would be need to be contacted for questioning.
 
-- [Sphere Events](/sphere-events/). This would setup a channel to receive application events when users were in certain areas and pressed the sphere zone option on their operating system.
+- [FCC Application Zone](/application-zones). This would setup a channel to receive application zone details when users were in certain areas and pressed the application zone option on their operating system.
 
 - FCC Emergency Communication System [ecs.gov](/ecs-gov). To receive emergency communications from government agencies.
 

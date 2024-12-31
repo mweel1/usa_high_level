@@ -3,20 +3,21 @@ layout: home
 title: Home
 
 hero:
-  name: "A Government Roadmap of Revolutionary Technologies"
-  text: An offering for investment projects that prioritize American citizens' safety and prosperity, while creating more accountability for the government and its citizens.
+  name: "A Roadmap of Revolutionary Technologies"
+  text: An offering for investment projects that prioritize American citizens' safety and prosperity.
+  image: /img/usa2.jpg
   actions:
     - theme: brand
       text: About Martin Weel
       link: /bio
 
 features:
-  - title: Personal Profile
-    details: A personal profile is a personal server of sorts thats allows citizens to store information that is related to them.
+  - title: Social Security Personal Profile
+    details: The social security number has been used as an identify in the market place for decades.  We will extend this by developing a personal server for users that uses the social security number to share and receive information in the market place.
     link: /grants/personal-profile
 
   - title: United States Internet
-    details: Making the internet safe and prosperous for American citizens by providing a private domain system. Which includes licensing capabilities, revocation capabilities, government ID verification, and content filtering and security using Artificial Intelligence.
+    details: Making the internet safe and prosperous for American citizens by providing a private domain system. Which includes licensing capabilities, revocation capabilities, government ID verification, content filtering and security using Artificial Intelligence.
     link: /USA-internet
 
   - title: Real-time E-Check System
@@ -25,7 +26,7 @@ features:
 
   - title: Consumer Protection Agency
     link: /consumer-protection-agency
-    details: A place for consumers to voice their opinions about issues that concern them at the federal, state, and city levels with government traceability to completion in the government and market place.  A "consumer" lobby of sorts.  Where would I voice my concern for the way receipts are printed, and propose a standard for that?
+    details: A place for consumers to voice their opinions about issues that concern them at the federal, state, and city levels with government traceability to completion in the government and market place.  A "consumer" lobby of sorts.
 
   - title: Children Electronic Device Protection Agency
     link: /children-electronic-device-protection-agency
@@ -89,10 +90,6 @@ features:
 
   - title: Voting ID
     details: Provide a voting capability for various area of the government by providing an ID during the voting process, and an open database to verify results.
-
-  - title: Tickets
-    details: Licensed businesses would register to issue tickets with a licensed e-mail address for selling tickets.
-    link: /tickets
 
   - title: CDC
     details: The center for disease and control will provide real-time test results from testing facilities, unknown diseases will have containment plans for jurisdictions. Where people will be notified via the [emergency notification system](/ecs-gov/) to stay in doors.

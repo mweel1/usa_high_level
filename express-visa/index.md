@@ -9,5 +9,3 @@ Participants would be provided a .express-visa e-mail address along with a bank 
 All payments would have to go through the e-visa bank account while using the American Internet.
 
 Each country would have a tax bracket.
-
-Domain owners can file complaints to the express visa where accounts can be revoked.
