@@ -41,7 +41,7 @@ The following process would be applied to create a debit profile at the Federal 
 
 ## Transaction Court
 
-Much like domain court, transaction court would allow people to submit a claim that disputes the transaction. A list of previous judgments would be available. A jury selection would take place, and the jury would vote on the out come which would include:
+Much like domain court, transaction court would allow people to submit a claim that disputes the transaction. A list of previous judgments would be available. A jury selection would take place, and the jury would vote on the outcome which would include:
 
 - A judgement to return money to buyer immediately (if available).
 - A debit tax to paid the plaintiff.

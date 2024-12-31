@@ -10,4 +10,4 @@ To resolve this issue where would you as a citizen go for something like this? W
 
 ## Overview
 
-The consumer protection agency would allow the public to submit ideas to improve consumer wellbeing in the marketplace where it would be voted on by other consumers and then assigned to the correct government agency where projects would be created, receive input from the public, and then be assigned to the correct government agencies who would bring them to fruition by passing laws and managing work with the public market.
+The consumer protection agency would allow the public to submit ideas to improve consumer wellbeing where it would be voted on by other consumers and then assigned to the correct government agency where projects would be created, receive input from the public, and then be assigned to the correct government agencies who would bring them to fruition by passing laws and managing work with the public market.

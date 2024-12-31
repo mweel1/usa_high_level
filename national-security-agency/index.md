@@ -8,6 +8,6 @@ The National Security Agency acknowledgement statement would be provided to the 
 - Receive IP Addresses.
 - [Tap phone, and text communications with warrant](/grants/personal-profile/communication/)
 
-The [government OS](/government-os-services/) would provide these capabilities on devices.
+The personal profile will provide keys to operating system to enable this functionality.
 
-When provisioning with a device a valid e-mail address must be provided, or identification that would be available on the lock screen.
+All operating systems must have a serial number visible that is updated in the [citizen data warehouse](/citzen-data-agency/).

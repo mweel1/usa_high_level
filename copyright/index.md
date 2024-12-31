@@ -17,8 +17,4 @@ The following process would take place for copyrighted material:
 
 ## Copyrighting of individuals
 
-I suggest developing laws that allow people to copyright themselves where their like and image would not be able to be used without express permission in any form on the American Internet unless it was used by licensed press holders for valid news.
-
-## Time
-
-Copyrighted work would only be valid for content when transferring between media services. If content is present on a media service than before the copyright it will not be under protection.
+People would be able to copyright themselves where their like and image would not be able to be used without express permission in any form on the American Internet unless it was used by licensed press holders for valid news.

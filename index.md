@@ -20,25 +20,28 @@ features:
     link: /USA-internet
 
   - title: Real-time E-Check System
+    link: /e-check
     details: A real-time e-check system will allow American citizens to transfer money electronically in real-time with no costs to each other. A jury system that allows judgement against buyers and sellers where domains can be fined and/or revoked for fraud.
 
   - title: Consumer Protection Agency
+    link: /consumer-protection-agency
     details: A place for consumers to voice their opinions about issues that concern them at the federal, state, and city levels with government traceability to completion in the government and market place.  A "consumer" lobby of sorts.  Where would I voice my concern for the way receipts are printed, and propose a standard for that?
 
   - title: Children Electronic Device Protection Agency
+    link: /children-electronic-device-protection-agency
     details: A simple multi-platform approach to allow parents to monitor and control their children's electronic devices across all devices with a single interface.
 
   - title: E-Census
+    link: /e-census
     details: A complete revamp of the census for the American Internet, allowing various government agencies the ability to survey its constituents and provide resulting datasets to the public and for analysis.
 
   - title: Copyright System
+    link: /copyright
     details: A complete revamp of the copyright system, allowing the public to submit works electronically, verify and protect copyrighted work using Artificial Intelligence.
 
   - title: FEMA Response System
+    link: /fema
     details: A set of network and software services to be deployed in disaster areas during emergencies, connecting, tracking and executing emergency responses.
-
-  - title: Open Voice Assistant
-    details: Regulations for AI voice assistants to be configurable on mobile phones and other environments, ensuring open access to various marketplace assistants.
 
   - title: StarLink Satellite Network
     details: Collaborate with the United Nations and the USA to make the StarLink Satellite system an FCC asset and allow the public to sell Wi-Fi devices under their own businesses in a unified sales platform.  In exchange a contract will be provided to Elon Musk to provide real-time details of the earth's surface much like Google Maps displays data today.
@@ -47,13 +50,12 @@ features:
     details: Tools and technologies to evaluate AI models and understand political intents behind foreign actor AI models.  For example, you could have an Anthropic (USA) vs. Qwen (Chinese) debate on whether Taiwan is a Chinese owned country or an independent country.  These type of policy questions/conflicts can be debated between AI models, and you can have deep insights into the AI’s training models to uncover their true intent.  This product is already completed.
 
   - title: Grant System
+    link: /grants
     details: The current grant system provides funding exclusively at the federal level, meaning grant needs and accountability of those grants and priorities are determined solely at the federal level.  The proposed grant system would empower state and local municipalities with greater autonomy to identify their specific needs and offer a simple, streamlined way to provide funding and the accountability that follows it by its citzens in which the grants are meant to serve.
 
   - title: American Internet Public Service Announcements
+    link: /public-service-announcements
     details: A public service announcement service available to all media platforms serve public messages from various government agencies.  For example, the federal government might use it to educate parents on device time, where a local municipality might use it to discuss bike lane edict.
-
-  - title: National Security Agency
-    details: The national security agency would be the gateway for government municipalities to login into devices, and/or view device content based on a warrant and permission granted by the user when setting up their devices via the government OS on the device.
 
   - title: warrant.gov
     link: /warrant-gov
@@ -85,22 +87,12 @@ features:
 
     details: A streamlined visa process integrating criminal records, banking and taxation to make immigration easier, safe and fair for American citizens.
 
-  - title: Product Safety Agency
-    details: The product safety agency would make it easy for citizens to report issues with products they purchase in the market place.  By clicking on receipts on the bank to notify the agency of issues.
-
   - title: Voting ID
     details: Provide a voting capability for various area of the government by providing an ID during the voting process, and an open database to verify results.
 
   - title: Tickets
     details: Licensed businesses would register to issue tickets with a licensed e-mail address for selling tickets.
     link: /tickets
-
-  - title: Micro-Industrial Revolution
-    details: The micro-industrial revolution would call on corporate America to usher in a new production capacity to develop products and services in local areas with smaller production processes and better environmental controls.  This would be coupled with a standardized robust API system to allow these small areas of production, services and consumers to communicate.  Today our supply chain(s) are far to long and costly in environmental, and to difficult to protect with ongoing wars.
-
-  - title: Animal Control Agency
-    link: /animal-agency
-    details: The animal control agency would allow supply and demand for animal populations along with registration, transfer, validation of animals.
 
   - title: CDC
     details: The center for disease and control will provide real-time test results from testing facilities, unknown diseases will have containment plans for jurisdictions. Where people will be notified via the [emergency notification system](/ecs-gov/) to stay in doors.

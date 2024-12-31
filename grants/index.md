@@ -54,34 +54,58 @@ Organization that use grant money property's are the right of the government, an
 
 As grants can take a roll of government offices users could set if they would have their own tax basis or not. This could make a difference easier or harder for the government due inflationary and deflationary free money could provide.
 
-Here are a few grants I would propose on this system:
+# Grants
 
-- [Personal Profile](./personal-profile/). A place to store all the information about you, much like a wallet but it would be portable on all OS devices, and available to applications.
+Here are a few grants I would propose in the technology sphere:
 
-- Lost & Found. A federal grant for a lost and found system.
+- [Lost & Found](./lost-and-found). A federal grant for a lost and found system.
 
-- [taxi.org](./taxi-org/) an organization that provides locations for people that need a ride and licensed drivers on the American Internet who wants to give them.
+- [Taxi.org](./taxi-org/) an organization that provides locations for people that need a ride and licensed drivers on the American Internet who wants to give them.
 
-- pet.org an application to manage pet populations.
+- Application to manage [animal populations](./animal-agency/).
 
-- weather.org a data store for all weather data.
+- Weather.org a data store for all weather data.
 
-- air-quality.org data store for all air quality data.
+- Air-quality.org data store for all air quality data.
 
-- [home automation grant](./home-automation/) grant will create standards to let devices in homes communicate with home automation services on the Internet.
+- [Home automation grant](./home-automation/) grant will create standards to let devices in homes communicate with home automation services on the Internet.
 
-- [adoption.org](./adoption) would manage the entire process adopting babies.
+- [Adoption.org](./adoption) would manage the entire process adopting babies.
 
-- [micro-industrial revolution](./micro-industrial-revolution/)
+- [Micro-industrial revolution](./micro-industrial-revolution/)
 
 - [Drone Registry](/grants/drone-registry/) will allow jurisdictions to find owners of drones.
 
-- [medical-testing](./medical-testing) grant objective will be to lower the cost of medical testing for citzens while reducing the need for insurance.
+- [Medical-testing](./medical-testing) grant objective will be to lower the cost of medical testing for citzens while reducing the need for insurance.
 
-- [pharmaceutical](./pharma) grants objective will be to lower the costs of pharmaceutical manufacturing, distribution and retail.
+- [Pharmaceutical](./pharma) grants objective will be to lower the costs of pharmaceutical manufacturing, distribution and retail.
 
 - [Notary](./notary/) the notary service would allow licensed e-sign companies the ability to sign documents, and place them in the personal profile where a government seal would be placed around them with the peoples signatures whenever they are viewed on operating systems.
 
-I suggest all grant money comes from the military as we move to more local processes our need for oversea adventures will be diminished.
+- [QR Code Standards](./qr-code-standards/) Provide standard frames around QR Codes so users know their intended use.
 
-I would also like to see the United State's export this technology to give us a good standing in the world again.
+- [Storage Service Directory](./storage-service-directory/)
+
+- [Street Lights API](./street-lights-api/) Street Lights API.
+
+- [System to System Standards](./system-to-system-standards/) System to system standards.
+
+- [UPC Database](./upc/) UPC Standards database
+
+- [Water-Temperature-Agency] https://www.ncei.noaa.gov/ current provides this roll, but none of the pages are operational.
+
+- [IP Touch BlueTooth](/ip-touch-bluetooth/) IP over bluetooth
+
+- [Jury Service](/jury-service/) Jury Service would provide jury functions for various approved services who need it.
+
+- [Governmental Electronic Signs](./governmental-electronic-signs) Electronic Signature Agency would provide
+
+- [Drone Registry](./drone-registry/) A registry of drone operators, and a database of their locations.
+
+- [Device Protection Agency](./device-protection-agency/) Setting standards for device functionality to ensure the publics safety.
+
+- [Analog Bike Registry](./analog-bike-registry/) A registry for analog bikes.
+
+- [AI Debate](./ai-debate/) The management of AI Debates to evaluate AI models as they come out.
+
+- [The micro-industrial revolution](./micro-industrial-revolution/) would call on corporate America to usher in a new production capacity to develop products and services in local areas with smaller production processes and better environmental controls. This would be coupled with a standardized robust API system to allow these small areas of production, services and consumers to communicate. Today our supply chain(s) are far to long and costly in environmental, and to difficult to protect with ongoing wars.

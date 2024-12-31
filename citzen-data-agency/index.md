@@ -1,6 +1,6 @@
 # Citizen Data Agency
 
-The citizen data agency will be a data warehouse of all citizens in the United States and any information would have available about them.
+The citizen data agency will be a data warehouse of all citizens in the United States and any information would have available about them. This database would only be available for jurisdictions with a warrant.
 
 This would include:
 
@@ -8,6 +8,7 @@ This would include:
 2. Mobile Numbers
 3. Internet IP Addresses
 4. American Internet IP Addresses
+5. Registered Operating System Serial #s
 
-5. GPS Locations, Date & Time
-6. IP Addresses, Start, End Date & Time
+6. GPS Locations, Date & Time
+7. IP Addresses, Start, End Date & Time
