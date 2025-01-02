@@ -16,7 +16,7 @@ ACH and other E-Check transactions take many days to process.
 
 Furthermore, our current government has no safeguards to transaction business unless its with a 3rd party corporations. This is a security risk.
 
-The United Stated E-check system provides the ability for both United States seller and buyers the ability to register their bank accounts and transfer money between each other natively in their [operating systems](/government-os-services/) instantly.
+The United Stated E-check system provides the ability for both United States seller and buyers the ability to register their bank accounts and transfer money between each other natively in their operating systems.
 
 ## Process
 

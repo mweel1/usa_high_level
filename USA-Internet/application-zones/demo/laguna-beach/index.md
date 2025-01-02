@@ -10,4 +10,4 @@ hero:
 
 <img src="./laguna_beach.jpg" style="border-radius: 15px;"/>
 <br/>
-All these services would be backed by business to business API's. For example the shopping application would know how to view inventory, place orders, and schedule delivery for all retail stores in town making shopping simple and easy for citizens and visitors alike.
+All these services would be backed by consumer to business API's and business to business API's. For example the shopping application would know how to view inventory, place orders, and schedule delivery for all retail stores in town making shopping simple and easy for citizens and visitors alike.

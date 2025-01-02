@@ -12,6 +12,10 @@ hero:
       link: /bio
 
 features:
+  - title: Impact Report and Priorities
+    link: /impact-report
+    details: If I were to continue with this project, these are the priorities and impact on the government and the private market.
+
   - title: Social Security Personal Profile
     details: The social security number has been used as an identify in the market place for decades.  We will extend this by developing a personal server for users that uses the social security number to share and receive information in the market place.
     link: /grants/personal-profile

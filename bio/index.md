@@ -1,4 +1,4 @@
-# Martin D. Weel
+# Marty
 
 Dear Fellow Constituent,
 
@@ -14,9 +14,20 @@ The ideas I propose are a direct response to many many years of dealing in this 
 
 I am providing this to you first because I respect the compassion we all have to make the United States a better country for its citizens and I would like you to help me garner as much support as possible for any of these projects you agree with.
 
+In office, I did a deal with our local government ([https://smrpd.org/](https://smrpd.org/)) for a $.01. I still hear-by standup to that, but if you like to make a donation for it I would proudly accept it as this basically ruined my life going through the jail system and mental health ordeal.
+
+https://paypal.me/mardo12345323?country.x=US&locale.x=en_US
+
+I suggest that the United States Federal Govt purchase it from the District of Silverado, because they were the most dedicated hard working, honest group of people I could have ever met and they help made this happen -- but I am not a lawyer.
+
+Let's do some of this.
+
 Best Regards,
 
-Martin D. Weel
-Fellow Constituent
+Marty
+Proud American
 
 949-537-1738
+marty@rt-us.com
+
+P.S. Please visit the [impact report](/impact-report) for priority and market impacts that should be aware of and why and why it must be done.
