@@ -26,7 +26,7 @@ Allowing companies like Apple and Google to provide government services is probl
 
 - Emergency Communication System [ecs.gov](/ecs-gov). To receive emergency communications from government agencies.
 
-- National Security Agency [nsa.gov](/national-security-agency). To allow the government to access your phone with a warrant.
+- National Security Agency [nsa.gov](/national-security-agency). To allow the government to access your phone with a warrant. The NSA will also track all details needed for other jurisdictions to contact you for various government functions.
 
 - FEMA Emergency Response Keys [fema.gov](/fema/)
   To allow the government to update keys on your phone to access emergency services.

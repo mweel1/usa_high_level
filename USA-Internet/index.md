@@ -37,6 +37,7 @@ Safety of content will be paramount to the American Internet where a [content mo
 - The DNS will track all requests made for the directory service.
 - No caching of DNS records is allowed on clients.
 - No IP addresses can be entered into operating system to navigate to websites unless they are on local networks.
+- All IP Addresses that are added to the DNS must be physically present in the United States and not route through any country.
 
 ## Web Application Requirements
 

@@ -85,6 +85,10 @@ Anyone hosting content or distributing content without permission will be tried 
 
 Copyright will be checked on the transfer of content between media servers, unless tested performance with AI can show otherwise.
 
+### Denied Content
+
+Any content that is denied will be logged with its reason. Anything to be seen as a national security risk will be sent to the FBI for review where they can log-in and view the profile of the uploader and the content in question.
+
 ## Government Agent Portal
 
 The government agent portal provides all the functionality to allow government agents the ability to decline or approve content.
