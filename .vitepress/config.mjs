@@ -1,7 +1,6 @@
 export default {
   // add plugin
-
-  title: "A Technology Roadmap for the United States fo America",
+  title: "A Technology Recommendation for the United States of America",
   description:
     "A recommendation for the United States of America to become a civil technology leader in the world.",
   ignoreDeadLinks: true,
