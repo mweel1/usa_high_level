@@ -16,11 +16,11 @@ A new three-tier passkey system provided by the Social Security Service will ena
 
 ### Facebook
 
-Facebook will be impacted as your "photos" will now be stored in your personal profile and shared on other "networks". These other networks will be vast. For example I want to share in both a photography network and my family network. I invite all social networks impacted by this technology to join us in developing all these new networks.
+Facebook will be impacted as your "photos" will now be stored in your personal profile, however there will be 1000s of social networks they can develop to bring networks together in an open way.
 
 ### Apple & Google
 
-You will be impacted quite substantially with pulling out the wallet functionality. However, there were major use cases in using our keys in walled gardens that prohibit mobile phones, desktops and vehicle operating systems from communicating in a way that was civilized.
+You will be impacted quite substantially with pulling out the wallet functionality. However, there were major use cases in using the publics keys in walled gardens that prohibit mobile phones, desktops and vehicle operating systems from communicating in a way that was civilized. A major duty of the FCC.
 
 ## Application Zones
 

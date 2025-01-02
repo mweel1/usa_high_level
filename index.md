@@ -24,7 +24,7 @@ features:
     details: Making the internet safe and prosperous for American citizens by providing a private domain system. Which includes licensing capabilities, revocation capabilities, government ID verification, content filtering and security using Artificial Intelligence.
     link: /USA-internet
 
-  - title: Real-time E-Check System
+  - title: Real-time Electronic Check System
     link: /e-check
     details: A real-time e-check system will allow American citizens to transfer money electronically in real-time with no costs to each other. A jury system that allows judgement against buyers and sellers where domains can be fined and/or revoked for fraud.
 
