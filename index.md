@@ -8,7 +8,7 @@ hero:
   image: /img/usa2.jpg
   actions:
     - theme: brand
-      text: About Mardo
+      text: Marty
       link: /bio
 
 features:
