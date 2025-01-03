@@ -30,4 +30,4 @@ Proud American
 949-537-1738
 marty@rt-us.com
 
-P.S. Please visit the [impact report](/impact-report) for priority and market impacts that should be aware of and why and why it must be done.
+P.S. Please visit the [impact report](/impact-report) for priority and market impacts that should be aware of and why they are important.
