@@ -1,6 +1,6 @@
 # FBI
 
-- The FBI will have access to the [citizen tracking datawarehouse](/citzen-data-warehouse/) for GPS location and other citizen data.
+- The FBI will track all the [details about citizens](./citizen-tracking-database/) from the operating system to find criminals.
 
 - The FBI would aggregate criminal records from the state and federal jurisdictions.
 
@@ -14,8 +14,13 @@
 
 - Citizens will have an option with their personal profiles to report any unlawful or deceitful requests from 3rd parties, where the FBI can track, manage, warn, and file claims in domain court.
 
+- FBI would have all login data for investigations.
+
 - Courts can provide no entry zones for citzens. For example, a person with 5 DUIs could not enter a bar, or a child molester could not enter a school zone.
 
 - When sex offenders were registered to a location, using govt email all citizens would be notified based on their locations in the citizen data warehouse.
 
-- Local FBI would monitor all businesses that received business licenses to operate to ensure all licenses and regulations are followed.
+## Regional FBI
+
+- FBI would monitor all businesses that received business licenses to operate to ensure all licenses and regulations are followed.
+- FBI would manage the camera systems for all public facilities, where [a warrant](/warrant-gov/) would be needed to view footage by various jurisdictions.

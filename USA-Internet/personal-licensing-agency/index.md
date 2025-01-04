@@ -6,7 +6,7 @@ The licensing agency maintains a directory of educational organizations that off
 
 Certain software applications require a valid license to grant access through a personal profile. For example, a bartender license might be needed to log in to systems that manage bartender services. The personal licensing agency maintains a list of software applications and their license requirements, which are implemented in the marketplace.
 
-License verification is enforced through business permitting agency. Applications must not only check a user’s license in their profile but also confirm its validity with the personal licensing agency.
+License verification is enforced through the FBI. Applications must not only check a user’s license in their profile but also confirm its validity with the personal licensing agency.
 
 Each license type will have an organization responsible for issuing licenses, setting the rules and enforcing them based on current laws. API Keys will be available for these organizations as they are verified by the licensing agency organization to add, update and delete licenses.
 
@@ -50,3 +50,11 @@ One of the big issues with the world wide internet today is mis-information. On 
 - Journalism - A journalist who is licensed to provide journalism to the market place.
 - Press - A person of the press that would be providing press information.
 - Influencer - A person that is influencing a large part of the population with media.
+
+Here are some of the requirements of these individuals:
+
+- All media sites with high usage must only allow these individuals to login.
+- All media sites must provide a standard webhook to receive license cancellations, and must do a batch check each night.
+- Any of these accounts that share content of others would also have to have a large audience license.
+
+The requirement for a large audience license would be defined by the licensing board.

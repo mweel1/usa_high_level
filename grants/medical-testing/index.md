@@ -2,7 +2,7 @@
 
 In order to bring down medical costs we must start providing services on a cash basis. One of these areas for opportunities is medical scanning equipment.
 
-A grant will be provided for the education of licensed professionals to provide tests. Business loans will be provided at a low cost to manufacturers of testing equipment and business loans.
+A grant will be provided for the education of licensed professionals to provide the tests. Business loans will be provided at a low cost to manufacturers of testing equipment and business loans.
 
 Medical testing operations in a country can vary widely depending on the healthcare system, regulations, and available technologies. Below is a categorized list of medical testing operations typically conducted in most countries:
 

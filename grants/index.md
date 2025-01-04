@@ -108,4 +108,6 @@ Here are a few grants I would propose in the technology sphere:
 
 - [AI Debate](./ai-debate/) The management of AI Debates to evaluate AI models as they come out.
 
+- [Survey Services](./survey-services/) Allows the market place to verify survey and in future releases items like awards and non-revokable certificates (for example a birth certificate).
+
 - [The micro-industrial revolution](./micro-industrial-revolution/) would call on corporate America to usher in a new production capacity to develop products and services in local areas with smaller production processes and better environmental controls. This would be coupled with a standardized robust API system to allow these small areas of production, services and consumers to communicate. Today our supply chain(s) are far to long and costly in environmental, and to difficult to protect with ongoing wars.

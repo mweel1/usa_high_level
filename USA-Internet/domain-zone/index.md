@@ -1,4 +1,4 @@
-# FCC Application Zone Overview
+# FCC Domain Zone Overview
 
 Application zones are designed to allow a user to press a button on an operating system where applications that are associated to a geo-fence will be shown on the device to launch.
 

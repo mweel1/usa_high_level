@@ -31,3 +31,5 @@ The only requirement for the market place is that one operating system must be p
 - Provide road condition information for example a pot hole that jolts the vehicle where it can be distributed to municipalities for repair.
 - Receive "hot" plates where video systems could provide locations of vehicles when scene by cameras
 - Provide the location to the Highway Patrol of an intoxicated driver based on vehicle inputs (breaking, swerving,etc)
+- Vehicles could receive emergency alerts where license plates would be downloaded to the car. The car would have an on-board OCR system and when finding a plate on the list would send the location to the Highway Patrol via [federal dispatch system](/federal-emergency-dispatch/).
+- Vehicle cameras would watch other cars for erratic driving behavior and provide it to the Highway Patrol via [federal dispatch system](/federal-emergency-dispatch/).

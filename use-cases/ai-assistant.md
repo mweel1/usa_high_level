@@ -18,3 +18,7 @@ or "Hi Honey", give me directions to In & Out, where the AI Device would return 
 # Parking
 
 "Hi Honey", please pay for parking. Where the AI device would call the parking business API for the parking structure to buy a parking ticket with the selected e-check or card.
+
+# Emergency Services
+
+- All AI voice assistance would have to authenticate with federal emergency dispatch services.

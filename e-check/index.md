@@ -25,7 +25,7 @@ The following process would be applied to create a debit profile at the Federal 
 - Once the citizen authorized their operating system to operate with echeck.gov,the citizen would go to echeck.gov with their [gov.id](/government-os-services/id-gov/) and attach all their bank accounts.
 - When a citizen was browsing a website, they would click a link on the browser that would initiate a list of bank accounts along with the amount of the transaction.
 - The user would then select the bank account and the money would be transferred to the seller instantly.
-- The e-check system would have tax flat rate that would be given to the IRS on behalf of transaction processors and distributed to state and local districts.
+- The e-check system would collect all correct local, state and federal taxes and give them to the appropriate jurisdictions.
 
 ## Application Requirements
 

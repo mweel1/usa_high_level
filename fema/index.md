@@ -6,7 +6,7 @@ The user would agree that FEMA would issue keys to enable their phone to access 
 
 ## Network
 
-A network of vehicles would be deployed with towers that would be constructed around the affected areas. This network would provide standard wi-fi services to users devices.
+FEMA would use a fraction of the FCC satellite network bandwidth that was available for auction.
 
 ## Emergency Handshaking
 

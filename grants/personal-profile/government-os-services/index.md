@@ -37,13 +37,13 @@ Allowing companies like Apple and Google to provide government services is probl
 
 - [Jury Service](/jury-service/). This would register for jury services, where the operating system would provide notifications and reminders of needed jury service needs.
 
-- [FBI](./fbi). This would allow the FBI to use your location if you were near an active investigation and would be need to be contacted for questioning.
+- [FBI](./fbi). This would allow the FBI to use your location if you were near an active investigation and would be need to be contacted for questioning, or you were logged into a device at a certain time.
 
-- [FCC Application Zone](/application-zones). This would setup a channel to receive application zone details when users were in certain areas and pressed the application zone option on their operating system.
+- [FCC Application Zone](/domain-zones). This would setup a channel to receive application zone details when users were in certain areas and pressed the application zone option on their operating system.
 
 - FCC Emergency Communication System [ecs.gov](/ecs-gov). To receive emergency communications from government agencies.
 
-- [Local Dispatch](./local-dispatch/) is a communication channel that allow operating systems to communicate with local dispatch systems.
+- [Federal/Local Dispatch System](/federal-emergency-dispatch/) is a communication channel that allow operating systems to communicate with state,federal, and local dispatch systems.
 
 Operating Systems with shared datastores may use these authorizations (for example ICloud, etc)
 
@@ -52,6 +52,8 @@ For vehicle OS's the following services would have to be authorized:
 [Federal Roadway Signs](/federal-roadway-signs).
 
 [Children Device Protection](/children-electronic-device-protection-agency/) service keys to manage the use of devices for guardians.
+
+[FBI](/grants/personal-profile/government-os-services/fbi/) would track citizens locations and with a warrant be able to track down criminal behavior.
 
 Department of Health and Human Services (HHS) service keys to manage the update of all medical records and receipt information.
 

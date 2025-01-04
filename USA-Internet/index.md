@@ -38,6 +38,7 @@ Safety of content will be paramount to the American Internet where a [content mo
 - No caching of DNS records is allowed on clients.
 - No IP addresses can be entered into operating system to navigate to websites unless they are on local networks.
 - All IP Addresses that are added to the DNS must be physically present in the United States and not route through any country.
+- Domain names can be idle for 20 days or they must be returned the naming system. The naming system will be on a first come first serve basis.
 
 ## Web Application Requirements
 
@@ -54,7 +55,7 @@ The directory of the American Domain System would be publicly available along wi
 
 ## Application Zones
 
-All domains that are registered on the American Internet DNS system can be registered to an [FCC application zone](./application-zones/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
+All domains that are registered on the American Internet DNS system can be registered to an [FCC application zone](./domain-zones/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
 
 - You goto a concert and press the application zone on your phone and can purchase the concert.
 - You go into a city and press the application zone and get a map of the city, trolly locations, taxi services and much more.
@@ -89,7 +90,7 @@ The domain claims court can be activated by citizens if the site:
 
 All domains that are registered on the American Domain System will default to a federal application zone with the FCC as consumer facing.
 
-If the user would like to make their domain specific to an application zone they must register with the [FCC](/application-zones/) to make those definitions.
+If the user would like to make their domain specific to an application zone they must register with the [FCC](/domain-zones/) to make those definitions.
 
 ## Crawling Websites
 
