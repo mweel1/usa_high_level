@@ -98,10 +98,9 @@ features:
     link: /cdc
     details: The Center for Disease Control will provide real-time test results from testing facilities. Unknown diseases will have containment plans for jurisdictions, with notifications via the [emergency notification system](/ecs-gov/) to stay indoors.
 
-  - title: Trade School Accountability Act
-    link: /trade-school-accountability-act
-    details: Provide training and job placement where resources are needed in the private marketplace, reducing immigration.
-
+  - title: Trade School Data Services
+    link: /trade-school-data-services
+    details: Provide market data on jobs, and develop schools to fill the need.
   - title: FBI
     link: /grants/personal-profile/government-os-services/fbi/index
     details: Integration of operating systems into the FBI.
