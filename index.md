@@ -8,7 +8,6 @@ hero:
   image: /img/usa2.jpg
   actions:
     - theme: brand
-      text: About
       text: About Marty
       link: /bio
 

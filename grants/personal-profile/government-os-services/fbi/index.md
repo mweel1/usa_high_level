@@ -23,4 +23,4 @@
 ## Regional FBI
 
 - FBI would monitor all businesses that received business licenses to operate to ensure all licenses and regulations are followed.
-- FBI would manage the camera systems for all public facilities, where [a warrant](/warrant-gov/) would be needed to view footage by various jurisdictions.
+- FBI would manage the camera systems for all public facilities, where [a warrant](/warrant-gov/) would be needed to view footage by various jurisdictions. A test of AI would be attached to camera systems to detect people breaking laws, or for suspicious activity.
