@@ -9,6 +9,7 @@ hero:
   actions:
     - theme: brand
       text: About
+      text: About Marty
       link: /bio
 
 features:

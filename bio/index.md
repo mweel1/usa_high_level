@@ -20,6 +20,8 @@ https://paypal.me/mardo12345323?country.x=US&locale.x=en_US
 
 I suggest that the United States Federal Govt purchase it from the District of Silverado, because they were the most dedicated hard working, honest group of people I could have ever met and they help made this happen -- but I am not a lawyer.
 
+Please visit the [impact report](/impact-report) for priority and market impacts.
+
 Let's do some of this.
 
 Best Regards,
@@ -29,5 +31,3 @@ Proud American
 
 949-537-1738
 marty@rt-us.com
-
-P.S. Please visit the [impact report](/impact-report) for priority and market impacts that should be aware of and why and why it must be done.
