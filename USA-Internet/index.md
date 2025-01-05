@@ -48,20 +48,26 @@ Safety of content will be paramount to the American Internet where a [content mo
 - Must provide oAuth Services for integration into 3rd party applications to use the API.
 - Anyone selling products must provide a supplier list by domain, where it will married up with business licenses to show the length of travel. A retail sustainable score will be derived from this.
 - Must always check content for safety using the [content moderation service](./content-moderation/), a list of domains hit counts, and content protection agency queries will be available to determine that all content providers are using the service.
+- Must provide a business name and address of the domain for directory services.
+- Can optionally provide an application zone.
 
 ## Directory
 
 The directory of the American Domain System would be publicly available along with query counts for the domain with various filter types (today, last year, etc.). Any domain name registered can choose not to be part of the public directory if they so choose.
 
-## Application Zones
+## Domain Zones
 
-All domains that are registered on the American Internet DNS system can be registered to an [FCC application zone](./domain-zones/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
+All domains that are registered on the American Internet DNS system can be registered to an [FCC domain zone](./domain-zones/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
 
 - You goto a concert and press the application zone on your phone and can purchase the concert.
 - You go into a city and press the application zone and get a map of the city, trolly locations, taxi services and much more.
 - You go on-line and select your housing community and select a used product marketplace site that allows the community to buy and sell products from each other.
 
 The goal of application zones is to bridge the gap between the physical world and virtual world with more context aware sites.
+
+All domains that are registered on the American Domain System will default to a federal application zone with the FCC as consumer facing.
+
+If the user would like to make their domain specific to an domain zones they must register with the [FCC](/domain-zones/) to make those definitions. FCC domain zone will oAuth to the DNS system and can only add domain zones they are authorized to use. If not domain zone would be set federally and only come up in a directory search.
 
 ## Operating System Licensing
 
@@ -85,12 +91,6 @@ The domain claims court can be activated by citizens if the site:
 - Violates terms of service
 - Violates cancellation policy
 - Display media content without an media content Id and media server.
-
-## FCC Application Zones
-
-All domains that are registered on the American Domain System will default to a federal application zone with the FCC as consumer facing.
-
-If the user would like to make their domain specific to an application zone they must register with the [FCC](/domain-zones/) to make those definitions.
 
 ## Crawling Websites
 

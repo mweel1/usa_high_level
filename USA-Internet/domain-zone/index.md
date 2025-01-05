@@ -1,6 +1,8 @@
 # FCC Domain Zone Overview
 
-Application zones are designed to allow a user to press a button on an operating system where applications that are associated to a geo-fence will be shown on the device to launch.
+Domain zones are designed to allow a user to press a button on an operating system where applications that are associated to a geo-fence will be shown on the device to launch.
+
+Currently the world wide internet domain system is horizontal, Domain Zones makes the web vertical.
 
 These are an alternative to QR Codes which can create a security risk for business and governments.
 
@@ -24,11 +26,11 @@ The opportunities are endless and this will usher in many new opportunities for 
 
 Anyone with a .gov e-mail address can register to manage their jurisdictions sites in their government spheres. FCC administrators will review agency logins and develop the geo-fence and assigns administrators users to it where other users from that domain can be invited.
 
-All geo-fences will be based on current jurisdictions.
+All geo-fences will be designed by their parent. For example, the federal jurisdiction will manage all the states, the states will manage all the counties, the counties will manage all the cities. The cities will manage all their businesses.
 
 #### Business Application Zones
 
-In-order for a site to be added to a business sphere a business license must be uploaded and validated. The FCC will mandate all municipalities have an OAuth process to handshake between the application zones and business license to remove the need for human approval over time.
+All municipalities that register business licenses must provide login to allow business owners to manage their domain zones.
 
 ##### Direct User Application Zones
 
@@ -46,7 +48,7 @@ In this case the recommended way to do this will be the use of numbers. A couple
 
 ## Approvals
 
-All applications associated to an application zone must be approved by the FCC to ensure they meet all the to be determined FCC application approval guidelines. There will be categories for each business type, and when applications are out of context of those normal categories they will be scrutinized more.
+All applications associated to an application zone must be approved by their jurisdiction. There will be categories for each business type, and when applications are out of context of those normal categories they will be scrutinized more.
 
 ## Network Zone
 
@@ -55,7 +57,7 @@ There will also be opportunities to register application zones based on a wirele
 - Launch an app store in a car vehicle to allow people to play music in the vehicle.
 - Launch a route map while riding a bus.
 
-Specific SSID can be registered with the FCC where the operating systems must provide the applications in a network zone when the application zone button is selected.
+Specific SSID can be registered with in jurisdictions where the operating systems must provide the applications in a network zone when the application zone button is selected.
 
 A new specification must be created to allow multiple wireless network access at the same to enable people to have connectivity to multiple wireless networks simultaionsuly.
 
@@ -81,6 +83,6 @@ Its important this is an FCC asset due to the fact if operating systems tried to
 
 ## Risks
 
-One of the big risks with this technology is that people will be wondering around always pressing a button to see what application service is available. The FCC will provide [public service announcements](/public-service-announcements/) to the public on the best way to use these applications easily and safely, and limit the applications to 6.
+One of the big risks with this technology is that people will be wondering around always pressing a button to see what application service is available. The FCC will provide [public service announcements](/public-service-announcements/) to the public on the best way to use these applications easily and safely. Each Application Zone will have a limit of 15 applications.
 
-[Demo](./demo)
+View a [demo](./demo) of a few application zones.
