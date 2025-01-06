@@ -6,7 +6,10 @@ When an animal is born, the breeder would log-in and register the breed where a 
 
 ## Transfer of ownership
 
-At any-time the owner can transfer the chip to another owner where they would become the owner via e-mail address if they were allowed to purchase animals.
+At any-time the owner can transfer the chip to another owner where they would become the owner via e-mail address if they were allowed to purchase animals. You must fit the following qualifications to transfer the animal to an owner based on its type:
+
+- Nobody in the household can have criminal records of animal abuse.
+- Must living a residence large enough for the animal.
 
 ## Finding Lost Animals
 
