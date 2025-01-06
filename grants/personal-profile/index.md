@@ -169,9 +169,14 @@ A list of your purchased books in PDF format. These can be shared based on right
 
 When adding a contact you can add it in clear text, or you can send a request to link directly to another contact so when there information changes so does yours or visa versa.
 
-## Current Job
+## Job History
 
-This will include your current place of employment and must be updated for each job you start, stop and apply for.
+This will include all all job events that happen in your life including:
+
+- Applying for a job
+- Receiving a job
+- Job denial
+- Quitting a job
 
 ## Calendar
 

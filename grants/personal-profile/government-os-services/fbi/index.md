@@ -14,7 +14,10 @@
 
 - Courts can provide no entry zones for citzens. For example, a person with 5 DUIs could not enter a bar, or a child molester could not enter a school zone.
 
-- When sex offenders were registered to a location, using govt email all citizens would be notified based on their locations in the citizen data warehouse.
+- When sex offenders were registered to a location, using govt email all citizens would be notified based on their locations in
+  the citizen data warehouse.
+
+- Child trafficking is a major concern in the United States. The FBI would query a private e-census to see how many parents and kids are separated by the lack of response based on personal profile configurations of parent and children. If both the parents and the children didn't respond you could investigate further. You could also combine wetness checks into this.
 
 ## Regional FBI
 

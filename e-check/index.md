@@ -46,3 +46,7 @@ Much like domain court, transaction court would allow people to submit a claim t
 - A judgement to return money to buyer immediately (if available).
 - A debit tax to paid the plaintiff.
 - Loss of debit.gov access for a certain time period.
+
+## Funds
+
+Any funds due will be levied against the debit account unless a jury to anonymously claims they are in a hardship where its reviewed every 30 days.

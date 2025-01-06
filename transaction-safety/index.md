@@ -12,6 +12,8 @@ The Bureau of Alcohol will set a per person drink minimum in a certain period of
 
 The pharmaceutical safety services would require POS systems at pharmacies to send UPC information and a government Id and would check for drug abuse by doctor prescriptions.
 
+The FDA would set baselines for all drugs and alerts to the FBI to investigate further would be provided.
+
 # Gambling
 
 Many people have lost their life savings to gambling. These transaction rails would ensure if someone was isn't in the position to be gambling safely they wouldn't be able to.
