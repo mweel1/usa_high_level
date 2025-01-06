@@ -16,12 +16,7 @@ I am providing this to you first because I respect the compassion we all have to
 
 In office, I did a deal with our local government ([https://smrpd.org/](https://smrpd.org/)) for a $.01 they would get everything I do.
 
-I would like to be the CTO of America and contract this work out and receive 30% of the costs. It would be a honor to bring back the Republican party as a party of standards, operations and enforcement and continue to serve the citizens of the country.
-
-Have a few other requirements:
-
-- I'd also like to run this on the 133 Near Laguna Beach.
-- Get out of Bitcoin its an enemy of the state in my opinion.
+I would like to be the CTO of America with a salary of 3M a year and make a stand in that I would rather get paid for my job, then get paid by favors from the public market.
 
 Please visit the [impact report](/impact-report) for priority and market impacts for political discussions with the government.
 

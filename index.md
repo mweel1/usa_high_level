@@ -3,8 +3,8 @@ layout: home
 title: Home
 
 hero:
-  name: "Technology Recommendation for the United States of America"
-  text: All content here is owned and copyrighted by Marty.  Help me find a home :)
+  name: "Job Application for CTO of the United States of America"
+  text: A roadmap for US technology for its citizens.
   image: /img/usa2.jpg
   actions:
     - theme: brand

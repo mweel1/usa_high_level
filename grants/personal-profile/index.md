@@ -234,3 +234,4 @@ A [personal profile licensing service](../personal-profile-licensing-agency/) wo
 - All applications that use personal servers must register their domain with the licensing service, where a public key will be provided to interact with personal servers.
 - All tokens that access the personal profile must be stored securely in the operating system.
 - All applications attached to your personal profile can be viewed were access can be revoked.
+- We must define when a pin will be needed vs. just a normal acknowledgement for each request type.

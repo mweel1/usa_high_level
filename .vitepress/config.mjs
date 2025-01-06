@@ -1,6 +1,7 @@
 export default {
   // add plugin
-  title: "A Technology Recommendation for the United States of America",
+  title:
+    "A Technology Recommendation for the United States of America as Chief Technology Officer",
   description:
     "A recommendation for the United States of America to become a civil technology leader in the world.",
   ignoreDeadLinks: true,
