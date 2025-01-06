@@ -1,6 +1,6 @@
 # Marty
 
-Dear IBM,
+Dear Possible Business Partner,
 
 Most people call me Marty. I began working with technology at the age of 11, learning to develop software on bulletin board systems (BBS) that were used globally. After school, I briefly worked on a project at Microsoft before starting my own business. Over the years, I have worked in various domains, including supply chain management, media and entertainment, artificial intelligence, and payment processing. I also hold several patents in these areas.
 
@@ -16,9 +16,7 @@ I am providing this to you first because I respect the compassion we all have to
 
 In office, I did a deal with our local government ([https://smrpd.org/](https://smrpd.org/)) for a $.01 they would get everything I do.
 
-I would like to be the CTO of IBM and deliver these products to the American Government, I believe around 500 to 1B, but your better at that than I am. I would like 30% of revenue generated.
-
-I'd also like to run this on the 133 Near Laguna Beach.
+I would like to find an investor with a political will where I would like 30% of profits, and fund products as they are needed and sold.
 
 Please visit the [impact report](/impact-report) for priority and market impacts for political discussions with the government.
 

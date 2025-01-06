@@ -4,7 +4,7 @@ title: Home
 
 hero:
   name: "Technology Recommendation for the United States of America"
-  text: An offering for investment projects that prioritize American citizens' safety and prosperity.
+  text: All content here is owned and copyrighted by Marty.  Help me find a home :)
   image: /img/usa2.jpg
   actions:
     - theme: brand

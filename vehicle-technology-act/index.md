@@ -33,3 +33,4 @@ The only requirement for the market place is that one operating system must be p
 - Provide the location to the Highway Patrol of an intoxicated driver based on vehicle inputs (breaking, swerving,etc)
 - Vehicles could receive emergency alerts where license plates would be downloaded to the car. The car would have an on-board OCR system and when finding a plate on the list would send the location to the Highway Patrol via [federal dispatch system](/federal-emergency-dispatch/).
 - Vehicle cameras would watch other cars for erratic driving behavior and provide it to the Highway Patrol via [federal dispatch system](/federal-emergency-dispatch/).
+- All vehicles will have a 100 meter RF network that will turn down card radios using FCC FREQ : xxxxxx, that will be swapped with operating system daily as frequency permit.

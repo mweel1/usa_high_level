@@ -57,7 +57,7 @@ The directory of the American Domain System would be publicly available along wi
 
 ## Domain Zones
 
-All domains that are registered on the American Internet DNS system can be registered to an [FCC domain zone](./domain-zones/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
+All domains that are registered on the American Internet DNS system can be registered to an [FCC domain zone](/domain-zone/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
 
 - You goto a concert and press the application zone on your phone and can purchase the concert.
 - You go into a city and press the application zone and get a map of the city, trolly locations, taxi services and much more.
@@ -67,7 +67,7 @@ The goal of application zones is to bridge the gap between the physical world an
 
 All domains that are registered on the American Domain System will default to a federal application zone with the FCC as consumer facing.
 
-If the user would like to make their domain specific to an domain zones they must register with the [FCC](/domain-zones/) to make those definitions. FCC domain zone will oAuth to the DNS system and can only add domain zones they are authorized to use. If not domain zone would be set federally and only come up in a directory search.
+If the user would like to make their domain specific to an domain zones they must register with the [FCC](/domain-zone/) to make those definitions. FCC domain zone will oAuth to the DNS system and can only add domain zones they are authorized to use. If not domain zone would be set federally and only come up in a directory search.
 
 ## Operating System Licensing
 

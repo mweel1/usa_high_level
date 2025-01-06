@@ -16,7 +16,7 @@ I am providing this to you first because I respect the compassion we all have to
 
 In office, I did a deal with our local government ([https://smrpd.org/](https://smrpd.org/)) for a $.01 they would get everything I do.
 
-I would like to be the CTO of America and contract this work out and receive 30% of the costs.
+I would like to be the CTO of America and contract this work out and receive 30% of the costs. It would be a honor to bring back the Republican party as a party of standards, operations and enforcement and continue to serve the citizens of the country.
 
 Have a few other requirements:
 
