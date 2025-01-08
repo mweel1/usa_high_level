@@ -32,6 +32,10 @@ All geo-fences will be designed by their parent. For example, the federal jurisd
 
 All municipalities that register business licenses must provide login to allow business owners to manage their domain zones.
 
+#### Emergency Zones
+
+Emergency Zones allow various jurisdictions to deploy preset applications stores to a sphere that is outlined. For example a disaster response team could highlight a location during a fire and deploy zone applications.
+
 ##### Direct User Application Zones
 
 Managers of Application Zones can add specific profile URLs (or users) which would allow specific applications to launch when that user is specifically added to that zone. One example might be a waiter at a restaurant. There will be role capabilities with this also.

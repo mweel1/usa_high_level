@@ -24,20 +24,18 @@ Allowing companies like Apple and Google to provide government services is probl
 
 - E-Check [echeck.gov](/e-check/)
 
-- Emergency Communication System [ecs.gov](/ecs-gov). To receive emergency communications from government agencies.
+- Emergency Communication System [ecs.gov](/ecs-gov). To receive emergency communications from government agencies based on your location.
 
 - National Security Agency [nsa.gov](/national-security-agency). To allow the government to access your phone with a warrant. The NSA will also track all details needed for other jurisdictions to contact you for various government functions.
 
 - FEMA Emergency Response Keys [fema.gov](/fema/)
-  To allow the government to update keys on your phone to access emergency services.
+  To allow the government to update keys on your phone to access emergency services. Your location will also be provided for emergency services.
 
 - [Citizen to Local Dispatch Communication](/local-dispatch/). Allow the citizens to send dispatch requests to local dispatch for police and emergency services.
 
-- [Census Participation](/e-census/). To register for census services via e-mail.
+- [Census Participation](/e-census/). To register for census services.
 
 - [Jury Service](/jury-service/). This would register for jury services, where the operating system would provide notifications and reminders of needed jury service needs.
-
-- [FBI](./fbi). This would allow the FBI to use your location if you were near an active investigation and would be need to be contacted for questioning, or you were logged into a device at a certain time.
 
 - [FCC Application Zone](/domain-zones). This would setup a channel to receive application zone details when users were in certain areas and pressed the application zone option on their operating system.
 
@@ -53,7 +51,7 @@ For vehicle OS's the following services would have to be authorized:
 
 [Children Device Protection](/children-electronic-device-protection-agency/) service keys to manage the use of devices for guardians.
 
-[FBI](/grants/personal-profile/government-os-services/fbi/) would track citizens locations and with a warrant be able to track down criminal behavior.
+[FBI](/grants/personal-profile/government-os-services/fbi/) would track citizens locations for investigations by jurisdictions.
 
 Department of Health and Human Services (HHS) service keys to manage the update of all medical records and receipt information.
 
@@ -63,4 +61,4 @@ Once these services were authorized and the keys stored in the [Personal Profile
 
 # Security
 
-When authorizing with these services an access key will be received for each government during personal profile provisioning. Each time the operating system boots up it will receive new access tokens from the personal profile to access government services.
+When authorizing with these services an access key will be received for each government during personal profile provisioning. Each time the operating system boots up it will receive retrieve an access token from the personal profile and request a session key from the government services. The access token in the personal profile will also be rotated when retrieving a sessions key.

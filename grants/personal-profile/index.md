@@ -11,6 +11,10 @@ A personal profile is a personal server thats allows citizens to store, receive 
 5. Authorizing and storing keys to government services to allow operating systems to interact with government services.
 6. Storing keys to login into domains and native applications.
 
+# Sizing Information
+
+Standards will be create to receive scans of the entire body, where the marketplace and can use it to manufacture and sell goods.
+
 # Security
 
 The personal profile will be encrypted with a passphrase and an e-mail address where it can be recovered or changed.
