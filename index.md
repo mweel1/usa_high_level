@@ -10,7 +10,12 @@ hero:
     - theme: brand
       text: About Marty
       link: /bio
-
+    - theme: brand
+      text: Use Cases of Projects
+      link: /use-cases/index.html
+    - theme: brand
+      link: /cr-mweel
+      text: Copyright Martin Weel - 2025
 features:
   - title: Impact Report and Priorities
     link: /impact-report

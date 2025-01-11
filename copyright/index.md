@@ -14,6 +14,7 @@ The following process would take place for copyrighted material:
 - The citizens can provide a CID and view the copyrighted works in a lower format.
 - Each copyright ID holder will receive a .copyright to manage their copyrighted work
 - Many .copyright e-mail addresses can be associated with works with various [copyright permissions](/copyright/copywright-permissions/).
+- All content must be passed to copyright when posting to any market or device.
 
 ## Copyrighting of individuals
 

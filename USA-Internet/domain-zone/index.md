@@ -22,19 +22,27 @@ The opportunities are endless and this will usher in many new opportunities for 
 
 ### Application Zones
 
+#### Approval
+
+Application approval will happen at the FCC as it relates to allowing various businesses and governments to use different applications.
+
 #### Government Spheres (Cities, Counties, States, Federal)
 
 Anyone with a .gov e-mail address can register to manage their jurisdictions sites in their government spheres. FCC administrators will review agency logins and develop the geo-fence and assigns administrators users to it where other users from that domain can be invited.
 
-All geo-fences will be designed by their parent. For example, the federal jurisdiction will manage all the states, the states will manage all the counties, the counties will manage all the cities. The cities will manage all their businesses.
+All geo-fences will be designed by their parent. For example, FCC will manage all federal jurisdictions, the federal jurisdiction will manage all the states, the states will manage all the counties, the counties will manage all the cities. The cities will manage all their businesses.
 
 #### Business Application Zones
 
-All municipalities that register business licenses must provide login to allow business owners to manage their domain zones.
+All municipalities that register permits must provide login to allow business owners to manage their domain zones. A link to the business license must be associated with the application zone.
 
 #### Emergency Zones
 
-Emergency Zones allow various jurisdictions to deploy preset applications stores to a sphere that is outlined. For example a disaster response team could highlight a location during a fire and deploy zone applications.
+Emergency Zones allow various jurisdictions to deploy preset applications stores to a sphere that is outlined. For example a disaster response team could highlight a location during a fire and deploy zone applications. All phone companies must provide a satellite connectivity for these emergency zones over a slow-ip connection.
+
+The [emergency notification](/ecs-gov/) system will be used to notify the emergency zone has been deployed and launch it.
+
+Emergency zones can provide a context key at the zone level or application level to provide different context for the API service in which the application can operate. For example, the command and control could be downtown LA even though the application zone was deployed to 4 different places. The domain API in which the applications talk to should always be a single domain, and then proxy with to services based on the context key. The context key can be any value.
 
 ##### Direct User Application Zones
 

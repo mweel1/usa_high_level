@@ -4,12 +4,16 @@ The disaster response system would be a set of hardware and software services th
 
 The user would agree that FEMA would issue keys to enable their phone to access and emergency FEMA network.
 
-## Network
+## Software Requirements
 
-FEMA would use a fraction of the FCC satellite network bandwidth that was available for auction.
+- Allow people to disposition their status.
+- For people with damage and needed insurance allow people to contact their insurance company through the system.
+- Track all insurance payments.
 
-## Emergency Handshaking
+## Application Zones
 
-Each night a list of keys would provided to [Government OS Services](/government-os-services/). These keys would be broadcasted in emergencies by the FEMA network.
+A set of application services would be provided in domain zones to allow FEMA to deploy application services.
 
-When an OS receives these emergency SSID keys a URL is provided via the network handshake. This home page would include an application that would help with all disaster efforts.
+## Communication
+
+Allow slow-ip connections using satellite for communication of the application zone.

@@ -23,6 +23,10 @@ When receiving a communication, if the call is public your avatar, personal prof
 
 The profile URL will allow the receiving caller to request information as long as the one time passcode is sent.
 
+## Line
+
+Each line shared publicly in the federal white pages.
+
 ## National Security Agency
 
 AI, or agents will connect to all communication providers, and multi-plex providers to listen for communications that would be a security risk.

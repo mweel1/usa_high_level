@@ -30,7 +30,7 @@ If no country code is defined the world wide DNS system is used, otherwise the c
 
 ## Domain Protection
 
-Safety of content will be paramount to the American Internet where a [content moderation service](./content-moderation/) will be used to moderate content.
+Safety of content will be paramount to the American Internet where a [content moderation service](./content-moderation/) will be used to moderate content based on national security risks.
 
 ## DNS Requirements
 
@@ -39,6 +39,8 @@ Safety of content will be paramount to the American Internet where a [content mo
 - No IP addresses can be entered into operating system to navigate to websites unless they are on local networks.
 - All IP Addresses that are added to the DNS must be physically present in the United States and not route through any country.
 - Domain names can be idle for 20 days or they must be returned the naming system. The naming system will be on a first come first serve basis.
+- Domain names can have an optional API standard that is defined by ISO.
+- Domain names
 
 ## Web Application Requirements
 
@@ -46,14 +48,16 @@ Safety of content will be paramount to the American Internet where a [content mo
 - Must provide a customer facing API.
 - Must integrate with govt API's where applicable.
 - Must provide oAuth Services for integration into 3rd party applications to use the API.
-- Anyone selling products must provide a supplier list by domain, where it will married up with business licenses to show the length of travel. A retail sustainable score will be derived from this.
+- Anyone selling products must provide a supplier list by domain where a distance is calculated based on records.
 - Must always check content for safety using the [content moderation service](./content-moderation/), a list of domains hit counts, and content protection agency queries will be available to determine that all content providers are using the service.
-- Must provide a business name and address of the domain for directory services.
-- Can optionally provide an application zone.
+
+## Security
+
+Anyone issuing business permits will have access to manage their domain zones for businesses.
 
 ## Directory
 
-The directory of the American Domain System would be publicly available along with query counts for the domain with various filter types (today, last year, etc.). Any domain name registered can choose not to be part of the public directory if they so choose.
+The directory log of the American Domain System will be available publicly, the recommended search engine would be in a domain zone.
 
 ## Domain Zones
 
@@ -63,11 +67,9 @@ All domains that are registered on the American Internet DNS system can be regis
 - You go into a city and press the application zone and get a map of the city, trolly locations, taxi services and much more.
 - You go on-line and select your housing community and select a used product marketplace site that allows the community to buy and sell products from each other.
 
-The goal of application zones is to bridge the gap between the physical world and virtual world with more context aware sites.
+The goal of application zones is to bridge the gap between the physical world and virtual world with more context lies.
 
-All domains that are registered on the American Domain System will default to a federal application zone with the FCC as consumer facing.
-
-If the user would like to make their domain specific to an domain zones they must register with the [FCC](/domain-zone/) to make those definitions. FCC domain zone will oAuth to the DNS system and can only add domain zones they are authorized to use. If not domain zone would be set federally and only come up in a directory search.
+All domains that are registered on the American Domain System will default to a federal application zone with the FCC as consumer facing if no domain zone is registered.
 
 ## Operating System Licensing
 
@@ -90,7 +92,7 @@ The domain claims court can be activated by citizens if the site:
 
 - Violates terms of service
 - Violates cancellation policy
-- Display media content without an media content Id and media server.
+- Display media content without an media content Id, media server and media categories & filters.
 
 ## Crawling Websites
 
@@ -102,27 +104,27 @@ The domain claims court can be activated by citizens if the site:
 
 When first logging into the American Internet, the user would be required to setup a [personal profile](/grants/personal-profile/).
 
-If the user could not provide a United Stated government issued ID along with verification they would be considered a foreign user where they would have to apply for an [express-visa](/express-visa/) using a passport. Once approved they would have a [personal profile](/grants/personal-profile/) setup on the America Internet. If users break laws or violates any other laws of the American Internet there express visa could be revoked for a period of time, or indefinitely.
+If the user could not provide a United Stated government issued ID along with verification they would be considered a foreign user where they would have to apply for an [express-visa](/express-visa/) using a passport. Once approved they would have a [personal profile](/grants/personal-profile/) setup on the America Internet.
 
-## Start Page
+### E-Visa Violations
 
-The start page would provide the following domain directory services. This would also be available as an API for operating system companies.
+If users break laws or violates any other laws of the American Internet there express visa could be revoked for a period of time, or indefinitely.
 
-- Drop down that would include any Application Zone [Any, Federal, State, County, City, Business Location].
-- Domain Type (Music Networks, TV Networks, Movie Networks, Artist, etc..)
-- Domain Type tags based on the domain type. For example I would might want to show all music networks, or music artists based on electronic music genre.
-- Search Field which will search domain tags, description, and keywords
-- Customer Facing, or Internal Zone Specific.
-- Device Type, Vehicle OS, personal computing device, etc.
+## Market Availability API
 
-Once the search is execute the results will provide the following from the DNS information:
+Each operating system would have an application zone section on the phone. This would be initiated by pressing a domain zone button on the device.
 
-- Logo
-- Name
-- Description
-- Domain Type
-- Domain Tags
-- Link to Website
+The American Internet would provide the following to the market place via an open API.
+
+- Domain logs
+- The native applications, domains in the zone based on the GPS.
+- The business address and license of any domain.
+- Open jury cases, and closed cases of the business.
+- Business license and address information history.
+- Cancellation Link
+- Terms of Service
+- Privacy Policy
+- List of review sites chosen from the .domain-review domains.
 
 ## Operating System Requirements
 
@@ -135,7 +137,7 @@ Operating systems that operate on the USA Internet must provide the following du
 - Link to file complaints in domain claims court to resolve dispute with domain owners.
 - Provide domain claims court case resolutions that have occurred in the past.
 - Provide a list of review sites chosen by the domain owner (at least 3) from the site review directory.
-- Show a special icon when a domain or e-mail is from a .gov agency in e-mail clients and browsers.
+- Show a special icon when displaying government communications from the personal profile.
 - Must provide their device type when making DNS requests to receive the correct application IDs to launch applications.
 
 ## System to System Standards
@@ -150,10 +152,33 @@ The main goals of the American Internet would be to ensure that open [system to 
 
 To begin to develop these standards we will start with the following use case:
 
-1. Allow an artist to post their music on .artist domain name and submit content to the moderation service and media server.
-2. Allow the artist to publish their music for discovery to various networks that they choose to allow preview of content.
-3. Allow a hotel to purchase their music from the artist via a network.
-4. Allow users to press the application zone button and purchase music from a live artists that is playing, or provide a tip.
-5. Order food from a local restaurant where its delivered via food delivery services.
-6. Order food at the restaurant
-7. Purchase tickets to a show
+1. Allow the city to search businesses, and get directions to them.
+2. Allow an artist to post their music on .artist domain name and submit content to the moderation service and media server.
+3. Allow the artist to publish their music for discovery to various networks that they choose to allow preview of content.
+4. Allow a restaurant to purchase their music from the artist via a network.
+5. Allow users to press the application zone button and purchase music from a live artists that is playing, or provide a tip.
+6. Order food from a local restaurant where its delivered via food delivery services.
+7. Order food at the restaurant
+8. Purchase tickets to a show
+
+### System to System Requirements
+
+Each business or government agency will have an organization directory with a personal profile URL.
+
+Each employee can be assigned to the storage account(s) of the business with their personal profile URL.
+
+Anytime something needs to be saved, a business URL and personal Profile URL can be provided from the operating system.
+
+Business URL’s can be assigned in an operating system as part of the permissions along with a personal profile when setting up.
+
+Anytime a file is prepared to save on a storage account (business or personal) its confirmed from the personal profile via the socket connection to the profile.
+
+### Transportation
+
+All local transportation will have a .transportation domain name. They will set a rate for their service per mile, terms along with what cargo they can transport.
+
+All business could add these as trading partners in their business with a deal in place.
+
+The delivery services will provide invoices when they do deliveries to business where they will be paid.
+
+All deliveries must provide a QR code for complaints to the business.

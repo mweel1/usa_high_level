@@ -11,6 +11,10 @@ A personal profile is a personal server thats allows citizens to store, receive 
 5. Authorizing and storing keys to government services to allow operating systems to interact with government services.
 6. Storing keys to login into domains and native applications.
 
+# Business Servers
+
+Once a personal profile is setup and a user is logged into the operating system, different business profiles can be attached to the operating system. This is done by entering the business URL. If the personal profile exists in the business personal profiles category an confirmation request is sent to the personal profile to acknowledge the association of the business and the personal profile.
+
 # Sizing Information
 
 Standards will be create to receive scans of the entire body, where the marketplace and can use it to manufacture and sell goods.
@@ -101,9 +105,11 @@ When adding a card, the wallet will contact the issuing bank where a authorizati
 
 When processing a payment this authorization key will be used to receive a one-time credit card key that will be used for the transaction.
 
+If it is a reoccurring payment the amount of payments are requested and many tokens are created for each transaction. The reoccurring payments are stored, and transaction details can be cancelled.
+
 If the card is requested to be stored, a multi-use credit card key will be used. All stored card numbers that are issues will be stored in the personal profile with the domain for easy cancellation. A URL must be provided by the domain to send the cancellation to the domain.
 
-All payment gateways must accept these cards when processing payments.
+All payment gateways must be licensed to accept these cards when processing payments and request confirmation from the user before processing.
 
 The personal profile will also provide callback URLs and header keys that will allow the debit system to update, change and delete cards.
 
@@ -206,6 +212,8 @@ Any mail readers that accessed the the in-boxes would have the following require
 2. A special inbox for govt communications only.
 3. Provide an alert for critical e-mail(s).
 4. Provide a confirmation status they received the e-mail when read, where a callback URL is called.
+
+Each mail box can be shared publicly in the federal white pages, or shared directly with other citizens.
 
 # Storage
 

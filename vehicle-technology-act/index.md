@@ -16,6 +16,7 @@ The war between the mobile companies and in-car informatics systems has left the
 
 The only requirement for the market place is that one operating system must be present. Otherwise car manufacturers can participate in the following:
 
+- A business profile URL can be added to the operating system so the vehicle can support business functions.
 - The federal government will be provide a OS boot loader to allow for multiple operating choices in vehicles, around with an open market place to purchase these operating systems.
 - Using AI operating systems will be evaluated for their safety standards.
 - The federal government will take control of the standards between the vehicle and and operating systems that will be available to the market.
@@ -34,3 +35,4 @@ The only requirement for the market place is that one operating system must be p
 - Vehicles could receive emergency alerts where license plates would be downloaded to the car. The car would have an on-board OCR system and when finding a plate on the list would send the location to the Highway Patrol via [federal dispatch system](/federal-emergency-dispatch/).
 - Vehicle cameras would watch other cars for erratic driving behavior and provide it to the Highway Patrol via [federal dispatch system](/federal-emergency-dispatch/).
 - All vehicles will have a 100 meter RF network that will turn down card radios using FCC FREQ : xxxxxx, that will be swapped with operating system daily as frequency permit.
+- The vehicle operating system can provide location to the Congestion Agency. The congestion agency allows various jurisdictions to create geo-fences and set the price for the congestion zone when entering along with viewing the average speed in which vehicles are moving at various times of the day.
