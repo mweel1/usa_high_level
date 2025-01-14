@@ -6,7 +6,7 @@ We will develop a platform that ensures that when children are attending school,
 
 A directory of .schools will be the domains providing school services.
 
-All schools must pass a school plan approval by the school board on how they are meeting the ciriclum of the group in their standard grades which is:
+All schools must pass a school plan approval by the school board on how they are meeting the curriculum of the group in their standard grades which is:
 
 - Elementary School
 - Middle School
@@ -17,3 +17,9 @@ The education system will include a visit to the doctors office for the entry of
 A grant will be provided to all cities that:
 
     - Provide a bus service for all .school domains in their [Application Zone](/USA-Internet/juristiction-zones/).
+
+The following must be provided from schools via an API to the department of education.
+
+- Class Count
+- Teacher Count
+- Grades per class category.
