@@ -41,6 +41,7 @@ Safety of content will be paramount to the American Internet where a [content mo
 - Domain names can be idle for 20 days or they must be returned the naming system. The naming system will be on a first come first serve basis.
 - Domain names can have an optional API standard that is defined by ISO.
 - Domain names
+- When registering certain domain names and valid license is required.
 
 ## Web Application Requirements
 
@@ -50,6 +51,7 @@ Safety of content will be paramount to the American Internet where a [content mo
 - Must provide oAuth Services for integration into 3rd party applications to use the API.
 - Anyone selling products must provide a supplier list by domain where a distance is calculated based on records.
 - Must always check content for safety using the [content moderation service](./content-moderation/), a list of domains hit counts, and content protection agency queries will be available to determine that all content providers are using the service.
+- All .gov websites must provide a communication API that can be picked up by social networks, where a link back to the .gov website must be provided.
 
 ## Security
 
@@ -61,7 +63,7 @@ The directory log of the American Domain System will be available publicly, the 
 
 ## Domain Zones
 
-All domains that are registered on the American Internet DNS system can be registered to an [FCC domain zone](/domain-zone/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
+All domains that are registered on the American Internet DNS system can be registered to an [FCC domain zone](./domain-zone/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
 
 - You goto a concert and press the application zone on your phone and can purchase the concert.
 - You go into a city and press the application zone and get a map of the city, trolly locations, taxi services and much more.
@@ -161,7 +163,7 @@ To begin to develop these standards we will start with the following use case:
 7. Order food at the restaurant
 8. Purchase tickets to a show
 
-### System to System Requirements
+### Business Requirements
 
 Each business or government agency will have an organization directory with a personal profile URL.
 
@@ -182,3 +184,12 @@ All business could add these as trading partners in their business with a deal i
 The delivery services will provide invoices when they do deliveries to business where they will be paid.
 
 All deliveries must provide a QR code for complaints to the business.
+
+### Special Domain Requirements
+
+All .donation domains will have to:
+
+- Provide a list of donation fund names.
+- Provide a social feed of what they do with the money, by fund name.
+- Provide the amount of money they have received by fund name.
+- Must have a .fundraiser license to run .donation domain names.

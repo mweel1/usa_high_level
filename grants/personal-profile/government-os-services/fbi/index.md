@@ -19,6 +19,8 @@
 
 - Child trafficking is a major concern in the United States. The FBI would query a private e-census to see how many parents and kids are separated by the lack of response based on personal profile configurations of parent and children. If both the parents and the children didn't respond you could investigate further. You could also combine wetness checks into this.
 
+- Family profiles will be shared with the FBI, where a government communication can send them a request to report the wellbeing.
+
 ## Regional FBI
 
 - FBI would monitor all businesses that received business licenses to operate to ensure all licenses and regulations are followed during the [micro-industrial revolution](/grants/micro-industrial-revolution/) and b2b and b2c business networks.

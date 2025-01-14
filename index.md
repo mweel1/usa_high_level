@@ -3,16 +3,12 @@ layout: home
 title: Home
 
 hero:
-  name: "Job Application for CTO of the United States of America"
-  text: A roadmap for US technology for its citizens.
-  image: /img/usa2.jpg
+  name: "Martys Technology Ideas for Govt."
+  text: ..and a hacking mystery.
   actions:
     - theme: brand
       text: About Marty
       link: /bio
-    - theme: brand
-      text: Use Cases of Projects
-      link: /use-cases/index.html
     - theme: brand
       link: /cr-mweel
       text: Copyright Martin Weel - 2025

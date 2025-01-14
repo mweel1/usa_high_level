@@ -22,6 +22,8 @@ Allowing companies like Apple and Google to provide government services is probl
 
 # Overview
 
+## These services will be a licensed government proxy service to have a single point entry into the operating systems.
+
 - E-Check [echeck.gov](/e-check/)
 
 - Emergency Communication System [ecs.gov](/ecs-gov). To receive emergency communications from government agencies based on your location.
@@ -56,6 +58,10 @@ For vehicle OS's the following services would have to be authorized:
 Department of Health and Human Services (HHS) service keys to manage the update of all medical records and receipt information.
 
 U.S. Department of Labor services to view your resume events and view resume events to help better understand the job market. This will not be correlated with your identity.
+
+# Login
+
+When a user logs into the operating system, many personal profiles can be attached to the operating system where a personal profile's are managed. A business URL can also be attached to personal profiles.
 
 Once these services were authorized and the keys stored in the [Personal Profile](/grants/personal-profile/) operating systems would have access to them.
 

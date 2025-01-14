@@ -6,21 +6,15 @@ Most people call me Marty. I began working with technology at the age of 11, lea
 
 During a devastating fire in my neighborhood, I took an active role in helping my community recover and was later asked to serve on the local parks and recreation board, eventually being elected on the Obama ticket.
 
-While serving, I swore to uphold the Constitution, which created a passion within me to explore how technology could provide essential services to citizens. This opened my eyes to opportunities that I believe few have fully considered. However, this journey was not without challenges, as the scope of innovation overwhelmed me, leading to personal struggles, including paranoia and mental health challenges that resulted in stints in jail and mental health institutions.
+While serving, I swore to uphold the Constitution, which created a passion within me to explore how technology could provide essential services to citizens. This opened my eyes to opportunities that I believe few have fully considered, I became very vocal in the community and started to write down my ideas. I would then start posting them on Facebook, or trying to get a hold of people to talk about it but nobody ever answered. After many attempts about telling the authorities and acting out with frustration, I just isolated in myself and went into deep studies. During my time in these institutions, I organized and refined my ideas, convinced that technology could revolutionize how public services are delivered. Upon release, I found myself at a halfway house, where I developed software for a company my brother worked at, slowly getting back on my feet. However, I remained driven by the need to solidify my vision for technological innovation in government.
 
-During my time in these institutions, I organized and refined my ideas, convinced that technology could revolutionize how public services are delivered. Upon release, I found myself at a halfway house, where I developed software for a company my brother worked at, slowly getting back on my feet. However, I remained driven by the need to solidify my vision for technological innovation in government.
+The ideas I propose are a direct response to many many years of dealing with my ideas in isolation, while fighting against the America's big tech sector. This proposal outlines technology-driven solutions aimed at improving government services and addressing public sector challenges.
 
-The ideas I propose are a direct response to many many years of dealing in this domain. This proposal outlines technology-driven solutions aimed at improving government services and addressing public sector challenges.
+In office, I did a deal with our local government ([https://smrpd.org/](https://smrpd.org/)) for a $.01 they would get everything I did here.
 
-I am providing this to you first because I respect the compassion we all have to make the United States a better country for its citizens and I would like you to help me garner as much support as possible for any of these projects you agree with.
+I would like the USA to help me compensated based on what happened here.
 
-In office, I did a deal with our local government ([https://smrpd.org/](https://smrpd.org/)) for a $.01 they would get everything I do.
-
-I would like to find an investor with a political will where I would like 30% of profits, and fund products as they are needed and sold.
-
-Please visit the [impact report](/impact-report) for priority and market impacts for political discussions with the government.
-
-Let's do this.
+Please visit the [impact report](/impact-report) for priority and market impacts for political discussions with the government if you would like to work on this, or extradite me to another country where I can receive safe harbor.
 
 Best Regards,
 

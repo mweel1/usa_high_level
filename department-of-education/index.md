@@ -6,13 +6,13 @@ We will develop a platform that ensures that when children are attending school,
 
 A directory of .schools will be the domains providing school services.
 
-All schools must pass a business plan approval by the school board on how they are meeting the ciriclum of the group in their standard grades which is:
+All schools must pass a school plan approval by the school board on how they are meeting the ciriclum of the group in their standard grades which is:
 
 - Elementary School
 - Middle School
 - High School
 
-zo
+The education system will include a visit to the doctors office for the entry of each time the citizen is registered to a group, where vaccine and other health decisions can be discussed.
 
 A grant will be provided to all cities that:
 

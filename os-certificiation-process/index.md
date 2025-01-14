@@ -12,3 +12,4 @@ Each operating system that was deployed into the market place would have to go t
 - All application zones are operating correctly when pressing the application zone button.
 - All local dispatch capabilities are operating correctly.
 - Children device protection functionality is working correctly.
+- The browser enforces that the client originated from the server via CORS.

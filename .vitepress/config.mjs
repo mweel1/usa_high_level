@@ -1,9 +1,8 @@
 export default {
   // add plugin
-  title:
-    "A Technology Recommendation for the United States of America as Chief Technology Officer",
+  title: "Government Technology",
   description:
-    "A recommendation for the United States of America to become a civil technology leader in the world.",
+    "My rambilings about government technology, digital transformation, and the future of government.",
   ignoreDeadLinks: true,
   themeConfig: {
     logo: "/img/usa.webp",

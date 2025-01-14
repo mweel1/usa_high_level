@@ -107,8 +107,6 @@ When processing a payment this authorization key will be used to receive a one-t
 
 If it is a reoccurring payment the amount of payments are requested and many tokens are created for each transaction. The reoccurring payments are stored, and transaction details can be cancelled.
 
-If the card is requested to be stored, a multi-use credit card key will be used. All stored card numbers that are issues will be stored in the personal profile with the domain for easy cancellation. A URL must be provided by the domain to send the cancellation to the domain.
-
 All payment gateways must be licensed to accept these cards when processing payments and request confirmation from the user before processing.
 
 The personal profile will also provide callback URLs and header keys that will allow the debit system to update, change and delete cards.
@@ -191,6 +189,22 @@ This will include all all job events that happen in your life including:
 ## Calendar
 
 You can setup multiple calendars that can be shared and updated between between parties.
+
+## Media
+
+All music and videos played would have to be sent to your media log. The media log would include the media-id of the content, along with the URL in which you consumed it, and the % consumed. Security would be managed when the user went to that URL if the link was to be shared with people. A filter can be set to how much of the media content would have to be consumed to log depending on the users preferences.
+
+## Vehicle Registration
+
+When a vehicle is registered at the DMV, the DMV will update your registration. A link will be provided to go to the DMV, login and pay your bill with debit or credit.
+
+## Accounts Receivables
+
+All accounts receivables used in the market place will be stored here, a link to cancel subscriptions will be provided.
+
+## Account Payable
+
+All accounts payable will be stored here around with subscriptions, with a link to pay and a date.
 
 ## Communication
 

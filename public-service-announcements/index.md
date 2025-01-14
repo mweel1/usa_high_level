@@ -11,3 +11,7 @@ This would include media formats such as:
 The amount of impressions required per media view would be determined by the board.
 
 An API would be provided to log when an media business provided the announcement.
+
+Some public service announcements would be:
+
+- The importance of vaccines.
