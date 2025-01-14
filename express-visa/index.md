@@ -2,7 +2,7 @@
 
 Express Visa would be a platform that would allows citizens traveling in and out of the American Internet to receive a visa with a bank account that would automatically deduct taxes.
 
-The Express Visa would be integrated with our criminal system.
+The Express Visa would be integrated with our criminal system, and theirs.
 
 Participants would be provided a .express-visa e-mail address along with a bank account. A flat tax rate would be applied to all receipts.
 
