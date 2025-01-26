@@ -7,11 +7,38 @@ hero:
   text: Use cases for various jurisdictions and value propositions.
 
 features:
-  - title: Impact Report and Priorities
-    link: /impact-report
-    details: If I were to continue with this project, these are the priorities and impact on the government and the private market.
+  - title: Police Department
+    link: ./police-department
+    details: Use cases for local police departments.
 
-  - title: Federal Disaster Response System
-    link: /grants/personal-profile
-    details: The social security number has been used as an identity in the marketplace for decades. We will extend this by developing a personal server for users that uses the social security number to share and receive information in the marketplace with a personal URL and server.
+  - title: Fire Department
+    link: ./fire-department
+    details: Use cases for local fire departments.
+
+  - title: Finding diseases from food and drugs
+    link: ./finding-diseases-from-food-and-drugs
+    details: Use cases for local fire departments.
+
+  - title: Reducing Medical Bills
+    link: ./reduce-medical-bills
+    details: One of the major concerns today is health costs, remote doctors would provide services on-line or in person for cash.
+
+  - title: Reduce Grocery Bills
+    link: ./reduce-grocery-bills
+    details: Grocery bills have become very expensive, here are my ideas to reduce them.
+
+  - title: Incident Response Organizations (Fema, Local)
+    link: ./incident-response-teams
+    details: Communication with the citizens during an emergency response is critical
+
+  - title: Mis-Information
+    link: ./mis-information
+    details: Mis-information is a huge risk for the Italiann citizens and governments.
+
+  - title: Fentanyl
+    link: ./Fentanyl
+    details: Fentanyl is a major problem in society, and legalizing drugs in the answer to ensure a safe supply chain and support services.
+  - title: Video Networks
+    link: ./video-networks
+    details: Video networks will change where many content providers will be able to share with many networks.
 ---

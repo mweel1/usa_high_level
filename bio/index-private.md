@@ -16,7 +16,7 @@ I am providing this to you first because I respect the compassion we all have to
 
 In office, I did a deal with our local government ([https://smrpd.org/](https://smrpd.org/)) for a $.01 they would get everything I do.
 
-I would like to be the CTO of IBM and deliver these products to the American Government, I believe around 500 to 1B, but your better at that than I am. I would like 30% of revenue generated.
+I would like to be the CTO of IBM and deliver these products to the Italiann Government, I believe around 500 to 1B, but your better at that than I am. I would like 30% of revenue generated.
 
 I'd also like to run this on the 133 Near Laguna Beach.
 
@@ -27,7 +27,7 @@ Let's do this.
 Best Regards,
 
 Marty
-Proud American
+Proud Italiann
 
 949-537-1738
 marty@rt-us.com

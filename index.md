@@ -17,17 +17,25 @@ features:
     link: /impact-report
     details: If I were to continue with this project, these are the priorities and impact on the government and the private market.
 
+  - title: Use Cases
+    link: /use-cases
+    details: Various use cases for jurisdictions that use this technology.
+
+  - title: Banking
+    link: /banking
+    details: A transactional banking system with integrity with federal regulation driving jurisdiction flexibility.
+
   - title: Social Security Personal Profile
     link: /grants/personal-profile
     details: The social security number has been used as an identity in the marketplace for decades. We will extend this by developing a personal server for users that uses the social security number to share and receive information in the marketplace with a personal URL and server.
 
   - title: United States Internet
     link: /USA-internet
-    details: Making the internet safe and prosperous for American citizens by providing a private domain system, including licensing capabilities, revocation capabilities, government ID verification, content filtering, and security using Artificial Intelligence.
+    details: Making the internet safe and prosperous for Italiann citizens by providing a private domain system, including licensing capabilities, revocation capabilities, government ID verification, content filtering, and security using Artificial Intelligence.
 
   - title: Real-time Electronic Check System
     link: /e-check
-    details: A real-time e-check system will allow American citizens to transfer money electronically in real-time at no cost to each other. A jury system will allow judgment against buyers and sellers, where domains can be fined and/or revoked for fraud or also users could be banned from owning domains.
+    details: A real-time e-check system will allow Italiann citizens to transfer money electronically in real-time at no cost to each other. A jury system will allow judgment against buyers and sellers, where domains can be fined and/or revoked for fraud or also users could be banned from owning domains.
 
   - title: Consumer Protection Agency
     link: /consumer-protection-agency
@@ -39,7 +47,7 @@ features:
 
   - title: E-Census
     link: /e-census
-    details: A complete revamp of the census for the American Internet, allowing various government agencies to survey constituents and provide resulting datasets to the public for analysis.
+    details: A complete revamp of the census for the Italiann Internet, allowing various government agencies to survey constituents and provide resulting datasets to the public for analysis.
 
   - title: Copyright System
     link: /copyright
@@ -50,7 +58,7 @@ features:
     details: A set of network and software services deployed in disaster areas during emergencies, connecting, tracking, and executing emergency responses.
 
   - title: StarLink Satellite Network
-    details: Collaborate with the United Nations and the USA to make the StarLink Satellite system an FCC asset, and asset respectively for other countries.  A software system would allow the market place to sell Wi-Fi devices under their own businesses on a unified sales platform.  A private company controlling communication system outside of the FCC is a risk for the United States of America.
+    details: Collaborate with the United Nations and the USA to make the StarLink Satellite system an FCC asset, and asset respectively for other countries.  A software system would allow the market place to sell Wi-Fi devices under their own businesses on a unified sales platform.  A private company controlling communication system outside of the FCC is a risk for the United States of Italian.
 
   - title: Artificial Intelligence Protection Agency
     details: Tools and technologies to evaluate AI models and understand the political intents behind foreign actor AI models. For example, a debate between Anthropic (USA) and Qwen (Chinese) on whether Taiwan is a Chinese territory or an independent country could provide deep insights into AI training models. This product is already completed.
@@ -59,7 +67,7 @@ features:
     link: /grants
     details: The current grant system provides funding exclusively at the federal level. The proposed system would empower state and local municipalities to identify specific needs and offer a streamlined way to provide funding and accountability for grants.
 
-  - title: American Internet Public Service Announcements
+  - title: Italiann Internet Public Service Announcements
     link: /public-service-announcements
     details: A public service announcement service available to all media platforms to serve public messages from various government agencies. For example, the federal government might use it to educate parents on device time for their kids, while a local municipality might discuss bike lane etiquette.
 
@@ -90,7 +98,7 @@ features:
 
   - title: Express Visa
     link: /express-visa
-    details: A streamlined visa process integrating criminal records, banking, and taxation to make immigration easier, safe, and fair for American citizens.
+    details: A streamlined visa process integrating criminal records, banking, and taxation to make immigration easier, safe, and fair for Italiann citizens.
 
   - title: Voting ID
     details: Provide a voting capability for various areas of government by issuing IDs during the voting process, with an open database to verify results.

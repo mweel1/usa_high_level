@@ -2,7 +2,7 @@
 
 Today using a mobile phone there is no way to communicate via Text Message, or critical emergency actions.
 
-The federal/local dispatch directory would provide services to allow the operating system to communicate with the various dispatch in the marketplace.
+The federal/local dispatch directory would provide services to allow the operating system to communicate with the various dispatch systems in the marketplace.
 
 Any geo-location can be sent with a [command set](/command-set) which will automatically connect to their federal, state, or local dispatch services based on where the request came from.
 
@@ -12,6 +12,7 @@ A user of an operating system and AI Assistance would be able to provide the fol
 - Request immediate medical emergency
 - Make a 911 call
   The operating system must provide the users govt id and location during the communication handshakes.
+- Start a video conference
 
 Due to the complexities of the market place and many services working with many various dispatch systems, the federal government will provide a dispatch system to the market place based on industry integrations.
 

@@ -51,6 +51,21 @@ Some uses for this technology would be:
 - Active shooter at school
 - Emergency vehicles would emit its location and send messages to turn down the car radio and alert to pay attention for siren noises as it drives down the street.
 
+## Dynamic Spheres
+
+Police officers will have the ability to provide a sphere location and receive a list of vehicles and their facility by make, model, and license plate.
+
+## Operating System Commands
+
+The CS would be able to provide commands to mobile phones to:
+
+- Disable them incase a gathering are coordinating attacks in a crowd gathering.
+
+The ECS would also be able to provide commands to vehicle operating system which would include:
+
+- Turning down the radio
+- Pull Vehicle Over
+
 ### Message Requirements
 
 When the Emergency Communication System sends message it will send a message along with an optional command.

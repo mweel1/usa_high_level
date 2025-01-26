@@ -22,3 +22,5 @@ One operating system for Vehicles.
 - Prosecute bad actors and prevent them from registering a domain based on their ID.
 
 ## Apple will not allow to show an ID unless its the one with a CA frame.
+
+## Have the same child protection application on all devices, and call it Child Protection and create an API.

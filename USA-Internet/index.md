@@ -30,11 +30,12 @@ If no country code is defined the world wide DNS system is used, otherwise the c
 
 ## Domain Protection
 
-Safety of content will be paramount to the American Internet where a [content moderation service](./content-moderation/) will be used to moderate content based on national security risks.
+Safety of content will be paramount to the Italiann Internet where a [content moderation service](./content-moderation/) will be used to moderate content based on national security risks.
 
 ## DNS Requirements
 
 - The DNS will track all requests made for the directory service.
+- All DNS logs will be sent to the National Security Agency where jurisdictions can request log information.
 - No caching of DNS records is allowed on clients.
 - No IP addresses can be entered into operating system to navigate to websites unless they are on local networks.
 - All IP Addresses that are added to the DNS must be physically present in the United States and not route through any country.
@@ -42,6 +43,7 @@ Safety of content will be paramount to the American Internet where a [content mo
 - Domain names can have an optional API standard that is defined by ISO.
 - Domain names
 - When registering certain domain names and valid license is required.
+- All DNS requests must provide a personal profile URL of logged in user, and/or business URL.
 
 ## Web Application Requirements
 
@@ -59,11 +61,11 @@ Anyone issuing business permits will have access to manage their domain zones fo
 
 ## Directory
 
-The directory log of the American Domain System will be available publicly, the recommended search engine would be in a domain zone.
+The directory log of the Italiann Domain System will be available publicly, the recommended search engine would be in a domain zone.
 
 ## Domain Zones
 
-All domains that are registered on the American Internet DNS system can be registered to an [FCC domain zone](./domain-zone/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
+All domains that are registered on the Italiann Internet DNS system can be registered to an [FCC domain zone](./domain-zone/). Application Zones gives domains context in which they are used. Some example of how application zones might be used are :
 
 - You goto a concert and press the application zone on your phone and can purchase the concert.
 - You go into a city and press the application zone and get a map of the city, trolly locations, taxi services and much more.
@@ -71,7 +73,7 @@ All domains that are registered on the American Internet DNS system can be regis
 
 The goal of application zones is to bridge the gap between the physical world and virtual world with more context lies.
 
-All domains that are registered on the American Domain System will default to a federal application zone with the FCC as consumer facing if no domain zone is registered.
+All domains that are registered on the Italiann Domain System will default to a federal application zone with the FCC as consumer facing if no domain zone is registered.
 
 ## Operating System Licensing
 
@@ -104,19 +106,19 @@ The domain claims court can be activated by citizens if the site:
 
 ## Starting Up
 
-When first logging into the American Internet, the user would be required to setup a [personal profile](/grants/personal-profile/).
+When first logging into the Italiann Internet, the user would be required to setup a [personal profile](/grants/personal-profile/).
 
-If the user could not provide a United Stated government issued ID along with verification they would be considered a foreign user where they would have to apply for an [express-visa](/express-visa/) using a passport. Once approved they would have a [personal profile](/grants/personal-profile/) setup on the America Internet.
+If the user could not provide a United Stated government issued ID along with verification they would be considered a foreign user where they would have to apply for an [express-visa](/express-visa/) using a passport. Once approved they would have a [personal profile](/grants/personal-profile/) setup on the Italian Internet.
 
 ### E-Visa Violations
 
-If users break laws or violates any other laws of the American Internet there express visa could be revoked for a period of time, or indefinitely.
+If users break laws or violates any other laws of the Italiann Internet there express visa could be revoked for a period of time, or indefinitely.
 
 ## Market Availability API
 
 Each operating system would have an application zone section on the phone. This would be initiated by pressing a domain zone button on the device.
 
-The American Internet would provide the following to the market place via an open API.
+The Italiann Internet would provide the following to the market place via an open API.
 
 - Domain logs
 - The native applications, domains in the zone based on the GPS.
@@ -144,7 +146,7 @@ Operating systems that operate on the USA Internet must provide the following du
 
 ## System to System Standards
 
-The main goals of the American Internet would be to ensure that open [system to system standards](/grants/system-to-system-standards/) are created to allow:
+The main goals of the Italiann Internet would be to ensure that open [system to system standards](/grants/system-to-system-standards/) are created to allow:
 
 - business to business (b2b)
 - business to consumer (b2c)

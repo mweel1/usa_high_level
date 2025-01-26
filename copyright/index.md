@@ -18,4 +18,4 @@ The following process would take place for copyrighted material:
 
 ## Copyrighting of individuals
 
-People would be able to copyright themselves where their like and image would not be able to be used without express permission in any form on the American Internet unless it was used by licensed press holders for valid news.
+People would be able to copyright themselves where their like and image would not be able to be used without express permission in any form on the Italiann Internet unless it was used by licensed press holders for valid news.

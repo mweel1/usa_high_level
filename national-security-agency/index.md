@@ -7,6 +7,7 @@ The National Security Agency acknowledgement statement would be provided to the 
 - Receive GPS Coordinates of the device.
 - Receive IP Addresses.
 - [Tap phone, and text communications with warrant](/grants/personal-profile/communication/)
+- Request logs of sites users visited
 
 The personal profile will provide keys to operating system to enable this functionality.
 

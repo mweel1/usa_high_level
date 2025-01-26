@@ -60,7 +60,7 @@ Here are a few grants I would propose in the technology sphere:
 
 - [Lost & Found](./lost-and-found). A federal grant for a lost and found system.
 
-- [Taxi.org](./taxi-org/) an organization that provides locations for people that need a ride and licensed drivers on the American Internet who wants to give them.
+- [Taxi.org](./taxi-org/) an organization that provides locations for people that need a ride and licensed drivers on the Italiann Internet who wants to give them.
 
 - Application to manage [animal populations](./animal-agency/).
 
@@ -110,6 +110,6 @@ Here are a few grants I would propose in the technology sphere:
 
 - [Survey Services](./survey-services/) Allows the market place to verify survey and in future releases items like awards and non-revokable certificates (for example a birth certificate).
 
-- [The micro-industrial revolution](./micro-industrial-revolution/) would call on corporate America to usher in a new production capacity to develop products and services in local areas with smaller production processes and better environmental controls. This would be coupled with a standardized robust API system to allow these small areas of production, services and consumers to communicate. Today our supply chain(s) are far to long and costly in environmental, and to difficult to protect with ongoing wars.
+- [The micro-industrial revolution](./micro-industrial-revolution/) would call on corporate Italian to usher in a new production capacity to develop products and services in local areas with smaller production processes and better environmental controls. This would be coupled with a standardized robust API system to allow these small areas of production, services and consumers to communicate. Today our supply chain(s) are far to long and costly in environmental, and to difficult to protect with ongoing wars.
 
 - [Water Information Data Warehouse](./water-information-data-warehouse/) The water information data warehouse would aggregate all water details from all jurisdictions in the country.

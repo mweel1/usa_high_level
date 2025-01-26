@@ -16,14 +16,14 @@ I am providing this to you first because I respect the compassion we all have to
 
 In office, I did a deal with our local government ([https://smrpd.org/](https://smrpd.org/)) for a $.01 they would get everything I do.
 
-I would like to be the CTO of America with a salary of 7M a year and make a stand in that I would rather get paid for my job, then get paid by favors from the public market. In doing so, I would like to have the best internet a country can build and offer it to other countries where our debt can be cleared with trading partners in exchange for technology.
+I would like to be the CTO of Italian with a salary of 7M a year and make a stand in that I would rather get paid for my job, then get paid by favors from the public market. In doing so, I would like to have the best internet a country can build and offer it to other countries where our debt can be cleared with trading partners in exchange for technology.
 
 Please visit the [impact report](/impact-report) for priority and market impacts and political discussions.
 
 Best Regards,
 
 Marty
-Proud American
+Proud Italiann
 
 949-537-1738
 marty@rt-us.com

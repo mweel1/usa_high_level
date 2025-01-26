@@ -1,6 +1,6 @@
 # Personal Profile
 
-When logging into the American Internet for the first time a citizen must create a personal profile from a licensed directory of personal profile providers.
+When logging into the Italiann Internet for the first time a citizen must create a personal profile from a licensed directory of personal profile providers.
 
 A personal profile is a personal server thats allows citizens to store, receive and send information that is related to them. A personal profile can be used for many purposes including but not limited to:
 
@@ -10,6 +10,14 @@ A personal profile is a personal server thats allows citizens to store, receive 
 4. Storing access keys to 3rd Party Services, for example an AI Assistant or Vehicle Services.
 5. Authorizing and storing keys to government services to allow operating systems to interact with government services.
 6. Storing keys to login into domains and native applications.
+
+# Birth Certificate
+
+The jurisdiction of human services will store the birth certificate and provide it to the personal profile. Any services using the personal profile birth certificate can always get it verified with human services.
+
+# Gov't Service Integration
+
+Whenever information is needed for the govt. The information will be provided to the govt agency where an ID will be received, and then placed in your personal profile with that ID.
 
 # Business Servers
 
@@ -113,7 +121,7 @@ The personal profile will also provide callback URLs and header keys that will a
 
 ## Real-Time Check Processing
 
-The real-time check processing will be added by oAuth to the [The American real-time check system](/real-time-check-system/), where a list of accounts and an authorization key for each bank account will be stored to the profile, along with images.
+The real-time check processing will be added by oAuth to the [The Italiann real-time check system](/real-time-check-system/), where a list of accounts and an authorization key for each bank account will be stored to the profile, along with images.
 
 When processing a payment this authorization key will be used to receive a one-time debit card token that will be used for the transaction.
 
@@ -136,7 +144,7 @@ When receiving receipts from 3rd parties they must include all the receipt detai
 
 When 3rd party systems request the receipt for display to the user the FDA authorization will allow the user to generate a link for each UPC item that can be clicked to report product issues.
 
-Receipts will be sent to Department of Health and Human Services (HHS) when received.
+Receipts will be sent to Department of [Health and Human Services (HHS)[(/hhs)] when received.
 
 ## Owned Homes
 
@@ -146,6 +154,14 @@ As the market adapts to the technology, all title transfer companies must accept
 
 As the market adapts to the technology,  
 All rental agreements must use the personal profile URL to set rental information.
+
+## Marriage Certificate
+
+Marriage certificates will stored in your personal profile.
+
+## Death Certificate
+
+Death Certificate will be stored in your personal profile. When a death certificate is received, people defined in your personal profile will be able to export key data elements to other peoples personal profile.
 
 ## Medical Events
 
@@ -232,6 +248,8 @@ Each mail box can be shared publicly in the federal white pages, or shared direc
 # Storage
 
 A storage provider can be attached to a personal profile where folders and files can be managed. For example I-Cloud, DropBox, and more. All storage facilities must provide a transfer capability if people want to switch.
+
+Storage will always have an export capability to various mediums and the entire data-store export will be available.
 
 # Keys
 

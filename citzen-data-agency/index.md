@@ -7,7 +7,7 @@ This would include:
 1. Name and Addresses
 2. Mobile Numbers
 3. Internet IP Addresses
-4. American Internet IP Addresses
+4. Italiann Internet IP Addresses
 5. Registered Operating System Serial #s
 
 6. GPS Locations, Date & Time

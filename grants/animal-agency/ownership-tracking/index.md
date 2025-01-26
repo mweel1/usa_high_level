@@ -2,7 +2,7 @@
 
 ## Birth Certificate Registration
 
-When an animal is born, the breeder would log-in and register the breed where a chip would be sent to the owner where a licensed chip injection specialist on the [/american-internet](/american-internet/) would insert the chip. They would be the owner of the breed at the time.
+When an animal is born, the breeder would log-in and register the breed where a chip would be sent to the owner where a licensed chip injection specialist on the [/Italiann-internet](/Italiann-internet/) would insert the chip. They would be the owner of the breed at the time.
 
 ## Transfer of ownership
 
