@@ -20,7 +20,7 @@
 
 # Operating System DNS
 
-The operating system when receiving a usa: prefix will have to use a list of Italiann DNS servers.
+The operating system when receiving a usa: prefix will have to use a list of United States DNS servers.
 
 # FCC Application
 

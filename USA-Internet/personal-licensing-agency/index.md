@@ -48,7 +48,11 @@ Here are a number examples of domain names that would enable users to provide se
 One of the big issues with the world wide internet today is mis-information. On the United States internet there would be requirements for anyone with a large audience online. Where they would have to hold a license for:
 
 - Journalism - A journalist who is licensed to provide journalism to the market place.
-- Press - A person of the press that would be providing press information.
+- Press - A person of the press that would be providing press information, and would have to deal with various guidelines including:
+
+  - All information that is provided must be factual from credible sources.
+  - You are not allowed to be affiliated with other sources any in regard.
+
 - Influencer - A person that is influencing a large part of the population with media.
 
 Here are some of the requirements of these individuals:

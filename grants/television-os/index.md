@@ -2,11 +2,11 @@
 
 ## Overview
 
-A television operating system grant would provide funding to develop a TV operating system based on the fundamentals of the Italiann Internet.
+A television operating system grant would provide funding to develop a TV operating system based on the fundamentals of the United States Internet.
 
 ## Technology
 
-This television operating system would use the Italiann DNS system and find all websites that are providing API services for TV based content.
+This television operating system would use the United States DNS system and find all websites that are providing API services for TV based content.
 
 This content would be searchable within an interface based on the [content filtering and security services](/content-filtering-and-security-service/), where a user could preview the content and pay a small fee where their content would be saved in a local library.
 

@@ -7,8 +7,7 @@ The user would agree that FEMA would issue keys to enable their phone to access 
 ## Software Requirements
 
 - Allow people to disposition their status.
-- For people with damage and needed insurance allow people to contact their insurance company through the system.
-- Track all insurance payments.
+- For people with damage and needed insurance allow people to contact their insurance company through the system, and get paid.
 
 ## Application Zones
 

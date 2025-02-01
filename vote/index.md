@@ -2,7 +2,7 @@
 
 Various jurisdiction will provide a ballot.
 
-A citizen must provide an Italiann Issued Government ID.
+A citizen must provide an United States Issued Government ID.
 
 When the citizen goes to vote they will receive a QR Code with a public ID.
 

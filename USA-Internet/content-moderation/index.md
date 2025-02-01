@@ -10,11 +10,11 @@ In today’s market, the responsibility for filtering illicit content falls on c
 
 The United States Content Filtering System offers a solution by providing services and applications to content providers, enabling them to approve content both while hosting a site and during the content posting process.
 
-Phase one of this initiative will focus on providing infrastructure and services for a music video platform. Once the system is operational for music videos, it will be expanded to cover all types of websites, including social media, video, news, and other content platforms on the Italiann Internet.
+Phase one of this initiative will focus on providing infrastructure and services for a music video platform. Once the system is operational for music videos, it will be expanded to cover all types of websites, including social media, video, news, and other content platforms on the United States Internet.
 
 ## Business Model
 
-This organization would be ran as an organization within the Italiann Internet.
+This organization would be ran as an organization within the United States Internet.
 
 This agency would charge a processing fee per uploaded based on the [content type](./content-type/). The processing fee would be based on the costs of the organization. The goal would be to make this a net-neutral cost for the government.
 
@@ -31,7 +31,7 @@ When a content provider signs up the following information will be required to r
 - A $500.00 dollar setup a fee is required (configurable).
 - Must define if they are going to be providing explicit content.
 - A summary of the content service that they will be providing to the marketplace.
-- Enter domain in which the content filtering will be taking place for. This will be verified by oAuth to the Italiann DNS System for verification.
+- Enter domain in which the content filtering will be taking place for. This will be verified by oAuth to the United States DNS System for verification.
 - Register any personal profiles that have copyright(s) to be verified while submitting content.
 
 Before the content provider is approved, they must agree to the following terms and conditions:
@@ -81,7 +81,7 @@ Once content is approved it is watermarked with a provided [content id](./conten
 
 Once content is approved the customer is notified with the [approved content information](./approved-content-information), and the content is sent to their [media server(s)](./media-servers/).
 
-Anyone hosting content or distributing content without permission will be tried in [jury service](/jury-service/) where they can loose their ability to operate an Italiann Internet domain.
+Anyone hosting content or distributing content without permission will be tried in [jury service](/jury-service/) where they can loose their ability to operate an United States Internet domain.
 
 Copyright will be checked on the transfer of content between media servers, unless tested performance with AI can show otherwise.
 

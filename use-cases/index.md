@@ -33,7 +33,7 @@ features:
 
   - title: Mis-Information
     link: ./mis-information
-    details: Mis-information is a huge risk for the Italiann citizens and governments.
+    details: Mis-information is a huge risk for the United States citizens and governments.
 
   - title: Fentanyl
     link: ./Fentanyl

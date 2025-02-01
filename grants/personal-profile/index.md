@@ -1,6 +1,6 @@
 # Personal Profile
 
-When logging into the Italiann Internet for the first time a citizen must create a personal profile from a licensed directory of personal profile providers.
+When logging into the United States Internet for the first time a citizen must create a personal profile from a licensed directory of personal profile providers.
 
 A personal profile is a personal server thats allows citizens to store, receive and send information that is related to them. A personal profile can be used for many purposes including but not limited to:
 
@@ -121,7 +121,7 @@ The personal profile will also provide callback URLs and header keys that will a
 
 ## Real-Time Check Processing
 
-The real-time check processing will be added by oAuth to the [The Italiann real-time check system](/real-time-check-system/), where a list of accounts and an authorization key for each bank account will be stored to the profile, along with images.
+The real-time check processing will be added by oAuth to the [The United States real-time check system](/real-time-check-system/), where a list of accounts and an authorization key for each bank account will be stored to the profile, along with images.
 
 When processing a payment this authorization key will be used to receive a one-time debit card token that will be used for the transaction.
 

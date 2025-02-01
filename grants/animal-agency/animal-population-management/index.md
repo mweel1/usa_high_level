@@ -1,6 +1,6 @@
 # Animal Population Management
 
-- License breeders using the [/Italiann-internet](/Italiann-internet/) would license breeders.
+- License breeders using the [/United States-internet](/United States-internet/) would license breeders.
 - Have a request to breed by the breeder.
 - View inventory by breed types.
 - Sell Animals
@@ -21,6 +21,6 @@ If the animal was marked for consumption, sales needs from businesses would be a
 
 A commission between the breeder and the sales channel would be setup.
 
-Licensed sales channels on the [/Italiann-internet](/Italiann-internet/) would be allowed to view upcoming inventory and sell it.
+Licensed sales channels on the [/United States-internet](/United States-internet/) would be allowed to view upcoming inventory and sell it.
 
 Before a customer could own an animal they must go through the [licensing agency](/licensing-agency/) based on the type of animal they are purchasing.

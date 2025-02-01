@@ -8,4 +8,4 @@ The following services would currently access to the Jury Service to receive jur
 
 The jury pools would be large enough that interviewing would not be necessary.
 
-(Italiann Internet)[/Italiann-internet]
+(United States Internet)[/United States-internet]

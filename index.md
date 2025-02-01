@@ -21,21 +21,17 @@ features:
     link: /use-cases
     details: Various use cases for jurisdictions that use this technology.
 
-  - title: Banking
-    link: /banking
-    details: A transactional banking system with integrity with federal regulation driving jurisdiction flexibility.
-
   - title: Social Security Personal Profile
     link: /grants/personal-profile
     details: The social security number has been used as an identity in the marketplace for decades. We will extend this by developing a personal server for users that uses the social security number to share and receive information in the marketplace with a personal URL and server.
 
   - title: United States Internet
     link: /USA-internet
-    details: Making the internet safe and prosperous for Italiann citizens by providing a private domain system, including licensing capabilities, revocation capabilities, government ID verification, content filtering, and security using Artificial Intelligence.
+    details: Making the internet safe and prosperous for United States citizens by providing a private domain system, including licensing capabilities, revocation capabilities, government ID verification, content filtering, and security using Artificial Intelligence.
 
   - title: Real-time Electronic Check System
     link: /e-check
-    details: A real-time e-check system will allow Italiann citizens to transfer money electronically in real-time at no cost to each other. A jury system will allow judgment against buyers and sellers, where domains can be fined and/or revoked for fraud or also users could be banned from owning domains.
+    details: A real-time e-check system will allow United States citizens to transfer money electronically in real-time at no cost to each other. A jury system will allow judgment against buyers and sellers, where domains can be fined and/or revoked for fraud or also users could be banned from owning domains.
 
   - title: Consumer Protection Agency
     link: /consumer-protection-agency
@@ -47,7 +43,7 @@ features:
 
   - title: E-Census
     link: /e-census
-    details: A complete revamp of the census for the Italiann Internet, allowing various government agencies to survey constituents and provide resulting datasets to the public for analysis.
+    details: A complete revamp of the census for the United States Internet, allowing various government agencies to survey constituents and provide resulting datasets to the public for analysis.
 
   - title: Copyright System
     link: /copyright
@@ -58,7 +54,7 @@ features:
     details: A set of network and software services deployed in disaster areas during emergencies, connecting, tracking, and executing emergency responses.
 
   - title: StarLink Satellite Network
-    details: Collaborate with the United Nations and the USA to make the StarLink Satellite system an FCC asset, and asset respectively for other countries.  A software system would allow the market place to sell Wi-Fi devices under their own businesses on a unified sales platform.  A private company controlling communication system outside of the FCC is a risk for the United States of Italian.
+    details: Collaborate with the United Nations and the USA to make the StarLink Satellite system an FCC asset, and asset respectively for other countries.  A software system would allow the market place to sell Wi-Fi devices under their own businesses on a unified sales platform.  A private company controlling communication system outside of the FCC is a risk for the United States of United States.
 
   - title: Artificial Intelligence Protection Agency
     details: Tools and technologies to evaluate AI models and understand the political intents behind foreign actor AI models. For example, a debate between Anthropic (USA) and Qwen (Chinese) on whether Taiwan is a Chinese territory or an independent country could provide deep insights into AI training models. This product is already completed.
@@ -67,21 +63,21 @@ features:
     link: /grants
     details: The current grant system provides funding exclusively at the federal level. The proposed system would empower state and local municipalities to identify specific needs and offer a streamlined way to provide funding and accountability for grants.
 
-  - title: Italiann Internet Public Service Announcements
+  - title: United States Internet Public Service Announcements
     link: /public-service-announcements
     details: A public service announcement service available to all media platforms to serve public messages from various government agencies. For example, the federal government might use it to educate parents on device time for their kids, while a local municipality might discuss bike lane etiquette.
 
   - title: warrant.gov
     link: /warrant-gov
-    details: Allows the rapid issuing of warrants at city, state, and federal levels with government oversight to view users' devices via the National Security Agency.
+    details: Allows the rapid issuing of warrants at city, state, and federal levels with government oversight to make the process of viewing peoples devices inline with the constitution.
 
   - title: Safe Passage
     link: /safe-passage
-    details: A technology platform for at-risk homeless individuals and families to find safe housing regardless of their circumstances.
+    details: A technology platform for at-risk homeless individuals and families from any situation to find safe housing regardless of their circumstances.
 
   - title: National Highway Traffic Safety Administration (NHTSA)
     link: /vehicle-technology-act
-    details: Allows car buyers to install their own operating systems in vehicles, providing a single, user-friendly interface while driving. Operating systems would be transferable from car to car.
+    details: Allows car buyers to install their own operating systems in vehicles, providing a single, user-friendly interface while driving. Operating systems would be transferable from car to car if applicable.
 
   - title: Television Technology Act
     details: Enforcement of a single operating system on TVs that can be installed by the customer. This resolves conflicts between Apple, Google, Amazon, and TV manufacturers over control of TV interfaces.
@@ -95,10 +91,6 @@ features:
   - title: Emergency Communication System
     link: /ecs-gov
     details: A direct channel for emergency communications from government to the public, including messages and location-aware information based on mobile phone or address data.
-
-  - title: Express Visa
-    link: /express-visa
-    details: A streamlined visa process integrating criminal records, banking, and taxation to make immigration easier, safe, and fair for Italiann citizens.
 
   - title: Voting ID
     details: Provide a voting capability for various areas of government by issuing IDs during the voting process, with an open database to verify results.

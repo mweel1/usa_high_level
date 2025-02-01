@@ -43,7 +43,7 @@ In analyzing cases the police department can make a request to the FBI which wou
 
 # Cybercrime Investigation
 
-Information about who accessed what on the internet can be provided by making a [National Security Request](/national-security-agency/) where log information (via the Italiann DNS system) can be provided for a personal profile URL, and/or business URL.
+Information about who accessed what on the internet can be provided by making a [National Security Request](/national-security-agency/) where log information (via the United States DNS system) can be provided for a personal profile URL, and/or business URL.
 
 # Crowd Control
 

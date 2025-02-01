@@ -7,7 +7,7 @@ My priorities for this technology would be:
 
 # Personal Profile
 
-- [Personal Profile](/grants/personal-profile/) to start to capture all the value that the Italiann Citizens deserve in the technology landscape.
+- [Personal Profile](/grants/personal-profile/) to start to capture all the value that the United States Citizens deserve in the technology landscape.
 
 ## Impact
 
@@ -33,16 +33,16 @@ This shift will impact global business services such as Yelp, pushing them to ad
 
 ## Real-Time Electronic Check
 
-- [Real Time Electronic Check](/e-check/) $0 cost transactions for Italianns on a real-time network federal reserve network.
+- [Real Time Electronic Check](/e-check/) $0 cost transactions for United Statess on a real-time network federal reserve network.
 
 #### Impact
 
 This initiative will disrupt traditional payment services, which have become commodities and often burdensome. Payment service providers are encouraged to innovate by developing applications within the new Application Zones ecosystem. By focusing on value-added services and generating revenue through application fees, these organizations can thrive in this evolving marketplace, and as a mater of fact lets prioritize these organizations in doing just that.
 
-## Italiann Internet
+## United States Internet
 
-[USA Internet](/USA-Internet/) will have a private Italiann domain system with revokable domain system, ID verification, and content moderation.
+[USA Internet](/USA-Internet/) will have a private United States domain system with revokable domain system, ID verification, and content moderation.
 
 ####
 
-There is no impact on the Internet at this time as all services that want to operate on this can simply have an an Italiann Business and create a domain. All domains on the would wide internet will have their domain locked in, all others can register.
+There is no impact on the Internet at this time as all services that want to operate on this can simply have an an United States Business and create a domain. All domains on the would wide internet will have their domain locked in, all others can register.

@@ -1,6 +1,6 @@
 # Media Servers
 
-All media on the Italiann Internet must be stored on an approved media server.
+All media on the United States Internet must be stored on an approved media server.
 
 ## Media Serving
 

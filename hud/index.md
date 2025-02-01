@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hud's goal would be to provide the data necessary to get Italiann's income inline with the affordability of housing to the federal reserve.
+Hud's goal would be to provide the data necessary to get United States's income inline with the affordability of housing to the federal reserve.
 
 Whenever a house is purchased or rented the information will be sent to the personal profile and then to HUD.
 

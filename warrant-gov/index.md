@@ -2,7 +2,7 @@
 
 ## Overview
 
-The primary use of warrant.gov will be to discuss and issue warrants from government stakeholders at federal, state, and city level on the Italiann Internet.
+The primary use of warrant.gov will be to discuss and issue warrants from government stakeholders at federal, state, and city level on the United States Internet.
 
 A warrant system will be provided for various jurisdiction.
 
