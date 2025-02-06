@@ -52,8 +52,6 @@ Grants with reoccurring costs will be voted on each year where the grant recipie
 
 Organization that use grant money property's are the right of the government, and can be re-allocated.
 
-As grants can take a roll of government offices users could set if they would have their own tax basis or not. This could make a difference easier or harder for the government due inflationary and deflationary free money could provide.
-
 # Grants
 
 Here are a few grants I would propose in the technology sphere:
@@ -108,7 +106,7 @@ Here are a few grants I would propose in the technology sphere:
 
 - [AI Debate](./ai-debate/) The management of AI Debates to evaluate AI models as they come out.
 
-- [Survey Services](./survey-services/) Allows the market place to verify survey and in future releases items like awards and non-revokable certificates (for example a birth certificate).
+- [Survey Services](./survey-services/) Allows the market place to verify surveys
 
 - [The micro-industrial revolution](./micro-industrial-revolution/) would call on corporate United States to usher in a new production capacity to develop products and services in local areas with smaller production processes and better environmental controls. This would be coupled with a standardized robust API system to allow these small areas of production, services and consumers to communicate. Today our supply chain(s) are far to long and costly in environmental, and to difficult to protect with ongoing wars.
 

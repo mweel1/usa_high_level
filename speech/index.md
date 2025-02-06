@@ -1,20 +1,20 @@
+# Speech
+
 # Agenda
 
 I was elected out in the mountains and started to be harassed by various technology companies for developing technology that would create competition in the marketplace instead of dealing with the monopolies that our technology companies enjoy today.
 
 I literally couldn’t send e-mails, post on social networks, use my i-phone. It was an all-out assault on the technology companies against me. It got so bad; I couldn’t operate in society and did some crimes just so I could go to jail and be taken care of. I would go the police for help, and they didn’t know how to help. I thought if I did more and more bigger crimes they would listen, nothing happened. They couldn’t help me.
 
-I would try to order hotels and my reservations would be hacked; my card wouldn’t work at gas stations, it was all out assault.
-
 Did time for 2 years straight, and studied more about how government could help its citizens through technology standards – so their plan backfired. 10 Hours straight, 2 years straight, pencil and paper.
 
 I then got back into a non-governmental role building software, and everything has been fine for a few years…
 
-However, all those ideas came back, and I started documenting and fighting again…
+However, all those ideas came back, and I started documenting and fighting with these organizations again…
 
 then it started again…. Hacking cards, hotels, social networks, they own it all…
 
-My goal for this meeting is to convince you the American people that what I am doing for America is good for America citizens and I am an asset to this country.
+My goal for this meeting is to convince you the American people that what I am doing what is right for America and its citizens.
 
 Now let’s get into some problems with the tech industry as we know it today…
 
@@ -220,7 +220,7 @@ If that succeeds, I would like to work with the city of Laguna Beach, and ..
 4. Work with Laguna Beach and build the first app launcher for a city, and all the businesses here. This will be an incredible experience.
 5. Work with America and ensure that each time a new standard is put in place its available for America to do the same in other towns.
 6. Break up the city government into many organizations that we can all monitor and vote on and get rid of local taxes much like a social network.
-7. Receive a bank fund from the federal reserve in which local banks will operate on open standards with a commitment to funding and revitalizing buildings and local businesses, Laguna Beach if falling apart.
-8. We will have a city technology group that will be voted
+7. Receive a bank fund from the federal reserve in which local banks will operate on open standards with a commitment to funding and revitalizing buildings and local businesses.
+8. We will have a city technology group that will be voted on by grant that I will operate.
 
 Thank you for coming out tonight, and I would love to answer any questions you might have.

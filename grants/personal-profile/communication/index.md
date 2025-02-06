@@ -32,3 +32,7 @@ Each line shared publicly in the federal white pages.
 AI, or agents will connect to all communication providers, and multi-plex providers to listen for communications that would be a security risk.
 
 With a warrant other jurisdictions can request communications with a list of provider ids and line ids along with a date range.
+
+## Current Carriers
+
+All current carries will all have first mover advantage in the network provisioning as a developer and will release with the product where other providers can use the open standards.

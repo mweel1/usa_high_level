@@ -10,15 +10,15 @@ hero:
 
 # Preface
 
-The government services would be a set of services that would have to be authenticated when a user sets-up their personal profile. Once these services are authenticated they would provide keys to use the services at various interaction points in the operating system.
-
-Operating system would include mobile phones, personal computers, vehicle systems, and any future devices users might work with.
+The government services would be a set of services that would have to be authenticated when a user sets-up their personal profile. Once these services are authenticated they would provide keys to use the services at various interaction points in the operating system and to the government.
 
 Allowing companies like Apple and Google to provide government services is problematic for a number reasons:
 
 - The government has to work with many operating systems to deal with their technologies and policies for enforcement. How many do you want to work in this scenario?
 - Rules although might be clearly defined, are hard to enforce and monitor with operating system providers in the market.
 - There is large infrastructure and resource costs for operating system providers to implement these requirements. Especially for new market participants.
+
+Operating system would include mobile phones, personal computers, vehicle systems, and any future devices users might work with.
 
 # Overview
 
@@ -64,6 +64,10 @@ U.S. Department of Labor services to view your resume events and view resume eve
 - Accounts receivables will be provided.
 - Accounts payable will be provided.
 - A categorized list of expenses by category.
+
+[Department of Transportation] - All devices will be connected to the department of transportation to provide their GPS location so the data can be used in the market place.
+
+[Employment Development Department] - Will be a federal grant based organization that will collected all job related information from the personal profile and provide information to social services, and release public/anonymous information about employment.
 
 # Login
 

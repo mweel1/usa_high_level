@@ -28,9 +28,9 @@ Application approval will happen at the FCC as it relates to allowing various bu
 
 #### Government Spheres (Cities, Counties, States, Federal)
 
-Anyone with a .gov e-mail address can register to manage their jurisdictions sites in their government spheres. FCC administrators will review agency logins and develop the geo-fence and assigns administrators users to it where other users from that domain can be invited.
+Anyone with a .gov e-mail address can register for approval to manage their jurisdictions sites in their government spheres. FCC administrators will review agency logins and develop the geo-fence and assigns administrators users to it where other users from that domain can be invited.
 
-All geo-fences will be designed by their parent. For example, FCC will manage all federal jurisdictions, the federal jurisdiction will manage all the states, the states will manage all the counties, the counties will manage all the cities. The cities will manage all their businesses.
+The application will have lineage based roll based security where applications can be managed in their context.
 
 #### Business Application Zones
 
@@ -38,17 +38,19 @@ All municipalities that register permits or business licenses must provide login
 
 #### Emergency Zones
 
-Emergency Zones allow various jurisdictions to deploy and preset applications stores to a geo-fence. For example a disaster response team could highlight a location during a fire and deploy zone applications. All phone companies must provide a satellite connectivity for these emergency zones over a slow-ip connection.
+Application's are approved and categorized by FEMA. When an emergency operation is present, a geo-fence is placed around the zone and the applications are deployed to the citizens. For example a disaster response team could highlight a location during a fire and deploy zone applications. All phone companies must provide a satellite connectivity for these emergency zones over a slow-ip connection on handset companies.
 
-The [emergency notification](/ecs-gov/) system will be used to notify the emergency zone has been deployed and launch it.
+The [emergency notification](/ecs-gov/) system will be used to notify the emergency zone has been deployed and launch it the applications.
 
-Emergency zones can provide a context key at the zone level or application level to provide different context for the API service in which the application can operate. For example, the command and control could be downtown LA even though the application zone was deployed to 4 different places. The domain API in which the applications talk to should always be a single domain, and then proxy with to services based on the context key. The context key can be any value.
+All applications will be developed by FEMA.
 
-All applications in a sphere zone will send this key to the calling servers in which they are setup to use.
+Emergency Zone application can mark applications as leave behind which will remain sticky until deleted.
 
 ##### Direct User Application Zones
 
 Managers of Application Zones can add specific profile URLs (or users) which would allow specific applications to launch when that user is specifically added to that zone. One example might be a waiter at a restaurant. There will be role capabilities with this also.
+
+Roles and permissions can also be provided to allow various business functions in the context.
 
 ### Internal Zones
 
@@ -60,9 +62,11 @@ In this case the recommended way to do this will be the use of numbers. A couple
 - Press a button to pay for a meter, and entering a meter #.
 - Pressing a button in a hotel room and retrieving the hotel room via a personal profile receipt.
 
+At least to start, I could be proven otherwise once the technology is released but that my feeling to start for safety measures.
+
 ## Approvals
 
-All applications associated to an application zone must be approved by their jurisdiction. There will be categories for each business type, and when applications are out of context of those normal categories they will be scrutinized more.
+FCC will approval all links that are available for the market to use in their application zones. Much like Apple's approval process the government will go through the use case of the product and make sure its safe for the public, it will also be associated with a certain business type.
 
 ## Network Zone
 
@@ -71,17 +75,25 @@ There will also be opportunities to register application zones based on a wirele
 - Launch an app store in a car vehicle to allow people to play music in the vehicle.
 - Launch a route map while riding a bus.
 
-Specific SSID can be registered with in jurisdictions where the operating systems must provide the applications in a network zone when the application zone button is selected.
+This will be done by providing a restricted SSID list where applications are approved, and then launched when that SSID is called.
 
-A new specification must be created to allow multiple wireless network access at the same to enable people to have connectivity to multiple wireless networks simultaionsuly.
+There will be two parts to this service:
+
+### Registration
+
+Registration is when you register the applications you would like to use.
+
+### SSID to Application Registration
+
+This will allow you to register SSIDs in the market and then associate your applications to them.
 
 ## No Drive Zones
 
-No drive zones can be deployed jurisdictions that will shut down a car when driving in certain areas preventing people from running over crowds.
+No drive zones can be deployed jurisdictions that will shut down a vehicle when driving in certain areas preventing people from running over crowds, driving in places they shouldn't, etc.
 
 ## Speed Zones
 
-Enforced speed zones can be set by jurisdictions that force the limit of a vehicles speed when driving on certain roads.
+Enforced speed zones can be set by jurisdictions that force the limit of a vehicles speed when driving on certain roads, for example by a park, school, etc.
 
 ## Operating System Control Events
 
@@ -97,15 +109,14 @@ Application Zones can trigger control commands in operating systems at certain t
 Anytime an application zone is defined the business must provide a QR code before entry where:
 
 - A list of operating system restrictions are provided.
-- A directory of applications in that zone your about to enter via QR Code along with the correct operations of using applications in the zone.
-- This operation of application would also be shown once to the user the first time they launched the application zone applications (if they never scanned the QR Code and saw it previously).
+- A directory of applications in that zone. A bit will be set on the application if it should be shown from a QR Code or only by pressing the domain zone button on your device.
 
 ## Why FCC?
 
-Its important this is an FCC asset due to the fact if operating systems tried to deliver this type of solution to the users there would many different "application zones" for citizens which would make it very confusing for users. It's important users get a consistent experience no matter what operating system they are on from vehicle operating systems, to mobile handsets.
+Its important this is an FCC asset due to the fact if operating systems tried to deliver this type of solution to the users there would many different "domain zones" for citizens which would make it very confusing for users. It's important users get a consistent experience no matter what operating system they are on from vehicle operating systems, to mobile handsets on the open American Internet.
 
 ## Risks
 
-One of the big risks with this technology is that people will be wondering around always pressing a button to see what application service is available. The FCC will provide [public service announcements](/public-service-announcements/) to the public on the best way to use these applications easily and safely. Each Application Zone will have a limit of 15 applications.
+One of the big risks with this technology is that people will be wondering around always pressing a button to see what application service is available. The [public service announcement system](/public-service-announcements/) will broadcast the best way to use these applications easily and safely. Each Application Zone will have a limit of 15 applications.
 
 Here is the [Project Plan](/project-plan) for the first version of the application.

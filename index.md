@@ -99,6 +99,14 @@ features:
     link: /cdc
     details: The Center for Disease Control will provide real-time test results from testing facilities. Unknown diseases will have containment plans for jurisdictions, with notifications via the [emergency notification system](/ecs-gov/) to stay indoors.
 
+  - title: Department of Education
+    link: /department-of-education
+    details: The department of education will be the management system for all schools who receive grant money.
+
+  - title: Human and Health Services
+    link: /human-and-health-services
+    details: Child Care,
+
   - title: Trade School Data Services
     link: /trade-school-data-services
     details: Provide market data on jobs, and develop schools to fill the need.

@@ -193,6 +193,12 @@ A list of your purchased books in PDF format. These can be shared based on right
 
 When adding a contact you can add it in clear text, or you can send a request to link directly to another contact so when there information changes so does yours or visa versa.
 
+## Applied for Jobs
+
+When applying for a job a call back URL will be provided to the business with the job history where the business will callback the URL with their business domain so it can be tracked in the applied for jobs area of the personal profile.
+
+The employment development agency will receive this information so it can provided stats on all the jobs being applied for.
+
 ## Job History
 
 This will include all all job events that happen in your life including:
@@ -214,9 +220,17 @@ All music and videos played would have to be sent to your media log. The media l
 
 When a vehicle is registered at the DMV, the DMV will update your registration. A link will be provided to go to the DMV, login and pay your bill with debit or credit.
 
+## Ledger
+
+This will be a ledger of all bank transactions with receipts and current balance due.
+
 ## Accounts Receivables
 
 All accounts receivables used in the market place will be stored here, a link to cancel subscriptions will be provided.
+
+## Incoming Deliveries
+
+Any deliveries designated to you will be stored along with the updated tracking information.
 
 ## Account Payable
 
@@ -224,7 +238,7 @@ All accounts payable will be stored here around with subscriptions, with a link 
 
 ## Communication
 
-[Communication lines](./communication/) can be setup between personal profile to make voice calls.
+[Communication lines](./communication/) can be setup between personal profile to make voice calls, backed by networks that can be sold.
 
 # Untied States Post Office
 

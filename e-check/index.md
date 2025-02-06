@@ -29,7 +29,7 @@ The following process would be applied to create a debit profile at the Federal 
 
 ## Application Requirements
 
-- A transaction list between buyer and seller must be provided for each account on the echeck.gov website.
+- A transaction list between buyer and seller must be provided for each account on the echeck.gov website and also be applied to your general ledger.
 - A link to transaction court to allow a seller and buyer to dispute a transaction where applicable laws would applied, for example:
   - A judgement to return money to buyer
   - A % of all future transactions will be provided to the winner of the case.
