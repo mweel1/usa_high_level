@@ -11,10 +11,6 @@ A personal profile is a personal server thats allows citizens to store, receive 
 5. Authorizing and storing keys to government services to allow operating systems to interact with government services.
 6. Storing keys to login into domains and native applications.
 
-# Birth Certificate
-
-The jurisdiction of human services will store the birth certificate and provide it to the personal profile. Any services using the personal profile birth certificate can always get it verified with human services.
-
 # Gov't Service Integration
 
 Whenever information is needed for the govt. The information will be provided to the govt agency where an ID will be received, and then placed in your personal profile with that ID.
@@ -23,27 +19,19 @@ Whenever information is needed for the govt. The information will be provided to
 
 Once a personal profile is setup and a user is logged into the operating system, different business profiles can be attached to the operating system. This is done by entering the business URL. If the personal profile exists in the business personal profiles category an confirmation request is sent to the personal profile to acknowledge the association of the business and the personal profile.
 
-# Sizing Information
-
-Standards will be create to receive scans of the entire body, where the marketplace and can use it to manufacture and sell goods.
-
 # Security
 
 The personal profile will be encrypted with a passphrase and an e-mail address where it can be recovered or changed.
 
-# Government Id
+## Data Points
 
-When adding a government Id. The front and back picture must be taken, where the government id will be used to verify the user with a video, and out of pocket questions.
+# Birth Certificate
 
-When presenting the id in public, attendants have 2 options, the citizen can show their ID's image where an animated government seal will surround the ID, or the bar code can be scanned on the back of the ID for further verification.
+Depending on the jurisdiction all birth certificates will be stored with them like they to do, this is typically the state. However, when they do create those birth certificates a copy will also be provided to your personal profile so you will have it for your records and it can be used in the market place.
 
-Government seals can only be shown when presenting their respective document. Under no circumstances will the operating system allow this framed image to be shown, or created on the operating system unless it comes directly from a personal profile.
+# Sizing Information
 
-If this impacts Plaid's business enough we will acuire it.
-
-# Passport
-
-If a user is not a citizen of the United States they can upload a passport where its verified along with creating an [express visa account](/express-visa/).
+Standards will be create to receive scans of the entire body, where the marketplace and can use it to manufacture and sell goods
 
 # Government OS Services
 
@@ -87,14 +75,6 @@ For example, I could setup an AI Assistant.
 
 When I setup my operating system it would request access to this 3rd party service where it can interact with it based on an common API.
 
-# Legal Guardian
-
-If a government id is uploaded of a person under the age of 18, at least 1 legal guardian must be associated to the personal profile or a legal guardian to the account to provide services for the child where needed. This is done by uploading the birth certificate where the birth certificate would ideally be verified by the issuing state.
-
-Anytime an ID is checked with a parent and an adult (for example an airport), any children on a missing persons list will be flagged.
-
-In the case of traveling by train, long haul bus, or air plane a guardian consent must be bound to the personal traveling with the child.
-
 # Personal Profile Storage Types
 
 ## Public API
@@ -102,6 +82,28 @@ In the case of traveling by train, long haul bus, or air plane a guardian consen
 Public APIs require no authorization process. For example, if I were to visit a website they can receive my language code in order to present the correct language to the user.
 
 - Language Code
+
+## Government Id
+
+When adding a government Id. The front and back picture must be taken, where the government id will be used to verify the user with a video, and out of pocket questions.
+
+When presenting the id in public, attendants have 2 options, the citizen can show their ID's image where an animated government seal will surround the ID, or the bar code can be scanned on the back of the ID for further verification.
+
+Government seals can only be shown when presenting their respective document. Under no circumstances will the operating system allow this framed image to be shown, or created on the operating system unless it comes directly from a personal profile.
+
+If this impacts Plaid's business enough we will acuire it.
+
+## Passport
+
+If a user is not a citizen of the United States they can upload a passport where its verified along with creating an [express visa account](/express-visa/).
+
+## Legal Guardian
+
+If a government id is uploaded of a person under the age of 18, at least 1 legal guardian must be associated to the personal profile or a legal guardian to the account to provide services for the child where needed. This is done by uploading the birth certificate where the birth certificate would ideally be verified by the issuing state.
+
+Anytime an ID is checked with a parent and an adult (for example an airport), any children on a missing persons list will be flagged.
+
+In the case of traveling by train, long haul bus, or air plane a guardian consent must be bound to the personal traveling with the child.
 
 ## Credit Cards
 
@@ -280,6 +282,10 @@ Access control keys can be stored to provide access to buildings, hotels and oth
 # Signed Documents
 
 All signed documents would be stored in your signed documents profile via the [e sign agency](/grants/e-sign-agency/). Anytime these documents are displayed in the operating system they would include the USA seal frame.
+
+# College Degrees
+
+All college degrees will be added
 
 # Personal Profile Licensing Service
 

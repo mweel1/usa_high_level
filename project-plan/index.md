@@ -219,7 +219,20 @@ If that succeeds, I would like to work with the city of Laguna Beach, and ..
 3. Work with the FCC to ensure these standards are deployed to Apple, and Google to ensure our personal information and our wallet is with us, not cooped up in a corporate silo where its unable to work within the marketplace.
 4. Work with Laguna Beach and build the first app launcher for a city, and all the businesses here. This will be an incredible experience.
 5. Work with America and ensure that each time a new standard is put in place its available for America to do the same in other towns.
-6. Break up the city government into many organizations that we can all monitor and vote on and get rid of local taxes much like a social network.
+6. Break up the city government into many organizations that we can all monitor and vote on and get rid of local taxes much like a social network. This will include:
+
+- Council
+- Fire
+- Marine Safety
+- Police
+- Public Works and Utilities
+- Community Development
+- Cultural Arts
+- Recreation
+- Transit
+- Information Technology
+- Cultural Arts
+
 7. Receive a bank fund from the federal reserve in which local banks will operate on open standards with a commitment to funding and revitalizing buildings and local businesses, Laguna Beach if falling apart.
 8. We will have a city technology group that will be voted
 

@@ -1,10 +1,10 @@
 # Speech
 
-# Agenda
-
-I was elected out in the mountains and started to be harassed by various technology companies for developing technology that would create competition in the marketplace instead of dealing with the monopolies that our technology companies enjoy today.
+I was elected out in the mountains in Silverado, CA for parks and recreation and started to be harassed by various technology companies for developing standards that would open up the market place.
 
 I literally couldn’t send e-mails, post on social networks, use my i-phone. It was an all-out assault on the technology companies against me. It got so bad; I couldn’t operate in society and did some crimes just so I could go to jail and be taken care of. I would go the police for help, and they didn’t know how to help. I thought if I did more and more bigger crimes they would listen, nothing happened. They couldn’t help me.
+
+Why can't our local police officer run a trace on what computers all my traffic go to from?
 
 Did time for 2 years straight, and studied more about how government could help its citizens through technology standards – so their plan backfired. 10 Hours straight, 2 years straight, pencil and paper.
 
@@ -109,7 +109,7 @@ These wall gardens with our data in corporate silos are having devastating effec
 
 Think about all the information we should own in our own personal servers:
 
-1. Our Identification
+1. Our Government Identification
 2. Credit Cards
 3. Electronic Check Cards
 4. Housing Information
@@ -124,19 +124,29 @@ Think about all the information we should own in our own personal servers:
 
 Many of these things are locked into our phone, and they don’t work in the marketplace because of proprietary standards.
 
+---
+
 5th Children Devices, how many parents are having trouble controlling your children’s time on all the various devices they own?
 
 This again is just a lack of standards.
 
-We need a universal app that we can control and view what our children are doing on them.
+We need a universal app that we can control and view what our children are doing all the time on all devices.
+
+---
+
+Lets put on our government hats now...
 
 Questions?
 
-Why don’t we have a census system that can query the public?
+Why do corporations own all the data about this community?
+
+We have a census system in our government, lets build this up and start querying the public a bit better for the betterment of the community online. All jurisdictions could use this.
 
 They come to our door every 4 years to collect data, why couldn’t we reach out to the population here in Laguna and ask:
 
-- What is your pet population at your house?
+- What is your pet population at your house in case of an emergency?
+
+All these types of requests would run through this.
 
 Let’s talk about taxes…
 
@@ -144,9 +154,11 @@ What is our goal as citizens paying taxes?
 
 So why don’t we just vote directly on these organizations for doing their job?
 
-Let’s talk a public bathroom government… Social Network… Voting… Accountability…
+Let’s talk about a public bathroom government… Social network type interface for approvals… Voting capabilities every x amount of years …direct accountability between you and the citizen.
 
-What about inflation?
+What about inflation? It would be easy for us to just create governments and pay each other right? That would create inflation?
+
+All government agencies would have quantifiable results we would try and compare with other jurisdiction, and if there weren't other jurisdictions doing it we would take note in a good way or bad way.
 
 Lets talk about TV…
 
@@ -154,9 +166,11 @@ How many different operating systems do we have on there?
 
 Apple TV, Samsung….
 
-Content is in multiple walled gardens, and its very difficult to manage subscriptions.
+Content is in multiple walled gardens, and its very difficult to manage subscriptions. There is 3 ways to pay for the NFL right now, 3.
 
-Using the American Domain system will put all these players in their correct place.
+Using the American Domain system will put all these players in their correct place and organize this, all TV programming will be domain driven.
+
+So if the NFL wants to play a game put it on nfl.com and all our devices could play this with a subscription, or pay with a real-time American Electronic E-Check Network.
 
 If you doing news, you will have a .news domain either all the way up to the federal level, to the local level.
 
@@ -214,13 +228,13 @@ I’d like everyone to get out their phone tonight and call Homeland Security wh
 
 If that succeeds, I would like to work with the city of Laguna Beach, and ..
 
-1. Ensure every government, business and person is able to communicate with each other.
+1. Ensure every government, business and person is able to communicate with each other. Your phone will work seamlessly with juke boxes, and ticketing services in town.
 2. Ensure our local government can integrate with state, and federal agencies.
 3. Work with the FCC to ensure these standards are deployed to Apple, and Google to ensure our personal information and our wallet is with us, not cooped up in a corporate silo where its unable to work within the marketplace.
 4. Work with Laguna Beach and build the first app launcher for a city, and all the businesses here. This will be an incredible experience.
 5. Work with America and ensure that each time a new standard is put in place its available for America to do the same in other towns.
 6. Break up the city government into many organizations that we can all monitor and vote on and get rid of local taxes much like a social network.
-7. Receive a bank fund from the federal reserve in which local banks will operate on open standards with a commitment to funding and revitalizing buildings and local businesses.
-8. We will have a city technology group that will be voted on by grant that I will operate.
-
-Thank you for coming out tonight, and I would love to answer any questions you might have.
+7. Receive a bank fund from the federal reserve in which local banks will operate on open standards with a commitment to funding and revitalizing buildings and local businesses. The will operate with ACH standards just like all banks do in America.
+8. We will have a city technology group that will be voted on by grant that I will operate, along with collaboration with federal technology grants that roll-up.
+9. I will work with the federal government and ensures this operating system where the wallet has been removed from the phone only works in Laguna Beach and other jurisdictions that use this technology. Google & Apple this is your future market place, your dead on delivery with these wall gardened information this ours.
+   Thank you for coming out tonight, and I would love to answer any questions you might have.

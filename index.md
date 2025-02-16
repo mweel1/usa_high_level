@@ -12,6 +12,9 @@ hero:
     - theme: brand
       link: /cr-mweel
       text: Copyright Martin Weel - 2025
+    - theme: Audio Streams
+      link: /stream
+      text: Audio Stream
 features:
   - title: Impact Report and Priorities
     link: /impact-report

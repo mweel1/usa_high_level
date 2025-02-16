@@ -1,6 +1,6 @@
 # FBI
 
-- The FBI will track all the [details about citizens](./citizen-tracking-database/) from the operating system to find criminals.
+- The FBI will track all the [details about citizens](./citizen-tracking-system/) from the operating system to find criminals.
 
 - The FBI would aggregate criminal records from the state and federal jurisdictions.
 
