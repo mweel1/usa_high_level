@@ -2,7 +2,7 @@
 
 Grocery companies profits have been in steep decline to help reduce inflation. However that has not fixed it. As the world population grows we are all after for the same products.
 
-- Reduce grocery bills by providing more manufacturing, distribution and retail of the food supply chain here at home.
+- Reduce grocery bills by providing more manufacturing, distribution and retail of the food supply chain here at home to enable competitive pricing.
 
 - Using the [micro-industrial revolution](/grants/micro-industrial-revolution/) the goal would be to reduce transportation costs and the cost of goods.
 

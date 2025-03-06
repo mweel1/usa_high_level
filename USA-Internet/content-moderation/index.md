@@ -8,7 +8,7 @@ In today’s market, the responsibility for filtering illicit content falls on c
 - Even if rules are clearly defined, enforcement and monitoring across various content providers is difficult.
 - Content providers face significant infrastructure and resource costs to comply with governmental regulations. This hinders startups and limits public access to diverse, innovative content.
 
-The United States Content Filtering System offers a solution by providing services and applications to content providers, enabling them to approve content both while hosting a site and during the content posting process.
+The United States Content Filtering System offers a solution by providing services and applications to content providers, enabling them to check content.
 
 Phase one of this initiative will focus on providing infrastructure and services for a music video platform. Once the system is operational for music videos, it will be expanded to cover all types of websites, including social media, video, news, and other content platforms on the United States Internet.
 
@@ -27,18 +27,17 @@ Content Provider Profile Sign Up
 When a content provider signs up the following information will be required to register:
 
 - Must provide [gov-id](/government-os-services/id-gov/).
-- Provide [debit](/micro-debit/) or credit card.
+- Provide [E-Check](/e-check/) or credit card.
 - A $500.00 dollar setup a fee is required (configurable).
 - Must define if they are going to be providing explicit content.
 - A summary of the content service that they will be providing to the marketplace.
-- Enter domain in which the content filtering will be taking place for. This will be verified by oAuth to the United States DNS System for verification.
-- Register any personal profiles that have copyright(s) to be verified while submitting content.
+- Enter domain in which the content filtering will be taking place for. This will be verified by oAuth to the United States DNS System for verification. A callback URL will be provided to the American DNS System if the owner changes to cancel the content moderation profile service for that domain.
 
 Before the content provider is approved, they must agree to the following terms and conditions:
 
 - All approved content must display the [content splash screen](./content-splah-screen/) for all long form videos. For short form content an indicator must be clickable to view the content [splash screen information](./content-splah-screen/).
 - Each domain using the content filtering service must require a [gov-id](/government-os-services//id-gov) if it has age restrictions based on explicit content.
-- Must provide filters in-order for content owners to filter out content they are not interested in.
+- Must provide filters in-order for content owners to filter out content they are not interested in based on content filtering categories.
 
 If the user is over 18 and agree to the viewing of explicit content. the system must provide the [content categories for over 18](./content-categories-for-18-over/).
 
@@ -50,7 +49,7 @@ Once a profile is setup the user can oAuth to a media server where media servers
 
 ### Attach Live Media Servers
 
-Once a profile is setup the user can oAuth to attach to live media servers where they are attached to the account.
+Once a profile is setup the user can oAuth to attach to live media servers where they are attached to the account for live streaming.
 
 #### Media Content Profile
 
@@ -71,9 +70,9 @@ Using artificial intelligence, content can be rejected if the owners content cat
 
 AI will also scan the content for anything that is a national security risk. AI will be initially trained, and further trained as content is discovered to be found as a national security risk. Manufacturing anthrax, Developing bombs, and other illicit activities.
 
-The content will also be checked at the [.copyright office](/copyright/) for copyright violations if the requesting user's e-mail address is not registered.
+The content will also be checked at the [.copyright office](/copyright/) for copyright violations if the requesting user's e-mail address is not registered as a copyright owner.
 
-Content provider profiles can be set to automatic approve, or go to the content filtering portal's Queue Management Module.
+Content provider profiles can be set to automatic approve if they have a good reputation, or go to the content filtering portal's Queue Management Module.
 
 ### Approved Content
 
@@ -84,6 +83,8 @@ Once content is approved the customer is notified with the [approved content inf
 Anyone hosting content or distributing content without permission will be tried in [jury service](/jury-service/) where they can loose their ability to operate an United States Internet domain.
 
 Copyright will be checked on the transfer of content between media servers, unless tested performance with AI can show otherwise.
+
+There is a corner case where at rest content might be come into copyright play, the content would be to great to scan every day and I believe the best that could be done is to scan it on transfer, or when the content is requested in which it has been at rest for a long period of time.
 
 ### Denied Content
 
@@ -101,7 +102,7 @@ Once content is approved the [approved content information](./approved-content-i
 
 ## Checksum Check
 
-A checksum service will randomly check files on media servers to ensure the file hasn't been tampered with and disable if it has and alert the content provider and content filtering service agent.
+A checksum service will randomly check files on media servers to ensure the file hasn't been tampered with and disable if it has and alert the content provider and content filtering service agent. Any media servers found to be changing content that was not originally created by the content moderation service will be prosecuted in jury court.
 
 ## Content API
 
@@ -119,7 +120,7 @@ If a content provider is going to provide a live content stream they must meet a
 
 All content streamed through live media server must go through the content filtering process for each frame.
 
-A one minute delay will be provided in the content to allow it to be monitored.
+A delay will be provided in the content to allow it to be monitored based on performance metrics.
 
 Live media servers will event the personal profile of each stream received, where a list of content and the amount views will be shown.
 

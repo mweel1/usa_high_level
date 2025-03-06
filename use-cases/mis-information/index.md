@@ -9,3 +9,5 @@ If social media sites do not enforce press licenses and their requirements their
 Mis-information will be further curtailed by filtering content through a moderation service to ensure no information is released on a mass scale that would be a determent to national security or safety.
 
 All social media sites owner must also be licensed.
+
+Information provided from 3rd party sources must provide a source.
