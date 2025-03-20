@@ -12,13 +12,13 @@ hero:
 The world wide internet has become an untrustworthy service for the citizens of the United States. These issues range from:
 
 - Financial fraud
-- Mis-information
+- Misinformation
 - Election interference from foreign actors
 - Unregulated age restrictions
-- Fraudulent email addresses
+- Governments using various .org and other domain names for government businesses instead of .gov.
 - Non-revokable domains
 
-Additionally, we rely on corporations like Google, who is currently under an anti-trust lawsuit to protect users from content. The original intent of the internet was exploration, productivity and innovation. The vision of the United States internet is to restore this.
+Additionally, we rely on corporations like Google, who is currently under an anti-trust lawsuit to protect users from content and to make it safe by gate keeping the internet. The original intent of the internet was exploration, productivity and innovation. The vision of the United States internet is to restore this, while making it safe.
 
 # United States Internet
 
@@ -34,11 +34,11 @@ Safety of content will be paramount to the United States Internet where a [conte
 
 ## DNS Requirements
 
-- The DNS system will track all requests made for the directory service, and provide them as an open API as logs in anonymous format.
+- The DNS system will track all requests made for the directory service, and provide them as an open API as logs in anonymous format if the domain owner chooses. Otherwise their domain name can be provided.
 - All DNS logs with the personal profile URL will be sent to the National Security Agency where jurisdictions can request details with proper approvals.
 - No caching of DNS records is allowed on clients when using the usa: prefix.
 - No IP addresses can be entered using the prefix domain usa: operating system.
-- When registering certain domain names and valid license is required. For example a .hair-salon would have at least one barber license available to register this business type.
+- When registering certain domain names a valid license is required for users in certain cases. For example a .hair-salon would have at least one barber license available to register the business type.
 - All domains registered would have to be in a domain zone location. This could be at any jurisdiction. For example, duckduckgo.com might be registered at a federal level, where a coffee shop would be associated locally to a city.
 
 ## Web Application Requirements

@@ -113,7 +113,12 @@ features:
   - title: Trade School Data Services
     link: /trade-school-data-services
     details: Provide market data on jobs, and develop schools to fill the need.
+
   - title: FBI
     link: /grants/personal-profile/government-os-services/fbi/index
     details: Integration of operating systems into the FBI.
+
+  - title: News Media
+    link: /news-media
+    details: A value chain of news media business will work together to provide media sites.  This include media content sites, articles writers, and ad businesses.
 ---

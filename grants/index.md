@@ -2,20 +2,13 @@
 
 ## Overview
 
-The current grant system provides funding exclusively at the federal level, meaning grant needs and priorities are determined solely by federal guidelines.
+The current grant system funds projects exclusively at the federal level through a unified platform. This means grant needs and priorities are dictated by federal guidelines, while bureaucracy at both federal and local levels complicates fund distribution. As a result, getting money to the right recipients is challenging, and accountability is often lacking.
 
-The proposed grant system would empower federal, state and local municipalities with greater autonomy to identify their specific needs and offer a simple, streamlined way to provide funding and most importantly accountability to the public.
+The proposed grant system would empower federal, state and local municipalities with greater autonomy to identify their specific needs from citizens and offer a simple, streamlined way to provide funding and most importantly accountability to the public.
 
 All grants would be voted on by their municipality to continue and to receive funding based on their parent jurisdiction allocations.
 
-All grant organizations will have comparison ledgers if they share commonalities with other organizations. For example. Put out 400 fires with x,y,z. At a cost/per-fire rate. I'm not a financial expert, but you must make sure these organizations stay in financial bounds, because voting for free money in
-not acceptable.
-
-I would like to ponder the question, if people are voting for these organizations to serve the public, they are indeed government organizations. That conflicts with our tax base and their organizations.
-
-One might consider winding government offices down and start pulling off taxes and transition government agencies to organizations that are monitored and funded directly by the public.
-
-If we started self funding and closing government organizations citzens would have to be aware of inflation or deflation repercussions as best possible.
+All grant organizations will have comparison ledgers if they share commonalities with other organizations. For example. Put out 400 fires with x,y,z. At a cost/per-fire rate. I'm not a financial expert, but you must make sure these organizations stay in financial bounds, because voting for free money in not acceptable.
 
 We will call these cooperative government agencies and will have .cga domain name.
 
