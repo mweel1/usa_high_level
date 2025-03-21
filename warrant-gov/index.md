@@ -2,8 +2,6 @@
 
 ## Overview
 
-The primary use of warrant.gov will be to discuss and issue warrants from government stakeholders at federal, state, and city level on the United States Internet.
+The current warrant system deployed by various jurisdictions must provide an API to allow various services in the market place to check the issuance of a warrant.
 
-A warrant system will be provided for various jurisdiction.
-
-A key will be provided to the jurisdiction where they must provide it to 3rd party services like the FBI and NSA to gain access to citizen data or their device services reflectivity.
+3rd Party Services will provide a warrant ID that will be validated when retrieving information.

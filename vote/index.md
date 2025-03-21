@@ -1,9 +1,5 @@
-# Voting
+# Federal Voting System
 
-Various jurisdiction will provide a ballot.
+Various jurisdiction will be provided a voting system. Ballot items will be created by the community, and approved by jurisdiction.
 
-A citizen must provide an United States Issued Government ID.
-
-When the citizen goes to vote they will receive a QR Code with a public ID.
-
-That QR Code will go to an open database with the public IDs and show the result of ballot items.
+Once the jurisdiction approves the ballot measure, customers will be notified via a .gov e-mail address that they need to vote for it.

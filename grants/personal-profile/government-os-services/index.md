@@ -38,7 +38,7 @@ A communication channel that allow operating systems to communicate with state,f
 
 [eds.gov](/eds-gov)
 
-# National Security Agency.
+# National Security Agency
 
 The NSA primarily uses phone data for intelligence gathering, surveillance, and national security purposes. They may monitor calls, metadata (such as call duration, numbers dialed, and locations), and encrypted communications to detect threats related to terrorism, cybercrime, and foreign espionage. They also analyze patterns in phone usage to identify suspicious activity, track persons of interest, and support counterintelligence operations. While direct access to phone content often requires legal authorization, the NSA works with telecom providers and other agencies to collect and analyze large-scale communication data for security purposes.
 
@@ -74,3 +74,7 @@ Government agencies oversee various financial and business activities to ensure 
 # Employment Data
 
 The government OS channel will allow government to analyze economic trends, enforce tax compliance, and regulate labor markets. Agencies could improve Social Security and benefits accuracy, detect fraud, and support workforce planning by developing job training programs. Employment data would also help verify work authorization, enforce wage laws, and optimize public policies. While this could enhance efficiency and decision-making.
+
+# Department of Education
+
+The department of education will oAuth with the personal profile to receive household information to predict education needs for the market place.

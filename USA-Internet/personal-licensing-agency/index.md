@@ -50,7 +50,7 @@ One of the big issues with the world wide internet today is mis-information. On 
 - Journalism - A journalist who is licensed to provide journalism to the market place.
 - Press - A person of the press that would be providing press information, and would have to deal with various guidelines including:
 
-  - All information that is provided must be factual from credible sources.
+  - All information that is provided must be factual from credible sources via the domain system.
   - You are not allowed to be affiliated with other sources any in regard.
 
 - Influencer - A person that is influencing a large part of the population with media.

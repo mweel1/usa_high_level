@@ -2,7 +2,7 @@
 
 A federally deployed court system for various jurisdictions would allow the procurement of court cases. The federally deployed court system would allow various jurisdictions to register with their .gov e-mail address and receive access to their jurisdiction to manage it.
 
-They would be allowed to register licensed judges into the system.
+They would be allowed to licensed judges into the system, which would receive a callback from the licensing system.
 
 The court system would allow for people to:
 
