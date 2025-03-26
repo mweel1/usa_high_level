@@ -1,16 +1,10 @@
 # Personal Licensing Agency
 
-Personal licenses are issued to a user’s profile once they meet the relevant requirements of the various licensing organizations. These licenses are stored in the personal licensing agency’s system.
-
-The licensing agency maintains a directory of educational organizations that offer the necessary training and certification for various licenses. Upon completing the required coursework, a user receives the corresponding license in their personal profile. Some licenses must be periodically renewed according to specific rules.
+Personal licenses are issued to the American Domain System via the DNS system once they meet the relevant requirements of the various licensing.  Which might include certificates, degrees and other forms of requirements.  These licenses are stored in the personal licensing agency’s system.
 
 Certain software applications require a valid license to grant access through a personal profile. For example, a bartender license might be needed to log in to systems that manage bartender services. The personal licensing agency maintains a list of software applications and their license requirements, which are implemented in the marketplace.
 
-License verification is enforced through the FBI. Applications must not only check a user’s license in their profile but also confirm its validity with the personal licensing agency.
-
-Each license type will have an organization responsible for issuing licenses, setting the rules and enforcing them based on current laws. API Keys will be available for these organizations as they are verified by the licensing agency organization to add, update and delete licenses.
-
-Many new organizations can be developed via [grants](/grants/) to manage licenses.
+License verification are checked and enforced through the FBI by walking around and testing log-ins. Applications must not only check a user’s license in their profile but also confirm its validity with the personal licensing agency via the ID.
 
 Here are a number examples of domain names that would enable users to provide services on the internet using the licensing agency service.
 
@@ -53,7 +47,7 @@ One of the big issues with the world wide internet today is mis-information. On 
   - All information that is provided must be factual from credible sources via the domain system.
   - You are not allowed to be affiliated with other sources any in regard.
 
-- Influencer - A person that is influencing a large part of the population with media.
+- Influencer - A person that is influencing a large part of the population with media. 
 
 Here are some of the requirements of these individuals:
 

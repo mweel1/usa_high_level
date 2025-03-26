@@ -1,30 +1,30 @@
 # Federal Department of Education
 
-The federal grant system will provide technology and grant funding to states to help manage their school districts.
+The federal grant system will provide technology and grant funding to states to help manage their school districts via the federal department of education.
 
 ## Starting a School
 
-Starting a school requires the process licensing, finding enrolment, and registering a domain based on your qualifications.
+Starting a school requires the proper licensing, finding enrolment, and registering a domain based on your grade level.
 
 ### Licensing
 
 A person is a [licensed](./teacher-license-requirements/) to become a teacher, where their certificate is placed in their personal profile.
 
-A list of educational opportunities are provided to teachers to become licensed and accredited. Which include colleges, and trade schools and will have their own set of requirements when being registered.
+A list of educational opportunities are provided to teachers to become licensed at the department of education which include colleges, and trade schools and will have their own set of requirements when applying to become a teacher.
 
 ### Domain Registration
 
 Once licensed with their certificate they will apply to register .K8-school or .HS-school with their certificate subject credentials.
 
-They can optionally apply for grant money if its needed from the state, which must include your enrolment. Your enrollment can be from anywhere.
+They can optionally apply for grant money if its needed from the state, which must include your enrolment. Your enrollment can include students from anywhere if your its on-line only.
 
 Grants can also be provided for marketing efforts to try to achieve enrolment.
 
-The domain registration will also include if its in-person or on-line. We must create a requirement on how much on-line school can be done vs. in-person.
+The domain registration will also include if its in-person or on-line and what percentage. We must create a requirement on how much on-line school can be done vs. in-person.
 
 ## Credit Requirements
 
-Each state will have student and school credit requirements for all the required subjects. These subject include:
+Each state will have student and school credit requirements for all the required subjects. These subject could include:
 
 ### Grade School (K-8)
 
@@ -75,32 +75,26 @@ Electives & Applied Learning:
 
 ## Organizing Teachers and Students
 
-The state will provide a portal for new districts that will connect the community, this will include teachers, and parents. We will start with a few districts in a city.
+The state will provide a portal for new districts that will connect the community, this will include teachers, and parents. We will start with a few districts in a city. We will also publish areas where schools have a deficit and provide grants to teach teachers.
 
-## Education Tracking
-
-The state will set the the amount of hours each district's students have to participate in each subject.
-
-The education tracking module will provide states the ability to track what subjects are missing for various districts so those can be provided to the market place and trained.
+The state will set the the amount of hours each district's students have to participate in each subject each semester.
 
 Furthermore, once children enrolled classes the DOE platform will ensure that all students are receiving their credit in the required subjects. All [personal profiles](/grants/personal-profile) will have to oAuth with the department of education to predict school trends based on households in various areas.
 
-Education tracking system will ensure it receives all the data about students and the needs for students for 2 years ahead and align teacher training programs with the children demand. All schools will have a buffer to ensure all children have the capability to attend school for new students.
+Education tracking system will ensure it receives all the data about students and the needs for students for 2 years ahead and align teacher training programs with the children demand. All schools will have a buffer to ensure all children have the capability to attend school for new students. This will start with a 20% buffer.
 
-The DOE application will provide an API for each district and application that will allow students to:
+The DOE application will provide the following application functionality:
 
 - Apply for enrolment at schools
 - Allow .school organizations to upload their coarse material for the students
-- Set grades for various schools
+- Set grades
 - Scheduling module
-
-All education statistics will be sent to the department of education at all levels above, and then the personal profile.
 
 Enrollment will ensure all vaccines have been completed where the doctors medical events will be in the personal profile of the student.
 
 ## School Training
 
-The department of education will have training programs available for teachers on-line to train them on all .K8-education and .HS-education type's.
+The department of education will have training programs available for teachers on-line to train them on all .K8-education and .HS-education type's. We will have all types of schools from in classroom to field classes.
 
 ## School Location Objective
 
@@ -108,7 +102,7 @@ The objective of having many schools with grants is to have enough school facili
 
 Reporting and maps will be available to evaluate this for each district's.
 
-Houses will be acquired by making offer on properties to willing sellers.
+Houses will be acquired by making offer on properties to willing sellers at 20-30% of value. These will be acuired and owned by the department of education at the state level.
 
 ## Field Trip Transportation
 

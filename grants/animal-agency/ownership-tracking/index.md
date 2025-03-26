@@ -6,10 +6,11 @@ When an animal is born, the breeder would log-in and register the breed where a 
 
 ## Transfer of ownership
 
-At any-time the owner can transfer the chip to another owner where they would become the owner via e-mail address if they were allowed to purchase animals. You must fit the following qualifications to transfer the animal to an owner based on its type:
+At any-time the owner can transfer the chip to another owner where they would become the owner via the personal profile URL. You must fit the following qualifications to transfer the animal to an owner based on its type:
 
 - Nobody in the household can have criminal records of animal abuse.
 - Must living a residence large enough for the animal.
+- Agree to go through a certification process that teaches people how to manage their pet.
 
 ## Finding Lost Animals
 
@@ -19,4 +20,4 @@ If an animal was lost where the pet agency application would loaded from the [Pu
 
 ## Verification of Ownership
 
-Registered .gov agencies can have access to the pet agency application that would allow them to scan a tag and send a text message to the owner where they would verify with a verbal code.
+Registered .gov agencies can have access to the pet agency application that would allow them to scan a tag and send an e-mail to the owner where they would verify with a verbal code.

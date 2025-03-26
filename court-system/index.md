@@ -16,3 +16,5 @@ Judges will be licensed in each platform and advise court cases in the jurisdict
 The jury would then deliberate the case and make a decision.
 
 If the case was to difficult for the jury, they could request expert advise from industry experts via a bidding process. Expert witnesses would be on the system for various subject matters and would be bided out for their services.
+
+

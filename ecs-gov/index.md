@@ -34,7 +34,7 @@ Before a message would be sent to the population it would have to be approved by
 
 ## Devices
 
-All physical communication devices/operating systems would be registered with the Emergency Communication System where they would be notified in case of emergencies also during the [operating system setup](/government-os-services/) process.
+All physical communication devices/operating systems would be registered with the Emergency Communication System via the personal profile where they would be notified in case of emergencies also during the [operating system setup](/government-os-services/) process.
 
 This would include drone owners.
 
@@ -53,7 +53,9 @@ Some uses for this technology would be:
 
 ## Dynamic Spheres
 
-Police officers will have the ability to provide a sphere location and receive a list of vehicles and their facility by make, model, and license plate.
+Police officers will have the ability to provide a sphere location and receive a list of vehicles and their facility by make, model, and license plate, and personal profile's driving in the vehicle.
+
+For example, the highway patrol would be able to message everyone
 
 ## Operating System Commands
 
@@ -73,3 +75,7 @@ When the Emergency Communication System sends message it will send a message alo
 #### Commands
 
 - Show Emergency Domain Zone Application
+
+# Anonymous Mode
+
+ECS will have an API for non-authenticated devices that will allow devices to operate when nobody is authenticated into the system. Once authenticated however, the operating system must use the authorization processes for a authenticated user. The operating system will be loaded with a key to access ECS services anonymously.

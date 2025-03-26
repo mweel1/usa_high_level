@@ -1,6 +1,7 @@
 # Pet Abuse
 
-Licensed vets can create a complaint that could be voted on a jury where:
+The animal agency would have the ability for people to report animal abuse. Based on the evidence, the owner of the pets could:
 
-- The owner could loose access from their animal
-- The owner could be prevented from owning pets in the future
+- Fined
+- Loose access from their animal for 5 years
+- Prevented from owning pets in the future

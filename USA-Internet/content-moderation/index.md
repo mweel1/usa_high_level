@@ -64,7 +64,9 @@ The following requirements are needed when uploading content:
 6. [Content Categories 18 and Over](/USA-Internet/content-moderation/content-categories-for-18-over/)
 7. [Content Categories 18 and Under](/USA-Internet/content-moderation/content-categories-for-18-under/index.md)
 8. AI/Computer Generated
-9. Media Server(s) to store on
+9. Media Attribute - Influencer/Journalist
+10. Humor Tag
+11. Media Server(s) to store on
 
 When content is uploaded a transaction fee is applied to the content provider based on the category pricing table.
 

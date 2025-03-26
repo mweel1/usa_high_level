@@ -1,48 +1,73 @@
-# Impact Report
+# Operating System Login
 
-<br/>
-<Badge type="danger" text="United States to Private Market Place Impact Report" />
+When starting an Apple, Microsoft, or Linux computer starting for the first time, it will have them setup a personal profile with the social security on the American Internet or attach to an existing one.
 
-My priorities for this technology would be:
+If the user already has a personal profile, there social security number is sent to social security where there active personal profile URL is returned.
 
-# Personal Profile
+When setting up new personal profiles the operating system receiving a list of providers from the USA internet by reviewing the directory of .personal-profile-providers.
 
-- [Personal Profile](/grants/personal-profile/) to start to capture all the value that the United States Citizens deserve in the technology landscape.
+The user will redirect to these providers, and create a profile.
 
-## Impact
+# State Issued ID
 
-The introduction of robust authorization mechanisms will eliminate reliance on private marketplace SSO systems, such as “Login with Google” or “Login with Microsoft.” It will also simplify the cumbersome login processes.
-A new system would be provided between the operating system and personal profile by the Social Security Service will enable one-step authentication across devices, enhancing both security and user convenience.
+The first step will be to scan your ID via the camera.
 
-### Apple & Google
+Each state will have an open API to validate driver licenses.
 
-Apple, Microsoft and Google would have two just add a couple of pieces of software to their system which includes:
+The state will return all the details of the drivers license meta-data where it will be set as the default for the social security card information.
 
-- OAuth process to social security office for keys and to setup a personal-profile that would integrate into their native authentication system.
-- An authenticator application that would come up when the personal provider requested a login.
+Out of pocket questions will also be presented to the user.
 
-## Application Zones
+# Social Security
 
-- [Application Zones](/USA-Internet/domain-zones/) to replace the QR Code as a national security threat and open an entire new application eco-system driving standards out of the FCC. This opens up an entirely new application eco-system that we are just starting to grasp.
+Once the ID is scanned, a profile is created, it's oAuth'ed with the Social Security Office.
 
-#### Impact
+If the state ID is already in the system, it redirected to a recovery process for the profile already created.
 
-Application Zones will enable localized network applications and services. For example, users in a specific town, state or country could simply press a button to select a Dining application in their area instead of global services like Yelp.
+The Social Security than asks for permission to receive their full name and address to receive social security checks.
 
-This shift will impact global business services such as Yelp, pushing them to adapt by integrating with local businesses and tailoring their applications to specific regions. Companies will likely pivot to selling their solutions to cities and regional app stores, altering their customer base and business models.
+Once approved, the user is logged in to their session under that personal profile Id, and the social security guard is added to the personal profile.
 
-## Real-Time Electronic Check
+# Checking for new Services
 
-- [Real Time Electronic Check](/e-check/) $0 cost transactions for United Statess on a real-time network federal reserve network.
+Each time the personal profile is logged in, the operating system must check to see if new services need to be authorized. A flag will be set for the federal reserve when starting up, and more services will be added as they come available.
 
-#### Impact
+# Federal Reserve
 
-This initiative will disrupt traditional payment services, which have become commodities and often burdensome. Payment service providers are encouraged to innovate by developing applications within the new Application Zones ecosystem. By focusing on value-added services and generating revenue through application fees, these organizations can thrive in this evolving marketplace, and as a mater of fact lets prioritize these organizations in doing just that.
+The user will also oAuth to the federal reserve where they get all their bank issued cards.
 
-## United States Internet
+The federal reserve oAuth allow for:
 
-[USA Internet](/USA-Internet/) will have a private United States domain system with revokable domain system, ID verification, and content moderation.
+- The ability to get transactional card Ids when processing them threw credit card payment networks.
+- The ability to get transactional card Ids for processing on the real-time e-check network.
+- All cards will have a URL with a token to get a transactional card id each time a transaction takes place on a payment network.
 
-####
+# API
 
-There is no impact on the Internet at this time as all services that want to operate on this can simply have an an United States Business and create a domain. All domains on the would wide internet will have their domain locked in, all others can register.
+The only API available for the version will be to the handset carriers to make sure systems are operating correctly. The API surface will include:
+
+/identification/state/<id>/front
+/identification/state/<id>/back
+
+This will return the identification in a watermarked container that can be swiped right to left to flip.
+
+/cards
+
+Cards will allow the operating system to get a list of cards with their masked details, to receive a transactional card id the URL will be as part of the card details in the personal profile.
+
+/cards/<id>/transactional-id
+
+This will get a transactional id for the card to process on the correct processing network. A list of processing networks and their API end points will be available at the federal reserve.
+
+Two licensed domains will be available to start :
+
+moolah.credit-card-processor
+federal-reserve.e-check-processor
+
+# Operating System Startup
+
+The operating system must support capabilities to use the usa: prefix when browsing the web.
+
+All applications must support a manifest that ensures on communications are done on the American Internet or not. A flag will be presented on all applications and websites that are using the United States domain system.
+
+Mixed DNS systems are not allowed in web pages, or applications.

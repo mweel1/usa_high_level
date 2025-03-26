@@ -23,8 +23,6 @@ Congress could provide emergency funding to municipalities where the platform wo
 
 The state system will have grant money available for their constituents by [categories](./category/), and allocate percentages yearly to various cities.
 
-State citzens can
-
 ## County
 
 The county system will have grant money available for the public by [categories](./category/)
@@ -35,7 +33,7 @@ The city system will have grant money available for the public by [categories](.
 
 ## Grant Processing
 
-Grants are provided by federal, state and local municipalities to their constituents.
+Grants are provided by federal, state and local municipalities to their constituents. 
 
 Grants can be created by the governing body of these municipalities, but also the public can submit recommendations where they can be voted by the community using their [gov.id](/government-os-services/id-gov/) for recommended issuance.
 
@@ -43,7 +41,7 @@ When upstream municipalities are doing their allocations they can evaluate the b
 
 Grants with reoccurring costs will be voted on each year where the grant recipients need to keep the public updated with the progress of their grant money and projects.
 
-Organization that use grant money property's are the right of the government, and can be re-allocated.
+Organization that use grant money property's are the right of the government, and can be re-allocated with a new
 
 # Grants
 

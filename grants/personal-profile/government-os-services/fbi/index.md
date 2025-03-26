@@ -30,3 +30,5 @@
 - FBI would manage the camera systems for all public facilities, where [a warrant](/warrant-gov/) would be needed to view footage by various jurisdictions. The FBI would hold 5 years of content. The content will be protected by a warrant be issued at warrant.gov. Camera's will oAuth to the F.B.I to stream camera footage, via touch-blue tooth.
 
 - Jurisdictions would login via a .gov domain, and a warrant ID.
+
+- NSA would have capability to review content between the warrant and the video's being watched.

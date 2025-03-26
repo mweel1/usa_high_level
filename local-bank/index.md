@@ -2,8 +2,23 @@
 
 A local bank would have an ACH capability in and out.
 
-People would put a request in for a loan. The local business permitting process would start at both the grant and bank level.
+Licensed loan officers with a .loan-officer domain can log into the bank.  
 
-One approved they would be added to a list, local investors would invest much like on shark tank for equity. The business would pick the best one based on equity rates and relationships.
+People would put a request in for loans and the loan officers would process them. All loans that are approved must:
 
-The bank would send out payment requests to the businesses accounts receivable API to be paid each month.
+- Have a valid business permit
+- Business plan
+
+## API
+
+# public
+
+/account/register
+
+# authed
+
+#/account/<id>/ledger
+#/account/<id>/transfer/<source-account>
+
+
+

@@ -1,13 +1,10 @@
 # Animal Population Management
 
-- License breeders using the [/United States-internet](/United States-internet/) would license breeders.
-- Have a request to breed by the breeder.
-- View inventory by breed types.
-- Sell Animals
+Animal population management would ensure there is not over population in markets and to approve breeders when they want to breed animals.
 
 ## License Breeders
 
-License breeders would be allowed to login to the animal agency where they would request to breed animals.
+License breeders would be allowed to login to the animal agency where they would request to breed animals. This would include the parents, and the estimated count.
 
 ## Request to Bread
 
@@ -15,12 +12,10 @@ Based on inventory of the breed and sales trends in the area the breeder would g
 
 Depending on the technology available DNA could be sampled by the parents where any issues of breeding could be brought up and denied.
 
-If the animal was marked for consumption, sales needs from businesses would be analyzed to make sure their is a need.
-
 ## Sales
 
 A commission between the breeder and the sales channel would be setup.
 
-Licensed sales channels on the [/United States-internet](/United States-internet/) would be allowed to view upcoming inventory and sell it.
+An API would be available to for all breeders that would let them sell the animals in the market place. An application for each breeder could also be developed if they choose.
 
-Before a customer could own an animal they must go through the [licensing agency](/licensing-agency/) based on the type of animal they are purchasing.
+Before a customer could own an animal they must go through the [licensing agency](/licensing-agency/) based on the type of animal they are purchasing and get certified.

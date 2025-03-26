@@ -1,4 +1,4 @@
-# Entity Tracking Database
+# Citizen Tracking Database
 
 The entity tracking database will store information about devices and who is logged into them.
 
@@ -31,3 +31,19 @@ Laguna Beach Traffic management system would receive all vehicle device IDs and 
 Jurisdictions would be granted access by providing a url profile and are an employee at a .gov domain, and they have been properly authorized during the authorization process.
 
 A key would be provided for various offices each time an election was processed where they would be re-cycled. All keys must be stored encrypted at rest in various jurisdictions.
+
+## GPS Data
+
+All handset providers must provide the device identification that would bind the GPS location data to device and owner via a government issued identification received when setting up the device.
+
+## Service
+
+The following services would have access to the citizen database:
+
+[Emergency Communication Services](/ecs-gov/).
+[Census](/e-census/)
+
+The following agency would have to have court orders or warrants to access data about individuals:
+
+[FBI](/fbi)
+[National Security Agency](/national-security-agency/)

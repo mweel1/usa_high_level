@@ -1,8 +1,13 @@
 ## FEMA Disaster Response System
 
-The disaster response system would be a set of hardware and software services that would be deployed during devastating events where communication is not available through normal means.
+The disaster response system would be a set of software services that would be deployed during devastating events.
 
-The user would agree that FEMA would issue keys to enable their phone to access and emergency FEMA network.
+During personal profile provisioning the citizen will oAuth to receive FEMA services for
+emergencies.
+
+This oAuth process would enable a socket connection to FEMA where an Application Zone can be deployed to a citizen when sent to the citizens in a certain area.
+
+The geo-fence of users that are in application zone would be determined by the [citizen data warehouse](/grants/personal-profile/government-os-services/citizen-tracking-system/)
 
 ## Software Requirements
 

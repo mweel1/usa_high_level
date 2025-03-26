@@ -1,6 +1,6 @@
 # Child Care
 
-Child Care will have a .child-care domain name which is approved and licensed by the department of health and services.
+Child Care will have a .child-care domain name which is approved and licensed by the department of health and human services.
 
 They can receive bank loans based on the market needs.
 
@@ -18,3 +18,5 @@ The API will include:
 /enroll
 /video-stream/room/1
 /schedule
+
+Based on the market conditions, either grants or low cost loans for trade schools can be provided.
