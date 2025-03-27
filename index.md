@@ -3,8 +3,8 @@ layout: home
 title: Home
 
 hero:
-  name: "Martys Technology Ideas for Govt."
-  text: ..and a hacking mystery.
+  name: "Marty Weel for United States Chief Technology Officer"
+  text: "Call to Action: Home Land Security"
   actions:
     - theme: brand
       text: About Marty

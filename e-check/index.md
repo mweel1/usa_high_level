@@ -55,4 +55,8 @@ Any funds due will be levied against the debit account unless a jury to anonymou
 
 ## API
 
-The real-time e-check system will have an API must like merchant processing accounts do today.
+The real-time e-check system will have an API must like merchant processing accounts do today.  This would include the ability to :
+
+- Pre-auth transaction
+- Process transactions
+- Refund transactions

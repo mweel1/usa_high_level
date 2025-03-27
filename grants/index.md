@@ -33,7 +33,7 @@ The city system will have grant money available for the public by [categories](.
 
 ## Grant Processing
 
-Grants are provided by federal, state and local municipalities to their constituents. 
+Grants are provided by federal, state and local municipalities to their constituents.
 
 Grants can be created by the governing body of these municipalities, but also the public can submit recommendations where they can be voted by the community using their [gov.id](/government-os-services/id-gov/) for recommended issuance.
 
@@ -48,6 +48,8 @@ Organization that use grant money property's are the right of the government, an
 Here are a few grants I would propose in the technology sphere:
 
 - [Lost & Found](./lost-and-found). A federal grant for a lost and found system.
+
+- [Child Care](./child-care/). A business model for child care.
 
 - [Taxi.org](./taxi-org/) an organization that provides locations for people that need a ride and licensed drivers on the United States Internet who wants to give them.
 

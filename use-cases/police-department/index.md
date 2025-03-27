@@ -4,9 +4,9 @@
 
 A list of vehicles would pe present near and around the police vehicle. The police office would select a car where:
 
-- Via the [Emergency Communication System](/ecs-gov/) a list of vehicles would be provided to the officer.
+- Via the [Citizen Data Agency](/citzen-data-agency/) a list of vehicles would be provided to the officer.
 - The office could then send a request to the vehicle to pull over, and turn off the music. If the vehicle chose not to pull over it a shut off command would be sent to the vehicle where it would turn off in the safest place possible based on the vehicles technology capabilities.
-- Once pulled over the officer would ask for a personal profile by tapping phones, once received a ticket would be submitted to the department and placed in the persons accounts receivable.
+- Once pulled over the officer would ask for an identification, and tap phones, once received a ticket would be submitted to the department and placed in the persons accounts receivable.
 - The officer would turn off the pull over command, or it would automatically turn off in 30 minutes.
 
 ## Swat Team

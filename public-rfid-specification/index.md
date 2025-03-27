@@ -20,6 +20,6 @@ Allow people to to browse to a website, much like a QR Code.
 
 If you were at a doctors office, they would request your medical records by allowing you to tap on the device. Your device would provide the personal profile with a key and the calling application would make a request to view your medical records with they key.
 
-## REQUEST ID
+## REQUEST GOVERNMENT ID
 
 The user would show their ID via the phone. If the phone was in ID mode showing the ID, a touch between phones would verify the ID with the issuing agency.

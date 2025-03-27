@@ -1,6 +1,6 @@
 # Federal Department of Education
 
-The federal grant system will provide technology and grant funding to states to help manage their school districts via the federal department of education.
+The department of education grant system will provide technology and grant funding to states, and then ultimately districts to help manage their school districts via the federal department of education.
 
 ## Starting a School
 
@@ -8,19 +8,25 @@ Starting a school requires the proper licensing, finding enrolment, and register
 
 ### Licensing
 
-A person is a [licensed](./teacher-license-requirements/) to become a teacher, where their certificate is placed in their personal profile.
+A person is [licensed](./teacher-license-requirements/) to become a teacher, where their certificate is placed in their personal profile.
 
-A list of educational opportunities are provided to teachers to become licensed at the department of education which include colleges, and trade schools and will have their own set of requirements when applying to become a teacher.
+A list of educational opportunities are provided for teachers to become licensed at the department of education which include colleges, and trade schools and will have their own set of requirements when applying to become a teacher.
 
 ### Domain Registration
 
-Once licensed with their certificate they will apply to register .K8-school or .HS-school with their certificate subject credentials.
+#### Schools
 
-They can optionally apply for grant money if its needed from the state, which must include your enrolment. Your enrollment can include students from anywhere if your its on-line only.
+Once licensed with their certificate they will apply to register .K6-school or .HS-school with their certificate subject credentials.
 
-Grants can also be provided for marketing efforts to try to achieve enrolment.
+#### Districts
 
-The domain registration will also include if its in-person or on-line and what percentage. We must create a requirement on how much on-line school can be done vs. in-person.
+A .district domain will have all the services for the district that work with the schools, and the state.
+
+Districts are created at the state level where the district must have:
+
+- Schools that fill all subject matter required by the state
+- Enrollment for the next year
+- All teacher salaries are 30% greater than the median income.
 
 ## Credit Requirements
 
@@ -79,7 +85,11 @@ The state will provide a portal for new districts that will connect the communit
 
 The state will set the the amount of hours each district's students have to participate in each subject each semester.
 
-Furthermore, once children enrolled classes the DOE platform will ensure that all students are receiving their credit in the required subjects. All [personal profiles](/grants/personal-profile) will have to oAuth with the department of education to predict school trends based on households in various areas.
+Furthermore, once children enrolled classes the DOE platform will ensure that all students are receiving their credit in the required subjects.
+
+## Reporting
+
+All [personal profiles](/grants/personal-profile) will have to oAuth with the department of education to predict school trends based on households in various areas.
 
 Education tracking system will ensure it receives all the data about students and the needs for students for 2 years ahead and align teacher training programs with the children demand. All schools will have a buffer to ensure all children have the capability to attend school for new students. This will start with a 20% buffer.
 
@@ -102,17 +112,11 @@ The objective of having many schools with grants is to have enough school facili
 
 Reporting and maps will be available to evaluate this for each district's.
 
-Houses will be acquired by making offer on properties to willing sellers at 20-30% of value. These will be acuired and owned by the department of education at the state level.
+Houses will be acquired by making offer on properties to willing sellers at 20-30% of value. These will be acquired and owned by the department of education at the state level.
 
 ## Field Trip Transportation
 
 Transportation will be available for field trips, and sporting events with other high schools. There will be grants to provide transportation services on behalf of each district at the state level by the federal grant system.
-
-## User Interfaces
-
-Grades will be provided to the personal profile in an JSON format, or provided in open document format to viewed.
-
-DOE will provide websites to students for course material given by the various licensed schools.
 
 ## School Lunch
 
@@ -130,6 +134,4 @@ The licensed certification company has a client id to put certificates into my p
 
 I goto the states website and create marty-computer-class.K8-school class and attach it to a domain zone so people can find it. It can be federal, or local.
 
-I then goto the state and ask for money for supplies with my enrolment, they are able to look at the market in my area and see that there are those subjects lacking in that area based on the data in the system and provide the grant.
-
-The kids are enrolled, and their personal profile is checked during enrolment.
+I then goto the state and ask for money for supplies with my enrolment, they are able to look at my enrolment in that area based on the data in the system and provide the grant.
