@@ -4,29 +4,27 @@ The department of education grant system will provide technology and grant fundi
 
 ## Starting a School
 
-Starting a school requires the proper licensing, finding enrolment, and registering a domain based on your grade level.
+Starting a school requires the proper licensing, finding enrolment, registering a domain, and secure funding.
 
 ### Licensing
 
 A person is [licensed](./teacher-license-requirements/) to become a teacher, where their certificate is placed in their personal profile.
 
-A list of educational opportunities are provided for teachers to become licensed at the department of education which include colleges, and trade schools and will have their own set of requirements when applying to become a teacher.
+A list of educational opportunities are provided for teachers to become licensed at the department of education which include colleges, and trade schools and will have their own set of requirements when applying to become a teacher. Teachers will know what markets to find where teaching deficiencies are occurring.
 
 ### Domain Registration
 
 #### Schools
 
-Once licensed with their certificate they will apply to register .K6-school or .HS-school with their certificate subject credentials.
+Once licensed with their certificate they will receive a license to register .K6-school or .HS-school with their certificated subject credentials.
 
 #### Districts
-
-A .district domain will have all the services for the district that work with the schools, and the state.
 
 Districts are created at the state level where the district must have:
 
 - Schools that fill all subject matter required by the state
 - Enrollment for the next year
-- All teacher salaries are 30% greater than the median income.
+- All teacher salaries are 30% of the minimum wage in their area.
 
 ## Credit Requirements
 
@@ -81,7 +79,7 @@ Electives & Applied Learning:
 
 ## Organizing Teachers and Students
 
-The state will provide a portal for new districts that will connect the community, this will include teachers, and parents. We will start with a few districts in a city. We will also publish areas where schools have a deficit and provide grants to teach teachers.
+The state will provide a portal for new districts that will connect the community, this will include teachers, and parents. We will start with a few districts in a city.
 
 The state will set the the amount of hours each district's students have to participate in each subject each semester.
 
@@ -96,21 +94,19 @@ Education tracking system will ensure it receives all the data about students an
 The DOE application will provide the following application functionality:
 
 - Apply for enrolment at schools
-- Allow .school organizations to upload their coarse material for the students
+- Allow .school organizations to upload their coarse material for the students and give access to it for the students.
 - Set grades
 - Scheduling module
 
-Enrollment will ensure all vaccines have been completed where the doctors medical events will be in the personal profile of the student.
+Enrollment will ensure all vaccines have been completed where the doctors medical events will be in the personal profile of the student, or uploaded.
 
 ## School Training
 
-The department of education will have training programs available for teachers on-line to train them on all .K8-education and .HS-education type's. We will have all types of schools from in classroom to field classes.
+The department of education will have training programs available for teachers on-line to train them on all .K8-education and .HS-education type's. We will have all types of schools from in classroom to field classes to choose from. A class type has to be in the top 10% of school types to get an education grant to teach it.
 
 ## School Location Objective
 
 The objective of having many schools with grants is to have enough school facilities in walking distance from urban housing areas. Grants will include the ability to purchase many houses in neighborhoods and turn them into schools, along with having access to sport facilities.
-
-Reporting and maps will be available to evaluate this for each district's.
 
 Houses will be acquired by making offer on properties to willing sellers at 20-30% of value. These will be acquired and owned by the department of education at the state level.
 
@@ -130,8 +126,6 @@ I'm a teacher who is going to teach computer class.
 
 I get a certification to teach computer class based on my background by taking a test at the state by a licensed certification company.
 
-The licensed certification company has a client id to put certificates into my personal profile.
-
 I goto the states website and create marty-computer-class.K8-school class and attach it to a domain zone so people can find it. It can be federal, or local.
 
-I then goto the state and ask for money for supplies with my enrolment, they are able to look at my enrolment in that area based on the data in the system and provide the grant.
+I then goto the state and ask for money for supplies with my enrolment numbers, they are able to look at my enrolment in that area based on the data in the system and provide the grant.
