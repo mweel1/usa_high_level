@@ -6,7 +6,7 @@ They would also be able to transfer RFID tags.
 
 ## PET
 
-Goto the animal agency website lost and found page.
+Goto the animal agency website lost and found page for chipped dogs.
 
 ## PAY
 
@@ -15,6 +15,10 @@ You would goto a point of sale, the point of sale would have an order, the point
 ## URL
 
 Allow people to to browse to a website, much like a QR Code.
+
+## CALENDAR REQUEST
+
+A touch calendar request would allow you to share a calendar(s) with another person.
 
 ## REQUEST-MEDICAL-RECORD
 

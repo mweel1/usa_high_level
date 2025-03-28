@@ -221,7 +221,7 @@ Card companies will provide a directory of issuing banks based on the card numbe
 
 When adding a card, the wallet will contact the issuing bank where a authorization key will be provided for the card.
 
-When processing a payment this authorization key will be used to receive a one-time credit card key that will be used for the transaction.
+When processing a payment this authorization key will be used to receive a one-time credit card key that will be used for the transaction. The MID must be provided to the issuing bank, and when the payment is processed the MID is checked.
 
 If it is a reoccurring payment the amount of payments are requested and many tokens are created for each transaction. The reoccurring payments are stored, and transaction details can be cancelled.
 
