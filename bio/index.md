@@ -28,7 +28,7 @@ My Key Objectives over 10 Years:
 
 This technology didn't come easily, I have been at odds with big-tech that is why you are receiving this via paper. I have no communication capability on-line with my government and need your help.
 
-Please call Homeland Security at (202) 282-8000 and provide them with my phone number at (949)537-1738, so we can investigate these multi-national technology companies.
+Please call Homeland Security at (202) 282-8000 and provide them with my phone number at (949)537-1738, so we can investigate who these multi-national technology companies are.
 
 The irony is, I'm not sure our country even has the capability to do such research as we use a corporate DNS system not an American one.
 
