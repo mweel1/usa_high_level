@@ -39,4 +39,6 @@ The United States government will re-insert itself in the technology dialog with
 Thank you for reading, and I hope you call for not only my families sake, but for our countries sake.
 
 Marty Weel
+
 949-537-1738
+https://martinweel.com
