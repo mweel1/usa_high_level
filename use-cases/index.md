@@ -38,7 +38,4 @@ features:
   - title: Fentanyl
     link: ./Fentanyl
     details: Fentanyl is a major problem in society, and legalizing drugs in the answer to ensure a safe supply chain and support services.
-  - title: Video Networks
-    link: ./video-networks
-    details: Video networks will change where many content providers will be able to share with many networks.
 ---

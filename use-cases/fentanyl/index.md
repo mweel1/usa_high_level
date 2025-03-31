@@ -5,3 +5,5 @@ We will reduce fentanyl deaths by legalizing drugs and using [transaction safety
 Suppliers that provide bad products will be prosecuted in the jury system.
 
 Social Services will be integrated into the Personal Profile to look at drug use and personal finances to see if people are moving to a risky situation.
+
+The supply chain will user tamper proof cargo and RFID on products.

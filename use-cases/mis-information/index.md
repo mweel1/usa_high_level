@@ -6,8 +6,8 @@ The [USA Internet](/USA-Internet/) will have a robust [licensing system](/USA-In
 
 If social media sites do not enforce press licenses and their requirements their domain can be revoked, and/or fined.
 
-Mis-information will be further curtailed by filtering content through a moderation service to ensure no information is released on a mass scale that would be a determent to national security or safety.
+National Security will be curtailed by filtering content through a moderation service to ensure no information is released on a mass scale that would be a risk to national security.
 
-All social media sites owner must also be licensed.
+All social media sites owner must also have a licensed domain.
 
-Information provided from 3rd party sources must provide a source.
+Information provided from 3rd party sources must provide a URL.

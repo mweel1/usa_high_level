@@ -13,23 +13,27 @@ A personal profile is a personal server thats allows citizens to store, receive 
 
 # Security
 
-The personal profile will be encrypted with a passphrase and an e-mail address where it can be recovered or changed. These keys can be provided to loved ones if you forget a password.
+The personal profile will be encrypted with an e-mail address and password where it can be recovered or changed. These keys can be provided to loved ones if you forget a password.
+
+A recover key can be sent to social security that will allow people to fill out a recovery form on social security where they will be e-mailed a link to set their password.
+
+If they lost their e-mail, a secondary process could be sent with an action to change the e-mail address also.
 
 # Personal Profile Storage Types
 
-## Government Storage
+## Government Document Storage
 
 ### Government Id
 
 When registering a government Id with the personal profile. The front and back picture must be taken, where the government id will be used to verify the user with a video, and out of pocket questions.
 
-When presenting the id in public, attendants have 2 options, the citizen can show their ID's image where an animated government seal will surround the ID, or the bar code can be scanned on the back of the ID for further verification.
+When presenting the id in public, attendants have 2 options, the citizen can show their ID's image where an animated government seal surrounding the ID, or the bar code can be scanned on the back of the ID for further verification.
+
+All governments that issue ID's must provide an API to validate an ID as valid, along with an age response.
 
 Government seals can only be shown when presenting their respective document. Under no circumstances will the operating system allow this framed image to be shown, or created on the operating system unless it comes directly from a personal profile.
 
-### Passport
-
-If a user is not a citizen of the United States they can upload a passport where its verified along with creating an [express visa account](/express-visa/). The passport Id will be sent to the passport agency where the picture of the passport, the person and the agency will be matched.
+People asking for ID, can also [use public rfid specification](/public-rfid-specification/) to scan a phone while the ID is present on the screen.
 
 ### Legal Guardian(s) / Children
 
@@ -67,9 +71,11 @@ When receiving receipts from 3rd parties they must include all the receipt detai
 - Link to cancel services
 - Link to notify FDA of a product issue
 
+The FDA will have a copy of the receipt via the [government-os](/grants/personal-profile/government-os-services/) oAuth process.
+
 When 3rd party systems request the receipt for display to the user the FDA authorization will allow the user to generate a link for each UPC item that can be clicked to report product issues.
 
-Receipts will be sent to Department of [Health and Human Services (HHS)[(/hhs)] when received.
+Receipts will be sent to Department of [Health and Human Services (HHS)[(/hhs)] when received also.
 
 ## Medical Events
 
@@ -77,7 +83,7 @@ Licensed medical systems would receive and send medical events to the personal p
 
 Licensed 3rd Party Applications can receive medical records if the user opts into it.
 
-All medial events will be sent to Department of Health and Human Services (HHS).
+All medial events will be sent to Department of Health and Human Services (HHS) for analysis.
 
 ## Trackable Devices
 
@@ -87,16 +93,19 @@ All trackable devices that can be tracked must emit their locations to the perso
 - Location Tags or Air Tags
 - Vehicle Operating Systems
 - Phones
+- Watches
 
 ## Books
 
-A list of your purchased books in PDF format. These can be shared based on rights when purchasing, or transferred.
+A list of your purchased books will be in a open reader format. These can be shared based on rights when purchasing, or transferred. There can also be a transfer price.
 
 ## Bookmarks
 
 - Bookmarks can have multiple categories.
 
 - Bookmarks can be saved from the browser, and all native applications must have bookmarking functionality along along with optionally having deep linking capabilities.
+
+- Bookmarks need to be shown easily based on the operating system they are being called from.
 
 ## Contacts
 
@@ -111,45 +120,84 @@ This will include all all job events that happen in your life including:
 - Job denial
 - Quitting a job
 
+All job history will be sent to the department of labor (DOL).
+
 ## Calendar
 
 You can setup multiple calendars that can be shared and updated between between parties.
 
-## Media
+Calendars can be shared using the [public RFID specification](/public-rfid-specification/).
+
+## Media Logs
+
+All media logs will be sent to your media logs with their media ID.
 
 All music, videos and books consumed would have to be sent to your media log. The media log would include the media-id of the content, along with the URL in which you consumed it, and the % consumed. A filter can be set to how much of the media content would have to be consumed to log depending on the users preferences.
 
+## Media
+
+You would have a various media categories of media that you purchased that you own which would include:
+
+- Music
+- Movies
+- TV Shows
+- Books
+- Pod Casts
+
+## Subscriptions
+
+All your subscriptions would be available in a single place with a place to cancel them, and a place to link to them depending on the device your on.
+
 ## Birth Certificate
 
-Depending on the jurisdiction all birth certificates will be stored with them like they to do, this is typically the state. However, when they do create those birth certificates a copy will also be provided to your personal profile so you will have it for your records and it can be used in the market place.
+Birth certificates will be added to the personal profile via licensed hospital management systems.
 
 ## Sizing Information
 
-Standards will be create to receive scans of the entire body, where the marketplace and can use it to manufacture and sell goods in custom manufacturing scenarios.
+Standards will be created to take scans of the entire body. Once this scan is in your personal profile the marketplace and can use it to manufacture and sell goods in custom manufacturing scenarios.
+
+## Business Licenses
+
+All businesses that hire a person must provide their business license as an employee, contractor or owner.
 
 ## Vehicle Keys
 
-Keys would be added to the personal profile by oAuth with the manufacturer along any meta-data they required.
+Keys would be added to the personal profile from the vehicle manufacturer along any meta-data they required.
+
+When you purchase a car you would get an oAuth request which would allow you to authorize to the car manufacturer and receive your keys, a secondary passcode is required when receiving this operation.
 
 ## Access Control Keys
 
-Access control keys can be stored to provide access to buildings, hotels and other locations along with meta-data.
+Access control keys can be stored to provide access to buildings, hotels and other locations along with meta-data. Hotel management systems, and access control systems will have licenses to update these keys.
+
+Using [rfid](/public-rfid-specification/) these keys can be requested by the header code that is used when storing them.
 
 ## Signed Documents
 
-All signed documents would be stored in your signed documents profile via the [e sign agency](/grants/e-sign-agency/). Anytime these documents are displayed in the operating system they would include the USA seal frame.
+All signed documents would be stored in your signed documents profile via the licensed document signing companies. Anytime these documents are displayed in the operating system they would include the USA seal frame with the date, and all parties that signed the documents.
 
 ## Vehicle Registration
 
-When a vehicle is registered at the DMV, the DMV will update your registration. A link will be provided to go to the DMV, login and pay your bill with debit or credit.
+When a vehicle is registered at the DMV, the DMV will update your registration in the vehicle section of your personal profile.
+
+A link will be provided to go to the DMV, login and pay your bill with debit or credit.
 
 ## Ledger
 
-This will be a ledger of all bank transactions with receipts and current balance due across all banks.
+This will be a ledger of all bank transactions with receipts and current balance due across all banks with their bank identifier and details that were part of the transaction.
 
-## Accounts Receivables
+## Bill
 
-All accounts receivables in the market place will be stored here, a link to cancel subscriptions will be provided.
+All your personal bills will be stored in your personal profile, with:
+
+- Date due
+- Amount
+- Link to make payments
+- Payee Identification ID
+
+All bills must have an API to accept a payment with a Payee Identification ID, and a card transaction Id.
+
+3rd Party Applications can be added to your bills to automatically pay them.
 
 ## Accounts Payable
 
@@ -186,8 +234,8 @@ Any mail readers that accessed the the in-boxes would have the following require
 
 1. It would have to show the government agency associated with the e-mail along with a link to their domain.
 2. A special inbox for govt communications only.
-3. Provide an alert for critical e-mail(s) from the government.
-4. Provide a confirmation status they received the e-mail when read, where a callback URL is called.
+3. Provide an alert for critical e-mail(s) from the government, that must be confirmed.
+4. Provide a confirmation status they received the e-mail when read, where a callback URL is called for government record keeping.
 
 # Storage
 
@@ -217,7 +265,7 @@ The personal profile will also provide callback URLs and header keys that will a
 
 Today we are riddled with Google Pay and Apple Pay if we allow these technologies to be the only solution to processing cards very difficult to untangle monopolies will be created.
 
-Card companies will provide a directory of issuing banks based on the card number.
+Card companies will provide a directory of issuing banks based on the card number at the federal reserve.
 
 When adding a card, the wallet will contact the issuing bank where a authorization key will be provided for the card.
 
@@ -229,9 +277,22 @@ All payment gateways must be licensed to accept these cards when processing paym
 
 The personal profile will also provide callback URLs and header keys that will allow the debit system to update, change and delete cards.
 
-# Home Automation Devices
+## Bank Cards
 
-[Home automation hubs](/grants/home-automation/) can be added to your personal profile where their services can be shared.
+Bank Cards will be added by going oAuth with the federal reserve by approving the use of your social security number.
+
+The oAuth handshake will create the ability for cards to automatically be added, removed and updated.
+
+When bank card transactions are processed they must receive a card transaction id from the issuing bank, and are processed via a e-check processor.
+
+All e-check processors must confirm they received the transaction along with their contact information which includes:
+
+Business Picture & Name (if applicable)
+Avatar & First and Middle Initial.
+
+There is a dual transaction confirmation that has to happen between the two parties before the transaction is processed.
+
+Processing networks can ignore the handshake if they are trusted parties.
 
 # Public API
 
@@ -241,11 +302,19 @@ Public APIs require no authorization process. For example, if I were to visit a 
 
 # Government Integration Services
 
-As part of the personal profile setup process the user must authenticate to [government OS services](./government-os-services/) where the keys of these government services will be stored in the personal profile which will allow operating systems to communicate with the government.
+As part of the personal profile setup process the user must authenticate to [government OS services](../government-os-services/) where the keys of these government services will be stored in the personal profile which will allow operating systems to communicate with the government.
 
 The following will occur to work with government services:
 
-When the operating system boots up it will take the key from the personal profile and the government service and login, the government service will return a 3 next login keys which will be added to the personal profile for the next time.
+When the operating system boots up it will take the key from the personal profile and the government service and login, the government service will return a login keys which will be added to the personal profile for the next time.
+
+The personal profile will have two area of data for government OS services:
+
+- The Device Type
+- The Active Devices
+
+- The device type will be Auth keys for various device types.
+- Once the device has been authorized it will keep it JWT and Refresh keys in specific active devices based on its profile.
 
 # Initial Authorization Setup
 
