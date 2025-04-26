@@ -2,23 +2,18 @@
 
 ## Overview
 
-Each [device operating system](/government-os-services/) will have a connection to the children electronic device service.
+If an govt Id isn't presented, or an Id is present and its a child. The personal profile ids of the guardians from the personal profile will have access to devices assigned in the personal profile of the child.
 
-The system will boot, the user will authenticate with the device of that operating system (face id, thumb-print or code)
-
-A profile will be asked, or already registered and stored in the operating system.
-
-When a device logs into the personal server, if the profile is for a child then the system will request parents and guardians from the childs profile.
-
-This will send a request to the personal profile to make the child a guardian which must be verified in the profile where the parent will have access to via the child electronic device protection service to:
+The following will be available for the parents to access their children's devices:
 
 1. The ability to snap a screen-shot of the devices screen at any-time.
 2. Complete replication of screen contents, audio/video to linked device.
 3. Simple setting of operating hours
-4. Friend lists w/ domain and user name, chats
-5. Advanced, scheduling of screen-time by categories and domains.
+4. Advanced, scheduling of screen-time by categories and domains.
 
-If a children's profile is not setup, one will be created for them by authorizing their birth certificate.
+If a children's profile is not setup, one will be created for them by authorizing their birth certificate, and the parents ID.
+
+An acknowledgement has to be sent to the parent profile to confirm once the parents are added to the child's profile.
 
 ## Default Settings
 

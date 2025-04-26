@@ -69,7 +69,7 @@ Here are a few grants I would propose in the technology sphere:
 
 - [Medical-testing](./medical-testing) grant objective will be to lower the cost of medical testing for citzens while reducing the need for insurance.
 
-- [Pharmaceutical](./pharma) grants objective will be to lower the costs of pharmaceutical manufacturing, distribution and retail.
+- [Pharmaceutical](./pharma) grants objective will be to lower the costs of pharmaceutical manufacturing, distribution and retail through business to business networks.
 
 - [Notary](./notary/) the notary service would allow licensed e-sign companies the ability to sign documents, and place them in the personal profile where a government seal would be placed around them with the peoples signatures whenever they are viewed on operating systems.
 

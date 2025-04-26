@@ -21,3 +21,12 @@ Many people have lost their life savings to gambling. These transaction rails wo
 # Pregnancy
 
 Many products can not be purchased when women are pregnant.
+
+# Tariffs
+
+Various jurisdictions can vote on creating tariffs on :
+
+- UPC Code
+- UPC Product Category
+- UPC Origin
+- Business License

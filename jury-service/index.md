@@ -1,6 +1,6 @@
 # Jury Service
 
-Users would authenticate or authorize their operating system to the jury service.
+Users would oAuth to the Jury Service which would be a platform to assign juries to court cases at various levels of jurisdiction.
 
 Once authorized they would be called based on their past duty. Their past duty would have weights. Where a simple domain court case might carry a less weight than a full criminal trial (phase 2).
 

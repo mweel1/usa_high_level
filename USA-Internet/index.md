@@ -40,6 +40,8 @@ Safety of content will be paramount to the United States Internet where a [conte
 - No IP addresses can be entered using the prefix domain usa: operating system.
 - When registering certain domain names a valid license is required for users in certain cases. For example a .hair-salon would have at least one barber license available to register the business type.
 - All domains registered would have to be in a domain zone location. This could be at any jurisdiction. For example, duckduckgo.com might be registered at a federal level, where a coffee shop would be associated locally to a city.
+- Any non USA prefix URL's will provide a warning message.
+- FUTURE : All operating systems must have a visa selection process to move the operating systems DNS servers to that country with their own onboarding process at the social security office. Until then, we will use the prefix.
 
 ## Web Application Requirements
 
@@ -91,17 +93,11 @@ The domain claims court can be activated by citizens if the site:
 - Display media content without an media content Id, media server and media categories & filters.
 - Selling fraudulent products or services
 
-## Crawling Websites
-
-- All content will be crawled using the [content moderation service](./content-moderation/) where content is trending upwards.
-- All content will verify the age restrictions of the website with the DNS system.
-- All content will be moderated for National Security
-
 ## Starting Up
 
 When first logging into the United States Internet, the user would be required to setup a [personal profile](/grants/personal-profile/).
 
-Foreign users would have to apply for an [express-visa](/express-visa/) using a passport. Once approved they would have a [personal profile](/grants/personal-profile/) setup on the United States Internet.
+Foreign users would have to apply for an [express-visa](/evisa/) using a passport. Once approved they would have a [personal profile](/grants/personal-profile/) setup on the United States Internet.
 
 ### E-Visa Violations
 
@@ -134,7 +130,7 @@ The United States Internet would provide the following to the market place via a
 Operating systems that operate on the USA Internet must provide the following during DNS resolution:
 
 - Ensure a [personal profile](/grants/personal-profile/) is setup for the country in which they are connected to before navigating to any domain.
-- Enforce age requirements using [gov.id authorization](/government-os-services/id-gov/) when access domains that requires age verification.
+- Enforce age requirements using govt ID in personal profile.
 - Each domain type will have a terms of service template that must be met at least once, or when changed.
 - Link to cancellation policies for the domain at the DNS server.
 - Link to file complaints in domain claims court to resolve dispute with domain owners.

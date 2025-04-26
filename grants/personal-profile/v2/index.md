@@ -15,9 +15,9 @@ A personal profile is a personal server thats allows citizens to store, receive 
 
 The personal profile will be encrypted with an e-mail address and password where it can be recovered or changed. These keys can be provided to loved ones if you forget a password.
 
-A recover key can be sent to social security that will allow people to fill out a recovery form on social security where they will be e-mailed a link to set their password.
+A recover key is to to social security that will allow people to fill out a recovery form on social security where they will be e-mailed a link to set their password on their personal profile.
 
-If they lost their e-mail, a secondary process could be sent with an action to change the e-mail address also.
+If the citizens looses their e-mail, a secondary process could be sent with an action to change the e-mail address also.
 
 # Personal Profile Storage Types
 
@@ -53,7 +53,7 @@ Marriage certificates will stored in your personal profile, and can only be adde
 
 Death Certificate will be stored in your personal profile. When a death certificate is received, people defined in your personal profile will have access to your personal profile based on your settings. For example, your e-mails might not be available, where your music collection might.
 
-Social Security will provide services to keep the personal profile online. Any storage costs will have to be taken over by 3rd parties.
+Social Security will shut down the personal profile after 90 days of people defined in the on death permissions to remove everything they are capable of.
 
 # Personal Profile Storage Types
 
@@ -164,7 +164,13 @@ All businesses that hire a person must provide their business license as an empl
 
 Keys would be added to the personal profile from the vehicle manufacturer along any meta-data they required.
 
-When you purchase a car you would get an oAuth request which would allow you to authorize to the car manufacturer and receive your keys, a secondary passcode is required when receiving this operation.
+When you purchase a car you would get an oAuth request which would allow you to authorize to the car manufacturer and receive your keys.
+
+They keys would be close range bluetooth, which would have a handshake protocol between both entities.
+
+The user would push the start button and it would provide a key to devices over [push bluetooth](/grants/push-bluetooth/) that would match the personal profile keys and start.
+
+This standard would be managed by the market in a division of the FCC via a grant.
 
 ## Access Control Keys
 
@@ -176,11 +182,15 @@ Using [rfid](/public-rfid-specification/) these keys can be requested by the hea
 
 All signed documents would be stored in your signed documents profile via the licensed document signing companies. Anytime these documents are displayed in the operating system they would include the USA seal frame with the date, and all parties that signed the documents.
 
+All electronic signature applications would have to be licensed on the American Domain System using the .signature domain extension.
+
 ## Vehicle Registration
 
 When a vehicle is registered at the DMV, the DMV will update your registration in the vehicle section of your personal profile.
 
-A link will be provided to go to the DMV, login and pay your bill with debit or credit.
+A link will be provided to go to the DMV, login and pay your bill with debit or credit when you license is due.
+
+When you oAuth to the manufacturer a connection is made via the VIN # from the vehicle to allow the vehicle to use the DMV information as it sees fit.
 
 ## Ledger
 
@@ -190,14 +200,11 @@ This will be a ledger of all bank transactions with receipts and current balance
 
 All your personal bills will be stored in your personal profile, with:
 
-- Date due
+- Date Due
 - Amount
 - Link to make payments
-- Payee Identification ID
-
-All bills must have an API to accept a payment with a Payee Identification ID, and a card transaction Id.
-
-3rd Party Applications can be added to your bills to automatically pay them.
+- A flag set if auto-pay is on or off
+- A link to setup auto pay on and off
 
 ## Accounts Payable
 
@@ -205,20 +212,20 @@ All accounts payable in the market place will be stored here.
 
 ## Incoming Deliveries
 
-Any deliveries designated to you will be stored along with the updated tracking information.
+Any deliveries designated to you will be stored along with the updated tracking information. 
 
 ## College Degrees
 
-All college degrees will be added to your personal profile by licensed .colleges.
+All college degrees will be added to your personal profile by licensed .colleges
 
 # Technical Requirements
 
-- All personal profile servers must protect from key attacks.
+- All personal profile servers must protect from key attacks, by handshaking with the domain.
 - When logging in they can only login from the device they are using.
-- All applications that use personal servers must register their domain with the licensing service, where a public key will be provided to interact with personal servers.
+- All applications that use personal servers must register their domain with the licensing service, where a client ID  will be provided to interact with personal servers.
 - All tokens that access the personal profile must be stored securely in the operating system.
-- All applications attached to your personal profile can be viewed were access can be revoked.
-- We must define when a pin will be needed vs. just a normal acknowledgement for each request type.
+- All applications attached to your personal profile can be viewed were access can be revoked (if applicable).
+- Every request that is made to the personal profile for confirmation can define various authorization mechanism. 
 
 # Untied States Post Office
 
@@ -226,7 +233,7 @@ The USPO would manage all the mail where all communications would be directed th
 
 All mail must have to have a category when sent.
 
-Any mail could have a flag for instant delivery, where a user can disable when received from a sender to normal.
+Any mail could have a flag for instant delivery, where a user can disable when received from a sender to normal.  These will operate like a text message.
 
 There would be special govt in-box, and a public mail in-box.
 
@@ -236,6 +243,7 @@ Any mail readers that accessed the the in-boxes would have the following require
 2. A special inbox for govt communications only.
 3. Provide an alert for critical e-mail(s) from the government, that must be confirmed.
 4. Provide a confirmation status they received the e-mail when read, where a callback URL is called for government record keeping.
+5. Provide a government seal around the e-mail.
 
 # Storage
 
@@ -243,56 +251,17 @@ A storage provider can be attached to a personal profile where folders and files
 
 Storage will always have an export capability to various mediums and the entire data-store export will be available.
 
+# One-Time Message
+
+Requests can be made for one-time message tokens. For example if a restaurant needs to send you a message that your food is ready after placing an order.
+
 # Personal Profile Licensing Service
 
-A [personal profile licensing service](../personal-profile-licensing-agency/) would handle security to ensure only certain operating systems and applications could only request or post certain information from the personal profile. For example Apple would be a license provider to handle authorization events from the personal profile. This will be done with a client ID as part of the oAuth process.
+A [personal profile licensing service](/grants/personal-profile-licensing-agency/index.md) would handle security to ensure only certain operating systems and applications could request or post certain information from the personal profile. For example Apple would be a license provider to handle authorization events from the personal profile. This will be done with a client ID as part of the oAuth process with the personal profile.
 
 ## Communication
 
 [Communication lines](./communication/) can be setup between personal profile to make voice calls, backed by networks that can be sold.
-
-## Real-Time Check Processing
-
-The real-time check processing will be added by oAuth to the [The United States real-time check system](/real-time-check-system/), where a list of accounts and an authorization key for each bank account will be stored to the profile, along with images.
-
-When processing a payment this authorization key will be used to receive a one-time debit card token that will be used for the transaction.
-
-If the card is requested to be stored, a multi-use debit card token will be used, where the domain and and token will be stored for easy cancellation. A URL must be provided by the domain to send the cancellation to the domain.
-
-The personal profile will also provide callback URLs and header keys that will allow the debit system to update, change and delete cards.
-
-## Credit Cards
-
-Today we are riddled with Google Pay and Apple Pay if we allow these technologies to be the only solution to processing cards very difficult to untangle monopolies will be created.
-
-Card companies will provide a directory of issuing banks based on the card number at the federal reserve.
-
-When adding a card, the wallet will contact the issuing bank where a authorization key will be provided for the card.
-
-When processing a payment this authorization key will be used to receive a one-time credit card key that will be used for the transaction. The MID must be provided to the issuing bank, and when the payment is processed the MID is checked.
-
-If it is a reoccurring payment the amount of payments are requested and many tokens are created for each transaction. The reoccurring payments are stored, and transaction details can be cancelled.
-
-All payment gateways must be licensed to accept these cards when processing payments and request confirmation from the user before processing.
-
-The personal profile will also provide callback URLs and header keys that will allow the debit system to update, change and delete cards.
-
-## Bank Cards
-
-Bank Cards will be added by going oAuth with the federal reserve by approving the use of your social security number.
-
-The oAuth handshake will create the ability for cards to automatically be added, removed and updated.
-
-When bank card transactions are processed they must receive a card transaction id from the issuing bank, and are processed via a e-check processor.
-
-All e-check processors must confirm they received the transaction along with their contact information which includes:
-
-Business Picture & Name (if applicable)
-Avatar & First and Middle Initial.
-
-There is a dual transaction confirmation that has to happen between the two parties before the transaction is processed.
-
-Processing networks can ignore the handshake if they are trusted parties.
 
 # Public API
 
@@ -306,33 +275,26 @@ As part of the personal profile setup process the user must authenticate to [gov
 
 The following will occur to work with government services:
 
-When the operating system boots up it will take the key from the personal profile and the government service and login, the government service will return a login keys which will be added to the personal profile for the next time.
-
 The personal profile will have two area of data for government OS services:
 
 - The Device Type
 - The Active Devices
 
-- The device type will be Auth keys for various device types.
-- Once the device has been authorized it will keep it JWT and Refresh keys in specific active devices based on its profile.
+The device type will be auth keys for various device types.
 
-# Initial Authorization Setup
+When an operating system boots handshakes for the first time with a profile it will use the authorization key, and then set the JWT and refresh token in the actual device listed in the personal profile.
 
-Today its very difficult to log-in to websites. There many, many authorization applications which make it confusing and difficult for users. Since the authorization process is "flat", you have to fill out captchas and "are you a robot" forms. Using a personal profile for authorization will remove these issues.
+When receiving the JWT and Refresh token.  The initial device type keys will be refreshed by each govt organization.
 
-As part of the binding process with the personal profile the operating system will ask the user what authorization the method the user would like to use for normal authorization requests. For example, a thumb print, face or a pin. There will be a login process for both simple logins and critical ones.
-
-For example when exchanging money with someone you might want a secondary authorization process from your initial login.
-
-The login bindings will be stored in the personal profile with whatever key the operating system will need to verify it.
+With a warrant device login keys can be revoked.
 
 # Login to Websites and Applications using Pass Keys (TODO DIAGRAM)
 
 - The OS will have your personal profile URL stored in an environment setting.
 
-- When using an application or browsing a website. These applications can use the personal profile to login via JavaScript SDKs, or Native application SDKs.
+- When using an application or browsing a website. These applications can use the personal profile to login via a JavaScript SDK, or native application SDK.
 
-- The host operating system will have a channel to the personal profile. A website or application can use the operating system channel to request a one-time auth key which is passed to an application server where the authorization or authentication process can be proceed.
+- The host operating system will have a channel to the personal profile. A website or application can use the operating system channel to request a one-time auth key which is passed to an application server where the authorization or authentication process can be proceed and stored on the server.
 
 If a key for the domain is not found the authenticator applications will accept a key from the calling the domain, where the key and meta-data will be stored upon confirmation. The key must be 4096 bytes.
 
@@ -342,7 +304,6 @@ The following will be stored with login pass keys:
 
 - General application
 - Domain Name
-- Operating Systems Id
 - Device Id
 - Cancellation Link
 

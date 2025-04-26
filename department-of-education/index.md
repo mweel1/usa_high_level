@@ -4,19 +4,19 @@ The department of education grant system will provide technology and grant fundi
 
 ## Starting a School
 
-Starting a school requires the proper licensing, finding enrolment, registering a domain, and secure funding.
+Starting a school requires the proper licensing, finding enrolment, registering a domain, and secure personal funding or grant funding.
 
 ### Licensing
 
 A person is [licensed](./teacher-license-requirements/) to become a teacher, where their certificate is placed in their personal profile.
 
-A list of educational opportunities are provided for teachers to become licensed at the department of education which include colleges, and trade schools and will have their own set of requirements when applying to become a teacher. Teachers will know what markets to find where teaching deficiencies are occurring.
+A list of educational opportunities for teachers to become licensed at the department of education which include colleges, and trade schools and will have requirements set by the dept of education when applying to become a teacher. Teachers will know what markets to find where teaching deficiencies are occurring, especially around the micro-revolution.
 
 ### Domain Registration
 
 #### Schools
 
-Once licensed with their certificate they will receive a license to register .K6-school or .HS-school with their certificated subject credentials.
+Once licensed with their certificate they will have the ability to register .K6-school or .HS-school with their certificated subject credentials.  I believe in having groups of children in grades so you can educate correctly, and be social with peers.
 
 #### Districts
 

@@ -1,25 +1,26 @@
 # FBI
 
-- The FBI will track all the [details about citizens](./citizen-tracking-system/) from the operating system to find criminals.
+- The FBI will track the location of citizens via [the citizen tracking system](/grants/personal-profile//government-os-services//citizen-tracking-system/). Warrants would be required to access information from various jurisdictions that would be passed with a key and verified with warrant.gov.
 
-- The FBI would aggregate criminal records from the state and federal jurisdictions.
+- The FBI crime database would be available to match up with criminal records.
+
+## FBI Portal
 
 - Jurisdictions could query the FBI application and service for example a police department could request the cell phone of individuals that were in an area where a women was mugged for questioning.
 
-- All networks that created across b2b and b2c will be available for the FBI to monitor as their b2b and b2c connections and are trending. For example, a photographer my associate their work to many photographic social networks that could have security implications. Using the United States Internet DNS logging systems will also be available to find up and coming popular networks and monitor them. Something Google does for the country creating a monopoly in the market place. [USA Internet](/USA-Internet/)
+- The FBI would monitor upcoming domains on the [USA Internet](/USA-Internet/) to ensure their safety.
 
-- Citizens will have an option with their personal profiles to report any unlawful or deceitful requests from 3rd parties, where the FBI can track, manage, warn, and file claims in domain court. [Personal Profile](/grants/personal-profile/).
+- Citizens will have an option with their personal profiles to report any unlawful or deceitful requests from 3rd parties, where the FBI can track, manage, warn, and file claims in domain court. [Personal Profile](/grants/personal-profile/), based on the client Id in the licensing process from profile to market.
 
 - FBI would have all login data for investigations, who logged into what domain when. Also who authenticated in vehicle operating systems [Vehicle Technology Act](/vehicle-technology-act/)
 
-- Courts can provide no entry zones for citzens. For example, a person with 5 DUIs could not enter a bar, or a child molester could not enter a school zone.
+- Courts can provide no entry zones for citzens. For example, a person with 5 DUIs could not enter a bar, or a child molester could not enter a school zone. A dispatch would be sent to police using the local dispatch system.
 
-- When sex offenders were registered to a location, using govt email all citizens would be notified based on their locations in
-  the citizen data warehouse.
+- When sex offenders were registered to a location, using govt email all citizens would be notified based on their locations in the citizen data warehouse, as they entered and left.
 
-- Child trafficking is a major concern in the United States. The FBI would query a private e-census to see how many parents and kids are separated by the lack of response based on personal profile configurations of parent and children. If both the parents and the children didn't respond you could investigate further. You could also combine wetness checks into this.
+- Child trafficking is a major concern in the United States. The FBI would query a private e-census to see how many parents and kids are separated by the lack of response based on personal profile configurations of parent and children. If both the parents and the children didn't respond you could investigate further. You could also combine wellness checks into this.
 
-- Family profiles will be shared with the FBI, where a government communication can send them a request to report the wellbeing.
+- Optionally, Family profiles will be shared with the FBI, where a government communication can send them a request to report the wellbeing.  
 
 ## Regional FBI
 
@@ -27,7 +28,7 @@
 
 ### Camera System
 
-- FBI would manage the camera systems for all public facilities, where [a warrant](/warrant-gov/) would be needed to view footage by various jurisdictions. The FBI would hold 5 years of content. The content will be protected by a warrant be issued at warrant.gov. Camera's will oAuth to the F.B.I to stream camera footage, via touch-blue tooth.
+- FBI would manage the camera systems for all public facilities, where [a warrant](/warrant-gov/) would be needed to view footage by various jurisdictions. The FBI would hold 5 years of content. The content will be protected by a warrant be issued at warrant.gov. Camera's will oAuth to the F.B.I to stream camera footage, via touch-blue tooth. They will all have tamper proof roms.
 
 - Jurisdictions would login via a .gov domain, and a warrant ID.
 

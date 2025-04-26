@@ -14,7 +14,7 @@ The network would create a domain zone to sell the content to local facilities a
 
 # Purchasing
 
-You would boot your OS, and search the network by directory or map, and purchase the content for public use.
+You would boot your OS, and search the network by directory or map, and purchase the content for $x public use.
 
 # Viewing
 

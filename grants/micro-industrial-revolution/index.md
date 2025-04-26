@@ -11,3 +11,5 @@ One could also imagine with the B2B networks that are setup, raw materials could
 Any device that has an electronic operating capability must have local repair-ability built into it. This will be done my ensuring their is clean interface and specification between the physical and electronic control systems.
 
 We must make sure we have water recycle capabilities for all water systems where possible.
+
+Corporations could either participate in this process, or we will reverse engineer their production processes.

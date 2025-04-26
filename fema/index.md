@@ -21,3 +21,7 @@ A set of application services would be provided in domain zones to allow FEMA to
 ## Communication
 
 Allow slow-ip connections using satellite for communication of the application zone.
+
+## Grant Management
+
+FEMA would also manage grant programs for emergency response organizations including fire departments, and paramedics.

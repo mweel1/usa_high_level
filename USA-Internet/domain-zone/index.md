@@ -16,13 +16,13 @@ For example:
 - Pay for parking, where an application can get your license plate from a [personal profile](/grants/personal-profile/) and purchase a parking pass.
 - Donating money while watching a play.
 
-The opportunities are endless and this will usher in many new opportunities for citzens, operating system providers, governments and businesses. This combined with business to business API's at local levels will usher in an opportunity for technology markets we havent seen since the internet.
+The opportunities are endless and this will usher in many new opportunities for citzens, operating system providers, governments and businesses. This combined with business to business API's at local levels will usher in an opportunity for technology markets we haven't seen since the internet.
 
 ## Setup
 
 ### Application Zones
 
-Application deployment will be provided by the FCC as it relates to allowing various businesses and governments to use the zoning application.
+Application deployment will be provided by the FCC as it relates to allowing various businesses and governments to use the zoning application, this will be integrated with a [business licensing system](./business-license/index-md).
 
 ### Federal
 
@@ -38,7 +38,7 @@ They will also provide logins for cities to manage their domain zones.
 
 ### Cities
 
-Cities will approve business zones, where a business permit must be uploaded and occupancy documents.
+Cities will approve business zones, where a business permit must be uploaded and occupancy documents. Federal business license requirements will be enforced with local amendments based on the business type.
 
 ## Business Zones
 
@@ -90,6 +90,10 @@ When the operating system receives the SSID prefixed by NZ: it will request the 
 Operating system triggers can also be sent via SSID handshakes for example:
 
 - Restrict age appropriate content (i.e. don't allow people to play illicit content on an airplane)
+
+## Virtual Zones
+
+Cities can have virtual zones which would allow mobile business to operate. For example a Surf School that is all contained in a truck would assign their business to a virtual zone.
 
 ## Department of Transportation
 

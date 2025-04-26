@@ -9,3 +9,4 @@ The animal agency would manage all animal populations throughout the country tha
 - [Ownership Tracking](./ownership-tracking/)
 - [Animal Population Management](./animal-population-management/)
 - [Pet Abuse](./pet-abuse)
+- [Genetic Engineering](./genetic-engineering)

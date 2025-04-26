@@ -28,6 +28,12 @@ These questions would include buy are not limited to:
 - Is this content educational, satirical, or creative in a way that justifies potentially concerning elements?
 - Would a reasonable person interpret this content as harmful or instructional for harmful activities?
 
+## Data Proxy
+
+All queries to and from the AI will go through the NSA proxy server and evaluated for national security risks, any data that is viewed from this proxy service must have a warrant.
+
+Indicators, can create signals that would warrant the issue of a warrant to view the details based on AI's recommendation where specifics can be viewed.
+
 ## Debates
 
 All AI services would go through debate topics to see how it stands on various national security issues, moral ones, ethical dilemmas, and societal concerns as part of a comprehensive evaluation system. This assessment would help users understand each AI's reasoning processes, value alignments, and potential biases, providing transparency about how these systems might approach contentious or sensitive subjects in real-world applications.

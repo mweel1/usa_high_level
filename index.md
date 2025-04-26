@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: About Marty
       link: /bio
+    - theme: brand
+      text: Copyright Martin Weel
+      link: /cr-mweel
 features:
   - title: Impact Report and Priorities
     link: /impact-report
@@ -89,10 +92,6 @@ features:
     link: /ecs-gov
     details: A direct channel for emergency communications from government to the public, including messages and location-aware information based on mobile phone or address data.
 
-  - title: Small Business Administration
-    link: /sba
-    details: Rebuilding the Small Business Administration to provide loans to its citizens to fund businesses that are part of the micro-industrial revolution and the breaking up of multi-national corporate supply chains.
-
   - title: Voting ID
     details: Provide a voting capability for various areas of government by issuing IDs during the voting process, with an open database to verify results.
 
@@ -120,3 +119,4 @@ features:
     link: /news-media
     details: A value chain of news media business will work together to provide media sites.  This include media content sites, articles writers, and ad businesses.
 ---
+

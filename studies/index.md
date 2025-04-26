@@ -1,6 +1,6 @@
 # Verified Studies
 
-Many studies take place that various organizations "claim" about their products or services. We will provide a grant to a verified study application that will allow organizations to:
+Many studies take place that various organizations "claim" about their products or services. We will provide a grant to a verified study service that will allow organizations to:
 
 - Provide the description of the study that they are conducting.
 

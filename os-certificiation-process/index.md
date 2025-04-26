@@ -4,7 +4,7 @@ Each operating system that was deployed into the market place would have to go t
 
 - Government seals could not be shown on the device unless it was received from a personal profile.
 - All government communications are clear to the user in e-mail clients.
-- Emergency Communication Messages are display properly.
+- Emergency Communication Messages are displayed properly.
 - All National Security Agency Functions work correctly.
 - All FEMA Keys work properly when deployed
 - All census information is displayed and operating correctly

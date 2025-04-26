@@ -14,4 +14,8 @@ An API would be provided to log when an media business provided the announcement
 
 Some public service announcements would be:
 
-- The importance of vaccines.
+- The importance of vaccines
+- How to use your phone in public
+
+
+HOWS IS MY RESTIUTION BEING PAID, AND WHEN, AND WHO DID IT?

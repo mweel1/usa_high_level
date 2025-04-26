@@ -143,3 +143,26 @@ When content is streamed it must be streamed from the domain in which the profil
 1. The content client requests from the content provider the media Id.
 2. The media server provides a signed URL.
 3. The signed URL is use as a one use URL and it's provided back to the client.
+
+# Content Providers
+
+Content providers must enforce the ability for all content category selections to be selectable and filterable. This includes both content and ads.
+
+These can be defined in your personal profile and are used by default.
+
+All content providers must also provide a section where they can be overridden for people over 18.
+
+Children's are defined and cannot be changed.
+
+# Ad Definitions
+
+Some category ad definitions will be marked on advertisements are:
+
+- Unhealthy Foods
+- Pharmaceutical
+- Violence
+- Alcohol
+- Drugs
+- Political Campaigns
+- Financial Services
+  .. and whatever other categories the AI is capable of recognizing.

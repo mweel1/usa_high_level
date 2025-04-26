@@ -63,3 +63,9 @@ The real-time e-check system will have an API must like merchant processing acco
 - Pre-auth transaction
 - Process transactions
 - Refund transactions
+
+## Processing Network
+
+The processing network will be done at the federal reserve.
+
+

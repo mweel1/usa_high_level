@@ -1,7 +1,7 @@
 # Multi-National Corporate Breakup
 
-This will not happen over night, we will start in a city deploy an applications store to the area.
+This will not happen over night, we will start in a city to deploy domain zones to the city.
 
-Anything that is currently a monopoly will have top open up their API between trading partners.
+Anything that is currently a monopoly will have to open up their API between trading partners.
 
-Our goal will be to duplicate the businesses that integrate into these standards and product locally.
+We will then allow market participants to inject themselves into the supply chain.

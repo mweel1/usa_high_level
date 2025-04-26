@@ -20,3 +20,11 @@ The API will include:
 /schedule
 
 Based on the market conditions, either grants or low cost loans for trade schools can be provided.
+
+# Death Certificates
+
+All organizations that handle the death of someone must provide the death certificate and drivers license to the HHS.
+
+An API will be available to validate death certificates by personal profile.
+
+The death certificate will be added to the personal profile, and the personal profile access grants will be opened up for 3rd parties based on their settings.
