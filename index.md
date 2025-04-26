@@ -3,7 +3,7 @@ layout: home
 title: Home
 
 hero:
-  name: "Marty Weel for United States Chief Technology Officer"
+  name: "Marty Weel"
   text: "Call to Action: Home Land Security"
   actions:
     - theme: brand
@@ -119,4 +119,3 @@ features:
     link: /news-media
     details: A value chain of news media business will work together to provide media sites.  This include media content sites, articles writers, and ad businesses.
 ---
-
