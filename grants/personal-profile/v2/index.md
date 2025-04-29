@@ -107,6 +107,10 @@ A list of your purchased books will be in a open reader format. These can be sha
 
 - Bookmarks need to be shown easily based on the operating system they are being called from.
 
+## Browser History
+
+Browser history will be saved from certified operating system browsers. This can be shared with 3rd parties in which you give permission.
+
 ## Contacts
 
 When adding a contact you can add it in clear text, or you can send a request to link directly to another contact so when there information changes so does yours and visa versa.
@@ -212,7 +216,7 @@ All accounts payable in the market place will be stored here.
 
 ## Incoming Deliveries
 
-Any deliveries designated to you will be stored along with the updated tracking information. 
+Any deliveries designated to you will be stored along with the updated tracking information.
 
 ## College Degrees
 
@@ -222,10 +226,10 @@ All college degrees will be added to your personal profile by licensed .colleges
 
 - All personal profile servers must protect from key attacks, by handshaking with the domain.
 - When logging in they can only login from the device they are using.
-- All applications that use personal servers must register their domain with the licensing service, where a client ID  will be provided to interact with personal servers.
+- All applications that use personal servers must register their domain with the licensing service, where a client ID will be provided to interact with personal servers.
 - All tokens that access the personal profile must be stored securely in the operating system.
 - All applications attached to your personal profile can be viewed were access can be revoked (if applicable).
-- Every request that is made to the personal profile for confirmation can define various authorization mechanism. 
+- Every request that is made to the personal profile for confirmation can define various authorization mechanism.
 
 # Untied States Post Office
 
@@ -233,7 +237,7 @@ The USPO would manage all the mail where all communications would be directed th
 
 All mail must have to have a category when sent.
 
-Any mail could have a flag for instant delivery, where a user can disable when received from a sender to normal.  These will operate like a text message.
+Any mail could have a flag for instant delivery, where a user can disable when received from a sender to normal. These will operate like a text message.
 
 There would be special govt in-box, and a public mail in-box.
 
@@ -284,7 +288,7 @@ The device type will be auth keys for various device types.
 
 When an operating system boots handshakes for the first time with a profile it will use the authorization key, and then set the JWT and refresh token in the actual device listed in the personal profile.
 
-When receiving the JWT and Refresh token.  The initial device type keys will be refreshed by each govt organization.
+When receiving the JWT and Refresh token. The initial device type keys will be refreshed by each govt organization.
 
 With a warrant device login keys can be revoked.
 

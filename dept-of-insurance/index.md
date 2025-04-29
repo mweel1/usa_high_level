@@ -1,13 +1,29 @@
-# Department of Insurance
+# Department of Health
 
-A federal department of insurance will be created at the federal level to manage the platform for the states.
+The department of health will provide grants, technology and licensing to deal with public health, medical services, disease control, and health policy.
 
-This platform will enables sales and service agents to offer and service insurance.
+## Hospitals and Clinics
 
-We will develop best practices for claim management, fraud and the various functions of selling insurance and provide it to agents.
+The way to get health costs down is to remove the insurance component out of it and build more medical facilities and move to a cash base for receiving services.
 
-We will provide market analysis of coverage by any location to help agents find markets.
+## Disease Prevention
 
-We will provide ranges of insurance costs based on the financial's of people in various markets.
+Today the economic driver for disease prevention is to not create cures, but create medicine to live with your aliments.
 
-The platform will have all fraud controls that the market currently posses today. However, since its a unified platform more capabilities will exist to find fraud.
+It's important to have a 2nd driver for medical research which is to cure. The department of health will create grants to try and cure various diseases through medicine and DNA research.
+
+## Health regulations and licensing
+
+The DOH will provide all the education directories and licensing of medical staff.
+
+## Health promotion and education
+
+The DOH will work with the public service announcement system, and the department of education to ensure people understand the health impacts based on the decisions they are making in their life.
+
+## Education Grants
+
+The DOH will get extremely aggressive in training doctors to reduce to the costs of medical care.
+
+## Banking
+
+The DOH will work with the federal reserve to ensure loan rates are adjusted for medical buildings to improve the development of hospitals and medical facilities.

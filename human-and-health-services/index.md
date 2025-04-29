@@ -1,8 +1,12 @@
+# Human and Health Services
+
+Human and Health Services (HHS) refers to a broad range of services and agencies that work to improve the well-being of individuals and communities, often focusing on health, social services, and support for vulnerable populations. In the U.S., for example, the Department of Health and Human Services (HHS) oversees a number of programs and services designed to promote public health, provide healthcare, and offer social services.
+
 # Child Care
 
 Child Care will have a .child-care domain name which is approved and licensed by the department of health and human services.
 
-They can receive bank loans based on the market needs.
+They can receive bank loans locally based on the market need.
 
 To receive a bank loan you must:
 
@@ -19,7 +23,13 @@ The API will include:
 /video-stream/room/1
 /schedule
 
-Based on the market conditions, either grants or low cost loans for trade schools can be provided.
+## Education
+
+Grants will be available for child care education, the HHS will manage a directory of education providers.
+
+## Safe Passage
+
+Local grants will be provided for solutions like [Safe Passage](/safe-passage/) to solve homelessness.
 
 # Death Certificates
 

@@ -1,10 +1,10 @@
-# Technology Plan: Vertical Government Platform
+# Technology Plan: Civic Organizations
 
 ## 1. Executive Summary
 
 The Vertical Government Platform is designed to foster coordinated governance across federal, state, and city levels. The platform ensures transparency, accountability, and seamless interaction between jurisdictions, agencies, and citizens. It supports the management of finances, legal processes, and licensing across different layers of government.
 
-## Advantages over Horizontal Governance
+## Advantages of Vertical Governance
 
 1. Clear Lines of Authority and Responsibility
    • In vertical governance, each level (federal, state, city) knows its scope and duties.
@@ -45,6 +45,8 @@ The Vertical Government Platform is designed to foster coordinated governance ac
 10. Supports Long-Term Planning
     • Multi-level planning becomes possible — federal, state, and local strategies can build on each other over years.
     • Encourages sustainable, coherent growth rather than piecemeal efforts.
+11. Training
+    - As new economic zones, or cities are brought on-line having a vertical integrated training programs coupled with grant money is a powerful tool.
 
 ## Disadvantages of Horizontal Governance (Governor, Congress, Senators)
 
@@ -167,3 +169,37 @@ The platform must meet the following business objectives:
 ### 2.4 Cross Organizational Comparison
 
 - Allow the evaluation of cross organization comparisons between organizations.
+
+# Vertical Govt' Organizations
+
+## Dept of Water & Power
+
+Manage the energy and water resources of the country
+
+## Health Services
+
+Doctors and administrators managing public health programs.
+
+## Education Services
+
+Officials running public schools and universities.
+
+## Law Enforcement and Justice
+
+Manage police forces, legal systems (outside of judges).
+
+## Federal Emergency Management Agency (FEMA)
+
+Manage emergency response for disasters, and fire departments.
+
+### Transportation
+
+Manage roads, railways, public transit systems.
+
+## Foreign Services
+
+Diplomats and embassy staff representing a country abroad.
+
+## Public Administration
+
+Oversee social programs, economic planning, census, elections, etc.

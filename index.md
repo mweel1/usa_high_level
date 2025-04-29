@@ -51,7 +51,7 @@ features:
 
   - title: FEMA Response System
     link: /fema
-    details: A set of network and software services deployed in disaster areas during emergencies, connecting, tracking, and executing emergency responses.
+    details: FEMA is a U.S. government agency under the Department of Homeland Security (DHS). Its job is to coordinate the federal government’s response to natural and man-made disasters, provide grants for services, and licensing.
 
   - title: StarLink Satellite Network
     details: Collaborate with the United Nations and the USA to make the StarLink Satellite system an FCC asset, and asset respectively for other countries.  A software system would allow the market place to sell Wi-Fi devices under their own businesses on a unified sales platform.  A private company controlling communication system outside of the FCC is a risk for the United States of United States.
@@ -111,6 +111,10 @@ features:
     link: /trade-school-data-services
     details: Provide market data on jobs, and develop schools to fill the need.
 
+  - title: Civic Organizations
+    link: /civic-organizations
+    details: Civic Organizations provide govt, legislation, grant funding to downstream organizations.
+
   - title: FBI
     link: /grants/personal-profile/government-os-services/fbi/index
     details: Integration of operating systems into the FBI.
@@ -118,4 +122,16 @@ features:
   - title: News Media
     link: /news-media
     details: A value chain of news media business will work together to provide media sites.  This include media content sites, articles writers, and ad businesses.
+
+  - title: Economic Improvement Zone
+    link: /economic-improvement-zones
+    details: Take areas that are no longer sustainable and provide the training and capital to bring back commerce, governance and peace.
+
+  - title: Federal Rail Administration
+    link: /federal-rail-administration
+    details: Department of Federal Rail Administration would provide train districts for trains to ship cargo, livestock and people between.
+
+  - title: Department of Health
+    link: /dept-of-health
+    details: The department of health will provide grants, technology and licensing to deal with public health, medical services, disease control, and health policy.
 ---

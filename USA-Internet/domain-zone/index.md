@@ -95,6 +95,12 @@ Operating system triggers can also be sent via SSID handshakes for example:
 
 Cities can have virtual zones which would allow mobile business to operate. For example a Surf School that is all contained in a truck would assign their business to a virtual zone.
 
+## Wi-Fi Zones
+
+Wi-Fi Zones would applications to be available when a certain SSID was joined.
+
+You can reserve and SSID and the applications at the FCC. All wireless routers must validate their SSID name with the FCC.
+
 ## Department of Transportation
 
 Anyone with a transportation authority can upload proof of their authority, along with their street zone.

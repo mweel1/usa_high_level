@@ -51,17 +51,15 @@ The single login working group will bring the parties together to develop a sing
 
 Source : FTC
 
-### Personal Profile
+### Satellite
 
-We will develop a personal profile system to hold all American's documents.
+The FCC would bid out at a sales and service platform that would:
 
-Source : FCC / FTC / Civil Liberty
+- Allow organizations to be created with a sales and services function.
+- Allow organizations to purchase hardware from 3rd party hardware manufactures at cost.
+- Allow organizations to RMA hardware from 3rd party hardware manufacturers
+- Allow to sell satellite services under two categories personal, or home. Both would have a bandwidth rate associated with them.
+- An upgrade could be provided for a static IP address at an additional cost.
+- No satellite provide could couple their hardware with the service. For example StarLink would have to have a hardware component, and sales component.
 
-### American Internet Working Group
-
-The American Internet will provide the technology standards for Homeland Security on the American Internet DNS system.
-
-Homeland Security must have a multi-cloud hosting capability, along with a physical last resort capability in Homeland Security offices.
-
-Source : FTC / Homeland Security
-
+The satellite receiver must provide a static IP address for consumers, where the IP address can be registered on the USA Internet.
