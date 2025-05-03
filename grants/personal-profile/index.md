@@ -18,15 +18,17 @@ Hospitals will have access to create a personal profile for newborn babies by li
 
 When a user logs into an operating system for the first time, they will enter their social security number.
 
-If they currently have a personal profile already setup the operating system will connect to it via e-mail and password where the contact information, government ID, and payment cards of the logged in user will be available.
+If they currently have a personal profile already setup the operating system will connect to it via e-mail and password where the contact information, government ID, and payment cards of the logged in user will be available for the operating system.
 
 If they don't have a profile, the citizen:
 
 - They are redirected to the social security office.
 - A profile is created
 - A QR Code is created and e-mailed to them, or they can print it.
-- They must take the QR Code to a facility they can find by searching based on their location.
-- They will be instructed to bring all government documentation with them including ID's, certificates, and credit cards.
+- They must take the QR Code to their local post office.
+- They will be instructed to bring all government documentation with them including:
+  - Government-issued photo ID (e.g., driver’s license, passport). At least one photo ID.
+  - Birth certificate and/or Social Security card
 
 Once the person goes to the facility, the facility will scan the QR Code and:
 
@@ -37,42 +39,40 @@ Once the person goes to the facility, the facility will scan the QR Code and:
 
 The office will also ensure all the organization around family members are set correctly based on the documentation.
 
-If a personal profile hasn't been setup by a personal profile for family members they must come back
+It's highly recommend family members come into the office together. If a personal profile hasn't been setup for family members, they cannot be associated.
 
 Once this is completed, they can go back to their computer. Enter their social security number, and login with their e-mail and password where the operating system is authenticated with the personal profile.
 
+If the post office inspector is suspicious of the documentation, the availability of out of pocket questions will be available to use as a validation tool.
+
+A Sworn affidavit or declaration under penalty of perjury may be signed.
+
 ## Credit Cards
 
-Today we are riddled with Google Pay and Apple Pay if we allow these technologies to be the only solution to processing cards very difficult to untangle monopolies will be created.
+Today we are riddled with Google Pay and Apple Pay if we allow these technologies to be the only solution to processing cards we will continue to see monopolies in the market place.
 
-Card companies will provide a directory of issuing banks based on the card number at the federal reserve.
+The personal profile will have a direct connection to the federal reserve where:
 
-When adding a card, the wallet will contact the issuing bank where a authorization key will be provided for the card.
-
-When processing a payment this authorization key will be used to receive a one-time credit card key that will be used for the transaction. The MID must be provided to the issuing bank, and when the payment is processed the MID is checked.
-
-If it is a reoccurring payment the amount of payments are requested and many tokens are created for each transaction. The reoccurring payments are stored, and transaction details can be cancelled.
-
-All payment gateways must be licensed to accept these cards when processing payments and request confirmation from the user before processing.
-
-The personal profile will also provide callback URLs and header keys that will allow the debit system to update, change and delete cards.
+1. A list of cards can be retrieved on setup based on drivers license.
+2. A one time transaction ID can be requested from the federal reserve that is used to process the card through the processing networks. Optionally, a domain can be sent to ensure domains process the payments.
 
 ## Real Time E-Check System
 
 E-check cards will be added by going oAuth with the federal reserve by approving the use of your social security number from your profile.
 
-The oAuth handshake will create the ability for cards to automatically be added, removed and updated.
+The oAuth handshake will create the ability for account/cards to automatically be added, removed and updated.
 
-When bank card transactions are processed they must receive a card transaction id from the issuing bank, and are processed via a e-check processor.
+1. A list of back account/cards can be retrieved on setup based on drivers license.
+2. A one time transaction ID can be requested from the federal reserve that is used to process the card through the processing networks. Optionally, a domain can be sent to ensure domains process the payments.
 
-All e-check processors must confirm they received the transaction along with their contact information which includes:
+See E-Check System for more information.
 
-Business Picture & Name (if applicable)
-Avatar & First and Middle Initial.
+### Processing Network Distinctions
 
-There is a dual transaction confirmation that has to happen between the two parties before the transaction is processed.
+When card Ids are passed to a payment API, they have a prefix defined by the federal reserve which will include:
 
-Processing networks can ignore the handshake if they are trusted parties.
+-Credit Card
+-ECheck
 
 ### Business Profile
 

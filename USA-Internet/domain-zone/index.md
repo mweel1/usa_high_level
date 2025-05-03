@@ -101,6 +101,10 @@ Wi-Fi Zones would applications to be available when a certain SSID was joined.
 
 You can reserve and SSID and the applications at the FCC. All wireless routers must validate their SSID name with the FCC.
 
+## Taxi Pickup
+
+Cities will define domain zones where it's safe to pick up passengers.
+
 ## Department of Transportation
 
 Anyone with a transportation authority can upload proof of their authority, along with their street zone.

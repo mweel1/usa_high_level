@@ -38,4 +38,8 @@ features:
   - title: Fentanyl
     link: ./Fentanyl
     details: Fentanyl is a major problem in society, and legalizing drugs in the answer to ensure a safe supply chain and support services.
+
+  - title: Life Guards
+    link: ./life-guards
+    details: Use cases for the various functions life guards could use to help improve public safety.
 ---

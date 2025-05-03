@@ -50,4 +50,4 @@ I could imagine creating grants for trade schools, pre capital — and cut off s
 
 ### Economic Zone Closures
 
-For economic zones that don't participate in education for the upcoming market opportunities will have to migrate to other cities, with a check for the transition. If they don't participate in that economy they will be moved to forced labor situations -- where housing and labor is defined and managed.
+For economic zones that don't participate in education for the upcoming market opportunities will have to migrate to other cities, with a check for the transition. If they don't participate in that economy they will be moved to forced labor situations -- where housing and labor is defined

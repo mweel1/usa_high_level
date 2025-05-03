@@ -218,6 +218,10 @@ All accounts payable in the market place will be stored here.
 
 Any deliveries designated to you will be stored along with the updated tracking information.
 
+## For Sale
+
+A list of items you have for-sale. A default price and media is uploaded and managed from the operating systems.
+
 ## College Degrees
 
 All college degrees will be added to your personal profile by licensed .colleges

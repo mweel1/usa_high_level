@@ -38,3 +38,9 @@ All organizations that handle the death of someone must provide the death certif
 An API will be available to validate death certificates by personal profile.
 
 The death certificate will be added to the personal profile, and the personal profile access grants will be opened up for 3rd parties based on their settings.
+
+## Retirement Homes
+
+Human and Health Services will monitor age's is various areas and work the federal reserve to reduce rates to build retirement communities based on the payment of social security.
+
+These rates could be negative if the cost of living the area is to much.

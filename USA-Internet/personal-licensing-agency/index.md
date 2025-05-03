@@ -40,6 +40,7 @@ Here are a number examples of domain names that would enable users to provide se
 - Podiatrist
 - Dietitian/Nutritionist
 - Land Surveyor
+- Photographer
 - Judge
 - AI Technician
 - Animal Owner (Dog, Cat)
@@ -51,6 +52,8 @@ One of the big issues with the world wide internet today is mis-information. On 
 - Press - A person of the press that would be providing press information, and would have to deal with various guidelines including:
 
   - All information that is provided must be factual from credible sources via the domain system.
+
+  - Must not be funded by 3rd parties and call it "News" when reporting on them.
 
   - If you speak of a death, it must be linked to the death certificate stored at human and health services. All agencies must provide death certificates to human and health services.
 

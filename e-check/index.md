@@ -16,7 +16,7 @@ ACH and other E-Check transactions take many days to process.
 
 There are conflicting approaches to returning money when fraudulent transactions take place in the market making consumers confused on policies.
 
-Furthermore, our current government has no safeguards to transaction business unless its with a 3rd party corporations. This is a security risk for our company. Visa and Mastercard could become an risk one day for business reasons the US could not control.
+Furthermore, our current government has no safeguards to transaction business unless its with a 3rd party corporations. This is a security risk for our country. Visa and Mastercard could become an risk one day for business reasons the US could not control.
 
 The United Stated E-check system provides the ability for both United States seller and buyers the ability to register their bank accounts and transfer money between each other in their operating systems.
 
@@ -24,12 +24,11 @@ The United Stated E-check system provides the ability for both United States sel
 
 The following process would be applied to create a debit profile at the Federal Reserve:
 
-- Once the citizen setup their personal profile. The citizen would go to their bank via an oAuth process. This would attach all their bank accounts to their personal profile by bank.
-- A merchant Id would be provided for each account to be set when processing transactions on the e-check service architecture at the federal reserve.
-- When a citizen was browsing a website or using an application and wanted to pay, a list of their bank account cards would be provided from the personal profile via the operating system.
-- The user would then select the bank account and the money would be transferred to the seller instantly.
-- The e-check system would collect all correct local, state and federal taxes and give them to the appropriate jurisdictions.
-- There will be a holding fund at the federal reserve to ensure transactions are real-time and have funds available in case one party gets away with money.
+E-check cards will be added by going oAuth with the federal reserve by approving the use of your social security number from your profile.
+
+The oAuth handshake will create the ability for account/cards to automatically be added, removed and updated.
+
+When bank/account cards are added they receive a unique card id from the issuing bank, and are processed via the federal reserve e-check processing.
 
 ## Application Requirements
 
@@ -68,4 +67,47 @@ The real-time e-check system will have an API must like merchant processing acco
 
 The processing network will be done at the federal reserve.
 
+## Use Cases
 
+### Buying Coffee at the counter
+
+You would tap an RFID transponder that would have provide an RFID string with the following:
+
+- Prefix that its a payment request
+- The business domain name
+- The amount of transaction
+- Tippable
+
+This would show a wallet, where the customer would select their card and receive a transaction card id.
+
+The user would confirm the amount, and the transaction card id would be sent to the business using the /payment API.
+
+The payment API would receive a call back URL to the personal profile if a tip attribute was in the RFID string where the tips would be available to review and pay at the citizens discretion.
+
+The receipt would be shown on the screen with the business name, address and logo once the transaction was completed.
+
+### Buying a coffee using an order application
+
+The user would press their domain zone button where an app called order would show up.
+
+The user would select the menu items in the application, derived from the Menu API of the restaurant.
+
+The application would make a payment request via JS or Native SDK with the amount, and if a tip is requested.
+
+Once the card is selected the card id would be sent to the /order API of the business along with the transaction card id.
+
+A screen in the back, would be connected to the internal order API where orders would come up (3rd party services would use this also).
+
+The processor for the business would process the transaction, and return to JS or Native SDK that it was approved where an approval message would be shown.
+
+The receipt would be sent to the federal reserve, where it would end up in the receipts folder of personal profile.
+
+Any receipt added to the personal profile would show up on completion of transactions. In person receipts would have priority.
+
+SIDE NOTE: Menu API's could be used for all kinds of things for the business which includes:
+
+- Digital Menu Signage
+- Sharing menu's with the market place
+- Sharing the menu with internal applications
+- Attach pricing analysis applications that analyze pricing over time
+- Attach analysis applications that compares your menu with others and pricing to stay competitive.

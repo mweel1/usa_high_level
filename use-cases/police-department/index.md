@@ -23,7 +23,7 @@ Via the [Emergency Communication System](/ecs-gov/):
 ## Emergency Response
 
 When arriving to an emergency response situation where people are unable to provide any information about themselves.
-An emergency personal profile would be able to touch their phone with someone elses where their medical information would be provided to the emergency personal with a given URL from their device.
+An emergency personal profile would be able to touch their phone with someone elses where their medical information would be provided to the emergency personal.
 
 ## Community Outreach
 
@@ -31,7 +31,7 @@ Using the public service announcement system police department would be able to 
 
 ## Chase
 
-In the case of a helicopter or police department chasing a suspect, they would be able to create a parameter around their location, and as they chased the suspect various people would be notified.
+In the case of a helicopter or police department chasing a suspect, they would be able to create a parameter around the helicopter location, and as they chased the suspect various people would be notified.
 
 # Court Appearance
 

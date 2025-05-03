@@ -134,4 +134,8 @@ features:
   - title: Department of Health
     link: /dept-of-health
     details: The department of health will provide grants, technology and licensing to deal with public health, medical services, disease control, and health policy.
+
+  - title: NTIS / UL
+    link: /ul
+    details: Transform UL into a public-interest grant and standards organization housed within the National Technical Information Service (NTIS), focused on device safety, sustainability, repairability, certification transparency, and data services.
 ---
