@@ -26,7 +26,13 @@ What I am working on right now are:
 
 **Public Emergency**: We will bring public emergency organizations in-line with the capabilities of people having cell phones.
 
-Please call the president and recommend me at
+Next Steps:
+
+I would work with FEMA on domain zone deployments, and talk to the carrier organizations about having to use a usa:// prefix when resolving the assets on the app launcher that FEMA provides because of the security risks of DNS being down in an national emergency.
+
+They would get excited about the technology and its capabilities, and want to use it more, and we would bring in the NTIS to start issuing permits for web and native applications in zones.
+
+Please call the president and recommend me, please:
 
 Marty Weel
-949-537-1738
+949-538-8192

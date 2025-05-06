@@ -45,12 +45,6 @@ The zone application approval group will approve applications for various sphere
 
 Source: FCC
 
-### Single Login Working Group
-
-The single login working group will bring the parties together to develop a single login capability for native applications and web based applications across the American Internet.
-
-Source : FTC
-
 ### Satellite
 
 The FCC would bid out at a sales and service platform that would:
@@ -63,3 +57,14 @@ The FCC would bid out at a sales and service platform that would:
 - No satellite provide could couple their hardware with the service. For example StarLink would have to have a hardware component, and sales component.
 
 The satellite receiver must provide a static IP address for consumers, where the IP address can be registered on the USA Internet.
+
+## Emergency Communication System
+
+The FCC will manage the new multi-device [emergency communication system](./emergency-communication-system/).
+
+# Licenses
+
+The FCC will manage licenses and education for :
+
+- Press Passes
+- Media

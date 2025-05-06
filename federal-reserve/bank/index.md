@@ -8,9 +8,15 @@ All .bank containers will have to implement the API surface defined by departmen
 
 ## Funding
 
+### Private
+
 You can make funding requests from the regional federal reserve based on your licensing and objectives for the upcoming year.
 
 Federal Reserves will have a funding request process based on your licenses. The federal reserve will have metrics from the market to analyze markets and make sure they also make good funding decisions to the market based on their location.
+
+### Public
+
+Public capital will be deployed along side private capital where the markets can compete on rates.
 
 ## Funding Scope
 
@@ -90,25 +96,3 @@ Federal Reserve will manage a docker registry.
 All .bank containers must be licensed and signed and cannot be tampered with in any way.
 
 All .bank containers are installed at the federal reserve's hosting system.
-
-## Credit
-
-Currently having 2 credit scoring systems makes it confusing for the market place. Unclear rules, different rules across credit unions make things difficult.
-
-The federal reserve will have a credit scoring system based on bank data.
-
-### Payment History
-
-Timely payments vs. missed/late payments
-
-### Credit Utilization
-
-Ratio of credit used to total credit limit
-
-### Credit History Length
-
-Average age of all credit accounts
-
-### Credit Mix
-
-Diversity of credit accounts (loans, cards, mortgage)
