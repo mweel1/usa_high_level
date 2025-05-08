@@ -39,7 +39,13 @@ Once the person goes to the facility, the facility will scan the QR Code and:
 
 The office will also ensure all the organization around family members are set correctly based on the documentation.
 
-It's highly recommend family members come into the office together. If a personal profile hasn't been setup for family members, they cannot be associated.
+It's highly recommend anyone legal-guardians in which the parents are taking come in with the child and provide proof of:
+
+- Legal guardianship documentation (e.g., court order, custody papers)
+- Identification for both the guardian and the child
+- Any supporting documents that clarify the guardian’s authority (e.g., power of attorney, adoption records, school or medical consent forms)
+- Parent contact information or relinquishment paperwork, if applicable.”
+- Court Orders
 
 Once this is completed, they can go back to their computer. Enter their social security number, and login with their e-mail and password where the operating system is authenticated with the personal profile.
 
@@ -83,15 +89,5 @@ All business licenses must have:
 - The employees personal profile
 - Name of business and location
 - Phone number
-
-### Foreign Citizens
-
-If a person is not an American Citizen they have to receive a VISA from U.S. Citizenship and Immigration Services. In order to receive a VISA you must bring a letter that you are currently working from your employer, along with a phone number where they can be contacted.
-
-Foreign citizens must go through the same process as citizens, but through the Immigration system instead of the social security.
-
-Non citizen personal profiles will have a V prefix for example I-123-322-1222, where social security numbers will have a S Prefix. This will allow systems to use the correct DNS system when resolving personal profile domains.
-
-The personal profile API surface, hosting, and all other details must be identical.
 
 Further roadmap and technical details for future versions can be found [personal profile](./v2/).

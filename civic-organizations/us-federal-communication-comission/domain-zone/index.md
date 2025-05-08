@@ -22,34 +22,26 @@ The opportunities are endless and this will usher in many new opportunities for 
 
 ### Application Zones
 
-Application deployment will be provided by the FCC as it relates to allowing various businesses and governments to use the zoning application, this will be integrated with a [business licensing system](./business-license/index-md).
+Application deployment will be provided by the FCC as it relates to allowing various licensed business permitting people and governments to use the zoning application, this will be integrated with a [business licensing system](./business-license/index-md).
 
-### Federal
+### Parks
 
-The FCC will approve federal organizations spheres of influence based on their .gov e-mail address and government documents that must be uploaded.
+The state will have a login to allow the national parks to setup all their domain zones, it will provide additional logins for each grant organization to install apps they deem fit.
 
-State logins will be provided on proof of their .gov e-mail address and state documents.
+### Small Business Administration
 
-### States
+Small business administration will have access to manage the business domain zones and provide credentials for business to manage their applications based on the intranet B2B specification that is associated with the business.
 
-The state will have a login to set and approve cities spheres of influence based on their documentation and .gov e-mail address.
+#### Business Zones
 
-They will also provide logins for cities to manage their domain zones.
-
-### Cities
-
-Cities will approve business zones, where a business permit must be uploaded and occupancy documents. Federal business license requirements will be enforced with local amendments based on the business type.
-
-## Business Zones
-
-## Signage
+#### Signage
 
 Anytime an application zone is defined the business must provide a QR code before entry where:
 
 - A list of operating system restrictions are provided.
 - A directory of applications in that zone. A bit will be set on the application if it should be shown from a QR Code or only by pressing the domain zone button on your device.
 
-#### Emergency Zones
+## Emergency Zones (FEMA)
 
 Application's are approved and categorized by FEMA. When an emergency operation is present, a geo-fence is placed around the zone and the applications are deployed to the citizens. For example a disaster response team could highlight a location during a fire and deploy zone applications. All phone companies must provide a satellite connectivity for these emergency zones over a slow-ip connection on handset companies so there can be communication to the operation centers.
 
@@ -61,13 +53,9 @@ Emergency Zone application can mark applications as leave behind which will rema
 
 All operating systems must use the usa:// prefix when resolving DNS names for security purposes.
 
-##### Direct User Application Zones
+### Direct User Application Zones
 
 Any manager of application zones can add specific profile URLs (or users) which would allow specific applications to launch when that user is specifically added to that zone. One example a specific waiter at a restaurant. There will be role capabilities with this also which will allow you to assign many users to a role also.
-
-##### Licensed Based Application
-
-Applications can be assigned to people with a license. For example a police officer might have a dispatch log application to respond to requests from dispatch.
 
 ### Internal Zones
 
@@ -135,6 +123,42 @@ Its important this is an FCC asset due to the fact if operating systems tried to
 
 One of the big risks with this technology is that people will be wondering around always pressing a button to see what application service is available. The [public service announcement system](/public-service-announcements/) will broadcast the best way to use these applications easily and safely. Each Application Zone will have a limit of 15 applications.
 
+## Public Market Application Approval
+
+When new applications are added by the market. The FCC would approve applications that are associated with a specific B2B specification that was defined in the business permit by the SBA.
+
+Once approved, business owners could add those applications as they deemed appropriate in solution categories, or one-off categories.
+
+A market place will provide solution categories, and one-off groups for the various b2b specification and business permits that the private market will maintain.
+
+## Government Application Approval
+
+A special government section will be available for each jurisdiction. Only top level government organizations can apply to have their apps automatically deployed at:
+
+1. Federal Level
+2. State Level
+3. City Level
+4. Country Level
+
 ## Project Plan
 
-Our first version of the application will be done deployed federally at national parks in partnership with Intel's new phone.
+Our first version of the application will be done deployed federally at national parks, state parks, and local parks.
+
+## National Parks
+
+# Government applications for:
+
+- FEMA to request help while in the park
+- DOH Health Bathroom Maps
+
+# Public applications for:
+
+- Trail Maps
+- Vendors and out reach organizations
+
+## Laguna Parks
+
+A grant will be used to acquire all parks in Laguna.
+A grant will be request from HHS to manage the bathrooms at all parks where a board will be created.
+
+We will have two boards, one for action parks, or community parks.

@@ -13,7 +13,7 @@ A personal profile is a personal server thats allows citizens to store, receive 
 
 # Security
 
-The personal profile will be encrypted with an e-mail address and password where it can be recovered or changed. These keys can be provided to loved ones if you forget a password.
+The personal profile will be encrypted with an e-mail address and password where it can be recovered or changed. These keys can be provided to trusted people if your forget your e-mail and password.
 
 A recover key is to to social security that will allow people to fill out a recovery form on social security where they will be e-mailed a link to set their password on their personal profile.
 
@@ -94,8 +94,6 @@ All trackable devices that can be tracked must emit their locations to the perso
 - Vehicle Operating Systems
 - Phones
 - Watches
-
-An automatic log deletion can occur based on your settings. The trackable devices will use the storage systems associated to the account and not be a citizen right asset.
 
 ## Books
 
@@ -298,7 +296,35 @@ When receiving the JWT and Refresh token. The initial device type keys will be r
 
 With a warrant device login keys can be revoked.
 
-# Login to Websites and Applications using Pass Keys (TODO DIAGRAM)
+# Single Sign On
+
+Single Sign on would allow domains to login to the personal profile.
+
+No login capabilities shall exist outside of a domain server side.
+
+## Web App Use Case
+
+The server would send a login-request to the personal profile, with a call back URL to the server. The operating system's oAuth web-socket connection would receive the login request and upon approval call back the URL. The response from the server would provide a pass key that would be stored in my logins. If a passkey exists in the personal profile that login is defaulted.
+
+The login request can:
+
+1. Ensure an identified full name login is requested.
+2. Ensure an identified first and last name initial.
+3. Use an alias name, from your alias list or enter one.
+
+The server side then would provide a HTTPS Only Cookie for the session.
+
+## Resource Rich Applications
+
+Resource rich applications must use web-assembly to host code logic and provide an interface to the web run-time.
+
+All .wasm resources must be served from the domain they were released from.
+
+They must provide a usa:// prefix, and can only be called from NTIS managed browser on the operating system.
+
+The browser must not provide access to these under any circumstances.
+
+## Pass Keys
 
 - The OS will have your personal profile URL stored in an environment setting.
 
@@ -316,17 +342,3 @@ The following will be stored with login pass keys:
 - Domain Name
 - Device Id
 - Cancellation Link
-
-# 3rd Party Services
-
-A 3rd party service can have an API exposed. For example an AI assistant.
-
-I could register with an AI assistant and it would provide an authorization key to my personal profile.
-
-If I started up an operating system in the car, it could ask what AI assistant I would like to use for my personal profile.
-
-It would then use that authorization key to get a session key where it an interact with its services from the predefined API.
-
-This will essentially allow you to share API surfaces for various services with other services.
-
-When setting up your AI Assistant it could for example request the API surface of your home automation hub and communicate with that, or visa versa.
