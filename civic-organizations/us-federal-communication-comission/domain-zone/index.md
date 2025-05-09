@@ -28,6 +28,10 @@ Application deployment will be provided by the FCC as it relates to allowing var
 
 The state will have a login to allow the national parks to setup all their domain zones, it will provide additional logins for each grant organization to install apps they deem fit.
 
+### Homes
+
+[Homes](./homes) will have domain zone based on a mortgage.
+
 ### Small Business Administration
 
 Small business administration will have access to manage the business domain zones and provide credentials for business to manage their applications based on the intranet B2B specification that is associated with the business.

@@ -30,6 +30,8 @@ All job placement must provide sufficient funds for:
 3. Food
 4. Entertainment
 
+If the visa applicant already has a job lined up, they must provide the domain. A e-mail is sent to the domain where they must verify at ICE with a handshake.
+
 ### Immigration Funding
 
 Each e-visa will include a bank card that must be used for 15 days to:

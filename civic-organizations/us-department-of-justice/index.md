@@ -1,6 +1,6 @@
 # Department of Justice
 
-The department of justice will run the court system for all civic related matters including run court cases, and managing the laws in various jurisdictions.
+The department of justice will run the court system for all civic related matters including run court cases, managing the laws in various jurisdictions, and licensing security forces.
 
 # Laws
 
@@ -22,7 +22,20 @@ All people who vote must have a residency in that jurisdiction by a rental agree
 
 # Licenses
 
-The department of justice will run the education programs at Home Land Security where judges to be licensed on the completion of their education programs.
+## Judges
+
+The department of justice will run the education programs at Home Land Security where judges to be licensed on the completion of their
+education programs.
+
+## Police
+
+Police will be licensed
+
+## Security Guards
+
+Security Guards will be licensed.
+
+All licensed will be started federally, where downstream jurisdiction exception could be voted on and added.
 
 # Jails
 
@@ -98,19 +111,3 @@ They will be required to have a .jail application container that is approved by 
 - Standards will be created between Court Systems and Jails by the NTIS.
 - Standards will be created between the Court Systems and DOJ.
 - Standards will be created between the jails and the DOJ.
-
-# Police
-
-The department of justice will manage the police department, and license police offices via Home Land Security.
-
-Grants will be provided for police officers who apply for it.
-
-Police organization's board will be voted on every 4 years to approve the budget and the board.
-
-# Open Issues
-
-Various jurisdictions will have to vote on if people are required to be present over video, or can do the entire case with a blank avatar.
-
-# Security
-
-The department of justice will manage security licenses, which will include the ability to arrest individuals for steeling.

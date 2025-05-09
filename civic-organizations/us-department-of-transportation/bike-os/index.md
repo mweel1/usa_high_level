@@ -11,3 +11,19 @@ There must be an interface from all devices on a bike with the bike itself using
 A fee would be charged to ensure all safety when getting approved.
 
 Connected and non-connected variants can exist.
+
+## Bike Upgrade Path
+
+The Department of Transportation would provide education grants for mechanics to integrate a kit into the existing battery system.
+
+All licensed mechanics would have access to brackets and other supplies via the .dot supply application.
+
+The components would include :
+
+All lighting and plate to mount to a bracket.
+
+The lighting would goto a electric box, with a relay switch, and junction box.
+
+Tne relays would be wired to a control system that controls the relay.
+
+The control system would communicate with 5V switches.

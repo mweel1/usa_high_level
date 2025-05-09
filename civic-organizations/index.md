@@ -38,6 +38,20 @@ The platform must meet the following business objectives:
 
 - Other citizen government organizations can weigh in on legislative decisions that are being discussed. For example the EPA, might weigh in if FEMA is building a new fleet of fire trucks. No other government agency organization can override another one except for the President.
 
+# Board Management
+
+## Starting Up
+
+Board members are created based on applying from their parent jurisdiction. The parent must require the type of solution providers based on the type of role. For example, The UL might want to have an EPA based board member to help reduce emissions. In that case the President would appoint them.
+
+## Elections
+
+When a board member is removed, the top level and the public in which it represents have a vote on the type of roles.
+
+## Terms
+
+The terms are open ended. Once board members are appointed they can be removed by vote. A carrier solution provider is something special.
+
 # Licensing and Certification
 
 - Support the issuance of licenses to individual profiles based on successful education, adn testing.

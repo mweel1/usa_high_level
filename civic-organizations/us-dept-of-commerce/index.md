@@ -14,6 +14,15 @@ USDC must also ensure all businesses integrate to the social security personal p
 
 US Department of Commerce will provide grants, education, and application containers to the market to manage the process of issuing business licenses.
 
+## Every open business process (OBP) will have a specific set of requirements. Open business processes for example would be:
+
+1. Restaurant
+2. Bar's
+
+One of the first requirements of the specifications is that they have a single use. Even if a bar is in a restaurant, they must be separate.
+
+Domain Zones can overlap in areas, and the business could technically be the same owner.
+
 ## City
 
 Once a city receives a grant to manage the business license, and installs their application container.
