@@ -111,9 +111,9 @@ features:
     link: /trade-school-data-services
     details: Provide market data on jobs, and develop schools to fill the need.
 
-  - title: Civic Organizations
+  - title: civil organizations
     link: /civic-organizations
-    details: Civic Organizations provide govt, legislation, grant funding to downstream organizations.
+    details: civil organizations provide govt, legislation, grant funding to downstream organizations.
 
   - title: FBI
     link: /grants/personal-profile/government-os-services/fbi/index

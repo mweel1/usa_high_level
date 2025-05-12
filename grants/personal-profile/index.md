@@ -57,10 +57,12 @@ A Sworn affidavit or declaration under penalty of perjury may be signed.
 
 Today we are riddled with Google Pay and Apple Pay if we allow these technologies to be the only solution to processing cards we will continue to see monopolies in the market place.
 
-The personal profile will have a direct connection to the federal reserve where:
+The personal profile will have a direct connection to the securities exchange where:
 
 1. A list of cards can be retrieved on setup based on drivers license.
 2. A one time transaction ID can be requested from the federal reserve that is used to process the card through the processing networks. Optionally, a domain can be sent to ensure domains process the payments.
+
+This would be done with an oAuth process to securities and exchange. Securities and exchange would handshake with the personal profile to ensure the domain is correct.
 
 ## Real Time E-Check System
 
@@ -73,6 +75,20 @@ The oAuth handshake will create the ability for account/cards to automatically b
 
 See E-Check System for more information.
 
+## Tickets
+
+Domains could provide a ticket to a personal profile, where handshake key would be provided to verify the domain. All domains must have a usa:// prefix.
+
+The ticket would include an RFID where it would be available via [touch RFID](/civil-organizations/us-national-institute-of-standards-and-technology/public-rfid-url-specification/) on request from a client.
+
+Anytime a ticket is requested it must be approved to provided the requestor.
+
+Anyone placing tickets into the personal profile without the permission of the user would be reported and prosecuted.
+
+Once the ticket was provided it would be removed from the personal profile.
+
+Only .ticketed-venue containers could access the ticket storage where callback handshake would be made.
+
 ### Processing Network Distinctions
 
 When card Ids are passed to a payment API, they have a prefix defined by the federal reserve which will include:
@@ -80,14 +96,22 @@ When card Ids are passed to a payment API, they have a prefix defined by the fed
 -Credit Card
 -ECheck
 
-### Business Profile
+# Security
 
-Users can connect to business profiles of businesses by selecting them from their business license of the business they work at.
+## Outgoing Domain Security
 
-All business licenses must have:
+One would want to share their location information. The user would goto a family location application. The family location application would oAuth to the location where events would be published.
 
-- The employees personal profile
-- Name of business and location
-- Phone number
+oAuth must include publishable events to end points, and data access.
+
+## Incoming Personal Profile Security
+
+### Social Security Card
+
+The end point would be protected with a whitelist of domains that are allowed to add a social security card to the profile.
+
+In this case it would be socialsecurity.gov. When social security ads the card, it must provided a handshake key. The personal profile will call back the socialsecurity.gov domain with the handshake key and verify the source.
+
+Any domains that used information improperly would be reported to a jury for prosecution.
 
 Further roadmap and technical details for future versions can be found [personal profile](./v2/).
