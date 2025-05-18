@@ -13,10 +13,14 @@ hero:
       text: Copyright Martin Weel
       link: /cr-mweel
 features:
+  - title: United States Civil Agencies
+    link: /civil-agencies/index.html
+    details: Civil Organizations are designed to meet the needs of the citizens by providing management, grants, education, licensing and technology based on their government mission
+
   - title: United States Social Security Office
-    link: /civil-organizations/us-social-security/index.html
+    link: /civil-agencies/us-social-security/index.html
     details: Solve social issues by providing technology from the federal level, along with grants to local levels to manage social issues including Homelessness.
   - title: FCC Domain Zones
-    link: /civil-organizations/us-federal-communication-commission/index.html
+    link: /civil-agencies/us-federal-communication-commission/index.html
     details: Domain Zones will be additional way to deploy applications to citizens and governments, based not on an application store, but based on the location in which you reside to launch the applications.
 ---
