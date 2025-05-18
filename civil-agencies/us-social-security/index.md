@@ -10,6 +10,14 @@ To enhance the effectiveness of these programs, I propose consolidating them int
 
 The social security office will manage the [personal profile](./personal-profile/). A personal profile is a citizens wallet where all government documents will be placed, and shared with the market place.
 
+## Legislation
+
+All legislation will be managed at the federal level, where down stream agencies can veto them and provide alternatives. For example, a person can be locked up or forced into treatment for mental illness and/or drug and/or alcohol addiction unless they pose a danger to self or others.
+
+It's clear this law should re-evaluated as people that cannot take care of themselves should be admitted to transitional housing.
+
+This is the power of legislating at the functional level. We know where to go to set laws, and the people approving are educated in their domain.
+
 ## Social Services
 
 ### Retirement
@@ -35,10 +43,19 @@ Social Security would ensure they were looking for jobs. If they failed to after
 - Eat at the house kitchen
 - Storage costs
 
+### Social Security Administration Licensing
+
+Social security will provide licenses to personal profiles after they received for education for:
+
+- License people to help those in the streets that are in distress. This will include transitioning them to transitional housing, or calling the DOJ police. A DOJ social conflict license will also be needed to handle violent people where bear spray usage will be licensed.
+- License people on-line that are in distress.
+- License managers of transitional housing units.
+- License managers for services like AAA.
+
 ### Domain Zone
 
 A domain zone application will be managed at federal and local levels to allow people to report people in need where social workers would deployed and take them to .social-care-centers with licensed social workers.
 
-### On-Line Reporting
+### American Internet On-Line Reporting
 
-Furthermore, links would be available on social networks to report people that need help. All social networks must have a back channel for social security where an ID is passed in the link to social security, and a callback is made to receive the actual persons personal profile.
+Furthermore, links would be available on social networks to report people that need help. Their login session id would be provided, where social security could receive from the FCC the actual person logging in.

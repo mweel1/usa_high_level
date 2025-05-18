@@ -45,11 +45,11 @@ A Sworn affidavit or declaration under penalty of perjury may be signed.
 
 Once the personal profile has been setup by a licensed live scan office, they user will enter an e-mail and password for it.
 
-The live scan agent will make a connection to all required services all items added to their personal profile will be verified including:
+The live scan agent will watch a citizen approve and make a connection to all required services all items added to their personal profile will be verified including:
 
 ### Treasury
 
-To ensure they have ownership of the cards added to the personal profile.
+To ensure they have ownership of the cards added to the personal profile, and receive one time transaction IDs for cards.
 
 ### E-Check
 
@@ -57,7 +57,7 @@ Verify all bank accounts that come from the treasury are valid. An amount for ea
 
 ### Social Security
 
-To receive their social security card, with a social security number on it.
+To receive their social security card, with a social security number on it, and social security to receive address and contact information in case of a social security emergency from the FCC.
 
 ## Logging In - First Time
 
