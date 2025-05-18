@@ -56,3 +56,7 @@ HUD would manage plan approval districts where plans of housing would be approve
 HUD would provide the district a budget to hire approved licensed .home-approval-agents.
 
 The districts would charge a processing fee.
+
+They would also have a platform to collaborate with neighbors about impact zones, and the compensation around it.
+
+Wonder how much the first high rise is going to cost in Laguna.

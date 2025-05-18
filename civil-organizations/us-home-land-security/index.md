@@ -20,6 +20,8 @@ The world wide internet has become an untrustworthy service for the citizens of 
 
 Additionally, we rely on corporations like Google, who is currently under an anti-trust lawsuit to protect users from content and to make it safe by gate keeping the internet. The original intent of the internet was exploration, productivity and innovation. The vision of the United States internet is to restore this, while making it safe.
 
+The goal of the USA Internet will be to authorize users when they are making requests to the directory services, provide intelligence for our government organizations, and prosecute people when they commit fraud on the domain system.
+
 # United States Internet
 
 The United States Internet will run on top of the world wide internet.
@@ -35,6 +37,7 @@ Safety of content will be paramount to the United States Internet where a [conte
 ## DNS Requirements
 
 - The DNS system will track all requests made for the directory service, and provide them as an open API as logs in anonymous format if the domain owner chooses. Otherwise their domain name can be provided.
+- All DNS requests will need a personal profile and/or business profile + personal profile.
 - All DNS logs with the personal profile URL will be sent to the National Security Agency where jurisdictions can request details with proper approvals.
 - All DNS Systems must be have a fallback to the NITS.
 - No caching of DNS records is allowed on clients when using the usa: prefix.

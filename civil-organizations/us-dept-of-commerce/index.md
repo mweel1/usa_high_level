@@ -23,6 +23,16 @@ One of the first requirements of the specifications is that they have a single u
 
 Domain Zones can overlap in areas, and the business could technically be the same owner.
 
+The business process specifications would include:
+
+1. Backend API
+2. Internal API
+3. Customer Facing API
+
+A specification would be created with all API surfaces.
+
+Businesses would have to publish which ones they implemented in their /licenses/api-services.
+
 ## City
 
 Once a city receives a grant to manage the business license, and installs their application container.

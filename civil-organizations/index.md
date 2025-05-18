@@ -4,7 +4,9 @@
 
 The civil organizations are designed to foster coordinated governance across federal, state, and city levels, in the context of the mission of the organization.
 
-The platform ensures transparency, accountability, and seamless interaction between jurisdictions, agencies, and citizens. It supports the management of technology, finances, legal processes, and licensing across different layers of government.
+The platform ensures transparency, accountability, and seamless interaction between jurisdictions, agencies, and citizens. It supports the management of technology, finances, legal processes, and licensing across different jurisdictions of government.
+
+Civil organizations provide technology from NITS approved containers to enable jurisdictions and federal API standards for reporting.
 
 There are many advantages to [citizen organizations](/civic-organizations/advantages/).
 
@@ -14,9 +16,9 @@ The platform must meet the following business objectives:
 
 - Enable acceptance of ACH payments from the Federal Reserve to top-level .gov organizations based on:
 
-- .gov budget, and all downstream jurisdictions
+  - .gov budget, and all downstream jurisdictions. This includes the cost for board members, technology personnel and grants.
 
-- All .gov downstream jurisdictions must be on the same budget cycle as the top level .gov domain.
+- All .gov downstream jurisdictions must be on the same budget cycle as the top level .gov domain which is driven from the top level agency.
 
 - Support the allocation of funds across federal, state, and city jurisdictions based on budgetary requirements with integrated approval workflows for transferring money between jurisdictions.
 
@@ -68,6 +70,18 @@ The terms are open ended. Once board members are appointed they can be removed b
   - Educational Domain Name
   - Top level .gov Organization
   - Any meta-data around the certificate or license that would be used in the market place.
+
+# Compensation
+
+Today our government employees are not paid enough. This leads to corruption in the govt to make more money, because no dought there job is one of the hardest.
+
+## Starting Up
+
+When these agencies are started up, they would provide a budget that included what they are going to do in that jurisdiction. Which would include their salary.
+
+## New Board Members
+
+When board members left, or got impeached they would have to apply to the board with a price. If it was during a 1 year revenue cycle, it would be amended to the budget and the public would be notified.
 
 # Education Integration
 

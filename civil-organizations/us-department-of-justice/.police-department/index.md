@@ -67,3 +67,7 @@ The police department will provide an API for the marketplace that will show an 
 ## Street Lights and Vehicle Notifications
 
 Using short range wireless communication when an emergency vehicle is driving down the street, all vehicles with a [operating system](/vehicle-technology-act/) would be provided a notification to be on an alert for emergency vehicles where the radio would be turned down.
+
+## Noise Complaints
+
+You can file noise complaints to the police via phone and the application in the police category.
