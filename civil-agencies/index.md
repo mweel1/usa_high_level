@@ -1,66 +1,80 @@
-# Technology Plan: civil organizations
+# Civil Agencies
 
-## 1. Executive Summary
+## Overview
 
-The civil organizations are designed to foster coordinated governance across federal, state, and city levels, in the context of the mission of the organization.
+Civil agencies are designed to foster coordinated governance across federal, state, and city levels vertically, in the context of the mission of the agency.
 
-The platform ensures transparency, accountability, and seamless interaction between jurisdictions, agencies, and citizens. It supports the management of technology, finances, legal processes, and licensing across different jurisdictions of government.
+For example, Social Security would have a federal, and city jurisdiction to provide Social Security services, for example the Social Security in a city would manage homeless shelters not the state that provides this currently.
 
-Civil organizations provide technology from NITS approved containers to enable jurisdictions and federal API standards for reporting.
+This approach ensures transparency, accountability, and seamless interaction between jurisdictions, agencies, and citizens. It supports the management of technology, finances, legal processes, education, and licensing across different vertical jurisdictions of government.
 
-There are many advantages to [citizen organizations](/civic-organizations/advantages/).
+Civil organizations provide technology from NITS approved containers to enable jurisdictions to deploy technology, and provide the standards for them to communicate.
 
-The platform must meet the following business objectives:
+There are many advantages to [civil agencies](/civil-agencies/advantages/).
 
-# Finance Management
+## Government Objectives
 
-- Enable acceptance of ACH payments from the Federal Reserve to top-level .gov organizations based on:
+### Finance Management
 
-  - .gov budget, and all downstream jurisdictions. This includes the cost for board members, technology personnel and grants.
+- Enable acceptance of ACH payments from the Federal Reserve to top-level .gov civil agencies based on:
 
-- All .gov downstream jurisdictions must be on the same budget cycle as the top level .gov domain which is driven from the top level agency.
+  - Civil agency budget and all downstream jurisdictions budgets. The grants provide to downstream agencies include costs for board members, personnel, technology and infrastructure.
 
-- Support the allocation of funds across federal, state, and city jurisdictions based on budgetary requirements with integrated approval workflows for transferring money between jurisdictions.
+- All top level civil agencies downstream must be on the same budget cycle as the top level .gov domain which is driven from the top level agency bylaws.
 
-- The management will have a budget section that will be solidified, or in-progress for the following 1 year cycle.
+- All agencies must have a budget section for the next year (in-progress), and the current year.
 
 - Provide comprehensive budget management tools for agencies across all jurisdictional levels.
 
-# Legislative Management
+- Allow for the special funding requests for projects that were not considered in the financial planning.
 
-- Any top level organizations, or their children organizations can be setup for legislative capabilities which would allow people to vote on issues for board consideration.
+### Legislative Management
+
+- Any top level civil agencies, or their downstream civil agencies can be setup for legislative capabilities which would allow people to vote on laws for board consideration.
 
 - All jurisdictions would have to have 3-5 board members and officials within jurisdictions and agencies to propose, amend, or veto laws.
 
 - Any jurisdiction board can vote to move the vote to a different jurisdiction.
 
-- All budgets for jurisdictions would be open for the public as they are being worked and solidified by the board.
+- Top level agencies could cancel board votes brought to them.
 
-- If down stream jurisdictions vote on something that is causing issues, Any higher jurisdictions can override legislative decisions of lower organizations at any-time.
+- If down stream jurisdictions vote on something that is causing issues, a higher jurisdictions can override legislative decisions of lower organizations at any-time with a vote.
 
-- Other citizen government organizations can weigh in on legislative decisions that are being discussed. For example the EPA, might weigh in if FEMA is building a new fleet of fire trucks. No other government agency organization can override another one except for the President.
+- Other citizen government organizations can weigh in on legislative decisions that are being discussed. For example the EPA, might weigh in if FEMA is bidding out a new fleet of fire trucks.
 
-# Board Management
+- No non-related civil agency can override another one except for the President. It's suggested the boards include people that have environmental backgrounds. The General Administration Agency will create the requirements for all boards as they are created for various jurisdictions.
 
-## Starting Up
+## Board Management
 
-Board members are created based on applying from their parent jurisdiction. The parent must require the type of solution providers based on the type of role. For example, The UL might want to have an EPA based board member to help reduce emissions. In that case the President would appoint them.
+Each board consists of a number of members as defined by its bylaws and must have a quorum.
 
-## Data Sharing
+### Starting Up
 
-All board members must share their financial to ensure they do not receive kickbacks from the market place to the government over site.
+Downstream agencies are started up after the General Administration in their jurisdiction has approved them. The upstream agency will provide all the requirements of the board including the job descriptions of the board members, and an example budget from another jurisdiction.
 
-## Board Seat Restrictions
+### Data Sharing
 
-The only board restrictions are the roles in which they are designed, for example an EPA seat on DOT would have to have experience in the field.
+All board members must share their financial information to ensure they do not receive kickbacks from the market place. The Civic Over Site Agency will require an oAuth when sworn into an agency.
 
-## Terms
+### Compensation
 
-The terms are open ended. Once board members are appointed they can be removed by vote. A carrier solution provider is something special.
+Today our government employees are not paid enough. This leads to corruption in the govt to make more money, because no dought there job is one of the hardest. Compensation will be determined on the value you bring to the board as part of the budget.
 
-# Licensing and Certification
+### New Board Members
 
-- Support the issuance of licenses to individual profiles based on successful education, adn testing.
+When board members leave, or got impeached. New board members would have to apply with their rate, where it would be automatically adjusted in the following budget payment from the top level civil agency.
+
+### Terms
+
+The terms are open ended. Once board members are appointed they can be removed by vote.
+
+## Licensing and Certification
+
+Civic Agencies will provide education and licensing based on their duties. For example Housing and Urban development would provide contracting licenses, and the education resources to receive one.
+
+The following are the requirements for licensing and certification:
+
+- Support the issuance of licenses to individual personal profiles based on successful education, and testing.
 
 - Support the issuance of certificates to individual profiles based on successful education, and testing.
 
@@ -71,56 +85,28 @@ The terms are open ended. Once board members are appointed they can be removed b
   - Top level .gov Organization
   - Any meta-data around the certificate or license that would be used in the market place.
 
-# Compensation
+## Education Integration
 
-Today our government employees are not paid enough. This leads to corruption in the govt to make more money, because no dought there job is one of the hardest.
+- Each top level Civil agency will have educational directory for each certificate and/or license.
 
-## Starting Up
+- When the education requirements have been completed, the education domain would send the certificate to the .gov domain where it would be added to the users personal profile.
 
-When these agencies are started up, they would provide a budget that included what they are going to do in that jurisdiction. Which would include their salary.
+- Education domains must have a secure connection with their top level agency to provide certificate and license approvals.
 
-## New Board Members
+## Container Deployment
 
-When board members left, or got impeached they would have to apply to the board with a price. If it was during a 1 year revenue cycle, it would be amended to the budget and the public would be notified.
-
-# Education Integration
-
-- Each top level .gov organization will have educational directory for each certificate and/or license.
-
-- When the education requirements have been completed, the education domain would send the certificate to the .gov domain where it would be added to the personal profile.
-
-- Education domains would be provided keys associated with a domain name. When the .gov received a request with the key, it would also receive a handshake key the calling domain would have to implement and acknowledge.
-
-- As part of the container approval, all keys must be stored in a secure file system.
-
-- Education containers will oAuth to the .gov website with their client ID, and domain where they key will be given to them and stored in a secure place.
-
-# Container Deployment
-
-- All top level domains would manage a container registry where all containers would have be signed.
+- All top level domains would manage a container registry where all containers would have be signed provided by the NIST.
 
 - All top level domains would have to have a number of approved hosting providers approved by the NIST that would be able to pull containers and run them, and roll back containers in case of issues.
 
-- All top level domains would be responsible for ensuring there are test environments where the market could test the next releases of specs by the G2G standard committee at NIST. This would be prefixed by a test host. For example test.e-bike.dot.gov.
+- All top level domains would be responsible for ensuring there are test environments where the market could test next releases.
 
-All containers must have data cleansing procedures, testing procedures approved by NITS when moving between production and test environments.
+## Domain Names
 
-# Domain Names
+All agencies must get a domain setup by the top level agency via Homeland Security where their government certificate will be issued to their domain.
 
-Along with container deployments the top level .gov domain would have the ability to create host names for the containers and automatically provision them.
+## Cross Agency Analysis
 
-# 2.4 Cross Organizational Comparison
+- Each type of agency at each jurisdiction will have metrics associated with them that must be released so civic agency over site and citizens can review them for inefficiencies.
 
-- Allow the evaluation of cross organization comparisons between jurisdictions and develop the metrics to analyze this. For example, for Police you might have a stat around ticket per police, and analyze across cities in the Justice Department Citizen Organization.
-
-# Monolithic vs. Container Deployments
-
-It might make sense at first glance to want to build a monolithic applications at the top level domain, and provide down stream services for jurisdictions.
-
-This will be true of all the legislative, and financial systems of all top level agencies to ensure secure fund transfer, voting, etc.
-
-However, in other cases containerization management is important at the top level agency and NIST for the following reasons:
-
-- Its important to give the market autonomy to build products for various use cases in the government. For example, a mountain bike park run by the National Park Services. You could have many providers developing mountain bike applications based on the B2B requirements and API standards.
-
-- Second its important to have a separation of concerns between the various jurisdictions where G2G requirements can be discussed, understood and implemented.
+A civic agency over site report is provided to the agency once a year for citizens to help deal with inflationary measures from voting on agencies directly.
