@@ -31,3 +31,7 @@ The DOH will get extremely aggressive in [reducing costs of medical costs](./med
 ## Banking
 
 The DOH will work with the federal reserve to ensure loan rates are adjusted for medical buildings to improve the development of hospitals and medical facilities.
+
+## Licensing
+
+- License managers of mental health institutions.

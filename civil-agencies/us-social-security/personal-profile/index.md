@@ -23,45 +23,69 @@ Parents will also have their newly created children added to their personal prof
 
 If the parent does not have a phone, their pin must be entered to create the association.
 
+All parents must have a personal profile setup to schedule an appointment for child birth.
+
 ## Existing Citizens - Live Scan Office
 
-A directory of licensed live scan agents will be available for all citizens to go and create a personal profile in person. This will be provided by the operating system when users create their American Internet login.
+A directory of licensed live scan agents will be available for all citizens to go and create a personal profile in person. This will be provided by the operating system when users create their [American Internet](/civil-agencies/us-home-land-security/USA-Internet/) login.
 
-They will be instructed to bring all government documentation with them including:
+They will be instructed to bring all government documentation with them they have available including:
 
 - Government-issued photo ID (e.g., driver’s license, passport).
-- Birth certificate and/or Social Security card
+- Their birth certificate
+- Children's birth certificates
 - Payment Cards
+
+At least one government issued photo ID must be present and a birth certificate.
+
+All government Ids can be provided using the [NITS standards](/civil-agencies/us-national-institute-of-standards-and-technology/govt-id-application/).
 
 Once the citizen meets with the live scan agent. The live scan agent will have access at the social security office to:
 
 - Upload all documents to a newly created personal profile including ID's, certificates and cards.
 - The live scan agent will take 3 profile pictures to ensure face recognition systems can be used properly.
-- Finger prints will be stored and provided to all departments that require it, where the social security will be associated.
+- Finger prints will be stored and provided to all departments that require it, where the social security number will be associated.
 
-The office will also ensure all the organization around family members are set correctly based on the documentation provided, and will have access to do this.
+### Family Members
 
-Family's with an illegal parent. Must have children with a a birth certificate and be over the age of 5, where a birth certificate will be created and set to Human and Health Services.
+A parent would link a child by bringing in the child's birth certificate.
+
+A $500 payment would be provided by Social Security for each child that was added to the personal profile, along with monthly payments defined by Social Security laws. This would be required since tax advantages would be lost in leu of voting for civil agencies directly.
+
+### Illegal Parents
+
+Family's with an illegal parent. Must have children with a a birth certificate and be over the age of 5, where a birth certificate will be created for the parent and set to Human and Health Services. The country of origin must be provided.
+
+### Suspicious Documentation
 
 If the live scan is suspicious of the documentation, the availability of out of pocket questions will be available to use as a validation tool.
 
+### Declaration under Penalty
+
 A sworn affidavit or declaration under penalty of perjury must be signed, and immediate deportation will result in any falsification of information.
 
-Once the personal profile is setup, the licensed live scan agent will authorize with the following government agencies:
+## Document Setup
 
-## Treasury
+Once the personal profile is setup, the licensed live scan agent will authorize with the following government agencies and their data.
+
+### Treasury
 
 A connection to the treasury will be made to the personal profile where all payment cards will be displayed on screen (with masked out numbers).
 
 The live scan agent will validate each card, where it will be added to the personal profile.
 
-## E-Check
+### E-Check
 
 Verify all bank accounts that come from the treasury are valid.
 
-An amount for each account will come up along with the bank name, where the live scan associate will have to see a bank login with the bank account and amount.
+An amount for each account will come up with:
 
-Once confirmed, a bank account card will be added to the personal profile.
+- The first digit of the balance
+- The amount in cents of the balance
+- Bank name
+- Account name
+
+Once confirmed, a bank account card will be added to the personal profile for processing transaction on the [treasury e-check system](/civil-agencies/us-treasury/e-check/) which will provide $0 cost transactions between citizens and a DOJ jury system to resolve conflicts.
 
 ## Logging In - First Time
 
