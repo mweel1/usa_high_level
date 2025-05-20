@@ -28,7 +28,7 @@ A law will have to be passed if social security is managed at the federal, or di
 
 #### Federal Level
 
-Social Security payments will be defined by the board each year.
+Social Security payments will be defined by the board each year and paid to people with a social security profile.
 
 #### District Level
 
@@ -36,7 +36,7 @@ If payments were voted to be handled at the district level, social security dist
 
 ### Out of Money
 
-Citizens would be able to apply for social security locally if they had no income before retirement due to age or job loss, injury or other causes.
+Citizens would be able to apply for social security locally if they had no income before retirement due to job loss, injury or other causes.
 
 Social security would provide enough funding for:
 
@@ -45,10 +45,11 @@ Social security would provide enough funding for:
 - Storage costs
 - Trade school (for 6 months)
 - Medication
+- Connectivity phone costs
 
 Social Security would ensure participants were either attending school, or looking for jobs for a period of time set by the district law.
 
-If they failed to enter the workforce after a time set by the district board, they would be directed to a mental health institution where they would receive:
+If they failed to enter the workforce or their schooling time expired (based on the district board laws), they would be directed to a mental health institution where they would receive:
 
 - Shelter
 - Eat at the house kitchen
@@ -57,15 +58,9 @@ If they failed to enter the workforce after a time set by the district board, th
 
 ### Jail
 
-License social security agents will be placed in jails, and provide the funding to their personal profile, and book rooms at transitional-housing-organizations provided in the American Internet domain registry.
+Licensed social security agents will be placed in jails, and provide the funding to citizens personal profile, and book rooms at transitional-housing-organizations provided on the American Internet domain registry.
 
 If they do not choose transitional housing, they must have housing confirmed by the consoler.
-
-### Requirements
-
-In-order to receive social security benefits before retirement one must be looking or a job, or be in school for a period of time set by the district. Social security will request access for school registration, and the jobs that were applied for to enforce laws.
-
-If citizens do not apply for jobs, or goto school they will be admitted to a social security run intuition where all services will be provided to them. With this, all mental institutions with a local social security presents will be acquired from the state.
 
 ## Federal Social Security Agent Licensing
 
@@ -73,11 +68,15 @@ Social security will provide licenses and education for:
 
 ### Public Social Security Officers
 
-- Transitioning them to mental institutions based on federal and local laws.
+- Transitioning them to mental institutions based on federal and local laws with the help of DOJ.
 - Use DOJ provided police applications to call the police.
 - Provide funding for people in need.
 - Create and manage social security profile for the social security system to document their interactions.
 - Provide protection for Social Service agents based on a destressed individuals actions (bear spray permits, etc).
+
+### On-Call Social Security Profile Setup Agents
+
+- Goto peoples houses with portable equipment to manage the personal profile startup process.
 
 ### On-Line Social Security Officers
 
@@ -89,11 +88,11 @@ Social security will provide licenses and education for:
 
 ### Federal Domain Zone Application for Public
 
-A domain zone application will be managed at federal level to allow people to report people in need where social workers would deployed and handle them based on their licenses and local laws.
+A domain zone application will be managed at federal level to allow people to report people in need where social workers would deployed and handle them based on their licenses and local laws. Each social worker will have a container deployed to them by Social Security to handle their workload, which will be reported federally.
 
 ### District Domain Zone Application for Licensed Social Security Agents
 
-Each district must develop their own domain zone application to manage people on the streets based on laws and regulations of their district.
+Each district must develop their own domain zone applications for social security agents to manage their business based on the laws, licenses and businesses in their district.
 
 ### American Internet On-Line Reporting
 

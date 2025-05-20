@@ -60,3 +60,11 @@ Each certificate given to the business will have the following attributes:
     - Inspection Date, and by Whom.
     - Status: Current status (e.g., Active, Pending Renewal, Suspended, Revoked)
     - Handicap Accessible
+
+## Licenses
+
+A directory of personal licenses would be available for each business license.
+
+Each personal license added to a business license can have roles associated it to do things in the market place on behalf of the business. These would include:
+
+1. An FCC Role to add applications to the businesses domain zone.

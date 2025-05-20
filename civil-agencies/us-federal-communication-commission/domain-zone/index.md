@@ -26,21 +26,21 @@ Its important this is an FCC asset due to the fact if operating systems tried to
 
 ### Application Providers
 
-Any application provider can upload applications that interface with the [US Department of Commerce](/civil-agencies/us-dept-of-commerce/) business processes, or city processes.
+Any application provider can upload applications that interface with the [US Department of Commerce](/civil-agencies/us-dept-of-commerce/) organization process.
 
-The applications can be uploaded individually or as groups. For example, you could purchase a group of applications that belong to a coffee shop business process.
+The applications can be uploaded individually or as groups. For example, you could purchase a group of applications that belong to a coffee shop business process and enable anyone inside the business value.
 
 ### Businesses
 
-In order to associate a group of applications, or an application you must have a valid business license from [Business Administration](/civil-agencies/us-business-administration/) in your jurisdiction that defines the commerce department business process.
+In order for a business to associate a group of applications, or an application you must have a valid business license from [Business Administration](/civil-agencies/us-business-administration/) in your jurisdiction that defines the commerce department business process with a FCC application business management role.
 
 ### Civil Organizations / Federal, Cities
 
-In-order to add applications to a city, you must have a [General Administration](/civil-agencies/us-general-service-administration) certificate issued by Homeland Security.
+In-order to add applications to a city, you must have a [General Administration](/civil-agencies/us-general-service-administration) certificate issued by Homeland Security with an FCC management role.
 
 ### Civil Organizations / Parks
 
-In-order to add applications to a park, you must have a [US National Park](/civil-agencies/us-national-parks/) certificate issued by Homeland Security.
+In-order to add applications to a park, you must have a [US National Park](/civil-agencies/us-national-parks/) certificate issued by Homeland Security with an FCC management role.
 
 ### Homes
 
@@ -48,27 +48,35 @@ In-order to add applications to a [house](./homes/) you need to have a rental ag
 
 ### Device Restriction Zones
 
-Have you ever been to a concert and wished people could not take videos while watching? Device restriction zones will send commands to the phone when you enter that zone that will notify the user that certain functions of their phone have been disabled.
+All FCC & UL approved devices will have the capabilities to receive events from the domain zone to disable and enable features in their host operating system.
+
+Have you ever been to a concert and wished people would not take videos while watching? Device restriction zones will send commands to the device when you enter that zone that will notify the user that certain functions of their phone have been disabled. By leaving the zone, your features will be re-enabled. On boot up of the device all commands will be checked.
 
 Device Restriction Zones include:
 
 1. Turn off the ability to use a camera (for example at a concert)
-2. Turn off a ring sound (for example in a movie theater), and switch all phones to vibrate.
+2. Turn off a ring sound, and switch all phones to vibrate (for example in a movie theater).
 3. Restrict age appropriate content
 4. Turn off a vehicle if it drives on sidewalks, or other prohibited areas.
 5. Ensure no illicit content is played in public places.
+6. Set the speed of e-bikes based on DOT road specifications.
+7. Disable e-bikes
 
 ## Notification / Warnings
 
-Whenever a ticket or service is provided within a domain zone, all restrictions for that zone must be made visible. The business operating in the domain zone must always display a list of these restrictions—either on the device or on signage—as part of the business permit or general administration requirements.
+Whenever a citizen enters a domain zone, all restrictions for that zone will be made visible via an FCC application called Device Restrictions.
+
+The business operating in the domain zone must always display a list of restrictions on physical signage before entering.
 
 ## Emergency Zones (FEMA)
 
-Application's are approved and categorized by FEMA. When an emergency operation is present, a geo-fence is placed around the zone and the applications are deployed to the citizens.
+Application's are approved and categorized by FEMA by emergency type. For example, fire, flood, hurricane, etc. Categories could be set as prepare, or active response.
+
+When an emergency operation is present, a geo-fence is placed around the zone and the applications are deployed to the citizens based on the FEMA emergency type.
 
 For example a disaster response team could highlight a location during a fire and deploy their "fire" based zone applications. All phone companies must provide a satellite connectivity for these emergency zones over a slow-ip connection on handset companies so there can be communication to the operation centers.
 
-The [FEMA emergency notification](/civil-agencies/us-federal-emergency-management-agency/emergency-communication-system/) system will be used to notify the emergency zone has been deployed and launch it the applications based on FEMA's application group types.
+The [FEMA emergency notification](/civil-agencies/us-federal-emergency-management-agency/emergency-communication-system/) system will be used to notify the emergency zone has been deployed and launch it the applications based on FEMA's application group types, along with messaging to citizens.
 
 All applications will be developed by FEMA.
 
@@ -102,7 +110,7 @@ Toyota setups a new SSID in a car and network.
 
 Registers it with the FCC, and assigns it to an application group that they manage.
 
-When the operating system receives the SSID prefixed by NZ: it will request the application by the FCC.
+When the operating system receives the SSID prefixed by NZ: it will request the application by the FCC with a provided key.
 
 Device restrictions can also be sent via SSID handshakes for example:
 
@@ -125,6 +133,14 @@ Daily tax billing would apply to individuals without a registered rental agreeme
 Adjustments to tax rates could be made based on whether individuals have verified family or friends residing within the domain zone, or if they are business owners with a registered presence in that area.
 
 Enabling this system would require the General Administration to establish the appropriate legal framework and authority via legislation of their district.
+
+## Domain Zone Application Approval
+
+The federal FCC will allow anyone to add applications to a domain zone types based on the commerce department business process API.
+
+Downstream Jurisdictions can disable applications based on local laws. For example, someone might provide a betting application, but betting laws are illegal by Gaming Commission locally. It's the downstream jurisdictions responsibility to monitor laws in their jurisdiction and ensure all apps meet the requirements.
+
+The applications must support all platforms to ensure interoperability, this includes native applications and web applications.
 
 ## Risks
 

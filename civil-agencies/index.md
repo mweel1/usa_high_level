@@ -105,6 +105,10 @@ The following are the requirements for licensing and certification:
 
 All agencies must get a domain setup by the top level agency via Homeland Security where their government certificate will be issued to their domain.
 
+## Sibling Jurisdictions
+
+Top level organizations can have sibling jurisdictions. For example, the FCC could have a top level organization, with a Domain Zone sibling.
+
 ## Cross Agency Analysis
 
 - Each type of agency at each jurisdiction will have metrics associated with them that must be released so civic agency over site and citizens can review them for inefficiencies.

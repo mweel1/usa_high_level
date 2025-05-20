@@ -14,6 +14,10 @@ USDC must also ensure all businesses integrate to the social security personal p
 
 US Department of Commerce will provide grants, education, and application containers to the market to manage the process of issuing business licenses.
 
+## Web Based Interface
+
+All organization processes must provide an API and a web application for users. For example, a person might want to go to the business and look at the hours they are assigned to work.
+
 ## Every open business process (OBP) will have a specific set of requirements. Open business processes for example would be:
 
 1. Restaurant
