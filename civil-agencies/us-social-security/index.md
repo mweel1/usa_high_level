@@ -1,10 +1,14 @@
 # Overview
 
+## Social Security Payments
+
 Social Security will have a platform that will enact and vote on laws around social security. It will also provide social security services at the federal level, and the local level via social security districts.
 
 Our country offers a variety of public assistance programs, such as food stamps and Social Security, aimed at supporting individuals in need.
 
-To enhance the effectiveness of these programs, I propose consolidating them into Social Security's platform. This would allow for better data collection, providing a clearer understanding of the public’s needs, and ensuring that support is delivered more efficiently and equitably to those who require it most.
+To enhance the effectiveness of these programs, I propose consolidating them into a single Social Security platform. This would allow for better data collection, providing a clearer understanding of the public’s needs, and ensuring that support is delivered more efficiently and equitably to those who require it most.
+
+Social Security will also be responsible for a personal profile server for citizens.
 
 ## Personal Profile
 
