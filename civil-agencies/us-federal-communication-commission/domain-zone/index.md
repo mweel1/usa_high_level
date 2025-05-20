@@ -18,52 +18,73 @@ For example:
 
 The opportunities are endless and this will usher in many new opportunities for citzens, operating system providers, governments and businesses. This combined with business to business API's at local levels will usher in an opportunity for technology markets we haven't seen since the internet.
 
+## Why FCC?
+
+Its important this is an FCC asset due to the fact if operating systems tried to deliver this type of solution to the users there would many different "domain zones" for citizens which would make it very confusing for users. It's important users get a consistent experience no matter what operating system they are on from vehicle operating systems to mobile handsets.
+
 ## Setup
 
-### Application Zones
+### Application Providers
 
-Application deployment will be provided by the FCC as it relates to allowing various licensed business permitting people and governments to use the zoning application, this will be integrated with a [business licensing system](./business-license/index-md).
+Any application provider can upload applications that interface with the [US Department of Commerce](/civil-agencies/us-dept-of-commerce/) business processes, or city processes.
 
-### Parks
+The applications can be uploaded individually or as groups. For example, you could purchase a group of applications that belong to a coffee shop business process.
 
-The state will have a login to allow the national parks to setup all their domain zones, it will provide additional logins for each grant organization to install apps they deem fit.
+### Businesses
+
+In order to associate a group of applications, or an application you must have a valid business license from [Business Administration](/civil-agencies/us-business-administration/) in your jurisdiction that defines the commerce department business process.
+
+### Civil Organizations / Federal, Cities
+
+In-order to add applications to a city, you must have a [General Administration](/civil-agencies/us-general-service-administration) certificate issued by Homeland Security.
+
+### Civil Organizations / Parks
+
+In-order to add applications to a park, you must have a [US National Park](/civil-agencies/us-national-parks/) certificate issued by Homeland Security.
 
 ### Homes
 
-[Homes](./homes) will have domain zone based on a mortgage.
+In-order to add applications to a [house](./homes/) you need to have a rental agreement, or mortgage issued by the [US Department of Housing and Urban Development](/civil-agencies/us-department-of-housing-urban-development/).
 
-### Small Business Administration
+### Device Restriction Zones
 
-Small business administration will have access to manage the business domain zones and provide credentials for business to manage their applications based on the intranet B2B specification that is associated with the business.
+Have you ever been to a concert and wished people could not take videos while watching? Device restriction zones will send commands to the phone when you enter that zone that will notify the user that certain functions of their phone have been disabled.
 
-#### Business Zones
+Device Restriction Zones include:
 
-#### Signage
+1. Turn off the ability to use a camera (for example at a concert)
+2. Turn off a ring sound (for example in a movie theater), and switch all phones to vibrate.
+3. Restrict age appropriate content
+4. Turn off a vehicle if it drives on sidewalks, or other prohibited areas.
+5. Ensure no illicit content is played in public places.
 
-Anytime an application zone is defined the business must provide a QR code before entry where:
+## Notification / Warnings
 
-- A list of operating system restrictions are provided.
-- A directory of applications in that zone. A bit will be set on the application if it should be shown from a QR Code or only by pressing the domain zone button on your device.
+Whenever a ticket or service is provided within a domain zone, all restrictions for that zone must be made visible. The business operating in the domain zone must always display a list of these restrictions—either on the device or on signage—as part of the business permit or general administration requirements.
 
 ## Emergency Zones (FEMA)
 
-Application's are approved and categorized by FEMA. When an emergency operation is present, a geo-fence is placed around the zone and the applications are deployed to the citizens. For example a disaster response team could highlight a location during a fire and deploy zone applications. All phone companies must provide a satellite connectivity for these emergency zones over a slow-ip connection on handset companies so there can be communication to the operation centers.
+Application's are approved and categorized by FEMA. When an emergency operation is present, a geo-fence is placed around the zone and the applications are deployed to the citizens.
 
-The [emergency notification](/ecs-gov/) system will be used to notify the emergency zone has been deployed and launch it the applications based on FEMA's application group types.
+For example a disaster response team could highlight a location during a fire and deploy their "fire" based zone applications. All phone companies must provide a satellite connectivity for these emergency zones over a slow-ip connection on handset companies so there can be communication to the operation centers.
+
+The [FEMA emergency notification](/civil-agencies/us-federal-emergency-management-agency/emergency-communication-system/) system will be used to notify the emergency zone has been deployed and launch it the applications based on FEMA's application group types.
 
 All applications will be developed by FEMA.
 
-Emergency Zone application can mark applications as leave behind which will remain sticky until deleted by the user, for example if they evacuate to a hotel and need to file an insurance claim.
+Emergency Zone application can mark applications as leave behind which will remain sticky until deleted by the user, for example if they evacuate to a hotel and need to file an insurance claims to ensure people get paid.
 
 All operating systems must use the usa:// prefix when resolving DNS names for security purposes.
 
-### Direct User Application Zones
+## Direct User Application Zones
 
-Any manager of application zones can add specific profile URLs (or users) which would allow specific applications to launch when that user is specifically added to that zone. One example a specific waiter at a restaurant. There will be role capabilities with this also which will allow you to assign many users to a role also.
+Any manager of application zones can add specific profile URLs (or users) which would allow specific applications to launch when that user is specifically added to that zone. This is very powerful as it gives different functions for different roles. For example, a customer might get a juke box application to play music, where an employee with the role might get the ability to manage the jukebox.
 
-### Internal Zones
+A validation end-point must be provided to a business to ensure the role is active. For example, the role is only operational during their hours of work.
 
-It might feel natural to want internal zones of a business. However, its a risk if there are two many micro-zones, as people would be wondering around trying to find applications in public places.
+## Zones within Zones
+
+It might feel natural to want internal zones of a business zone. However, its a risk if there are two many zones within zones, as people would be wondering around trying to find zones in public places.
 
 In this case the recommended way to do this will be the use of numbers. A couple of example of this is:
 
@@ -71,7 +92,7 @@ In this case the recommended way to do this will be the use of numbers. A couple
 - Press a button to pay for a meter, and entering a meter #.
 - Pressing a button in a hotel room and retrieving the hotel room via a personal profile receipt.
 
-At least to start, I could be proven otherwise once the technology is released but that my feeling to start for safety measures.
+At least to start, I could be proven otherwise once the technology is released but thats my feeling at this time.
 
 ## Network Zone
 
@@ -83,7 +104,7 @@ Registers it with the FCC, and assigns it to an application group that they mana
 
 When the operating system receives the SSID prefixed by NZ: it will request the application by the FCC.
 
-Operating system triggers can also be sent via SSID handshakes for example:
+Device restrictions can also be sent via SSID handshakes for example:
 
 - Restrict age appropriate content (i.e. don't allow people to play illicit content on an airplane)
 
@@ -91,78 +112,20 @@ Operating system triggers can also be sent via SSID handshakes for example:
 
 Cities can have virtual zones which would allow mobile business to operate. For example a Surf School that is all contained in a truck would assign their business to a virtual zone.
 
-## Wi-Fi Zones
+## Taxing
 
-Wi-Fi Zones would applications to be available when a certain SSID was joined.
+Implementing this system involves significant technical overhead, but it is worth considering.
 
-You can reserve and SSID and the applications at the FCC. All wireless routers must validate their SSID name with the FCC.
+The General Administration could provide a standardized daily tax rate, which would be published at a city level. When individuals enter a [General Administration](/civil-agencies/us-general-service-administration/) domain zone (such as a city), a tax bill could be issued to their personal profile.
 
-## Taxi Pickup
+If a citizen has an unpaid tax bill from a previous entry and re-enters a domain zone, their location could be shared by the FBI with local police for potential enforcement action, such as a traffic stop.
 
-Cities will define domain zones where it's safe to pick up passengers.
+Daily tax billing would apply to individuals without a registered rental agreement or mortgage linked to their personal profile.
 
-## Department of Transportation
+Adjustments to tax rates could be made based on whether individuals have verified family or friends residing within the domain zone, or if they are business owners with a registered presence in that area.
 
-Anyone with a transportation authority can upload proof of their authority, along with their street zone.
-
-With the street zone they can:
-
-- Set the speed of vehicles
-- Create warning messages
-- No Drive Zone
-
-## Mobile Handset Domain Zone Triggers
-
-Application Zones can trigger control commands in operating systems at certain times that might:
-
-1. Turn off the ability to use a camera (for example at a concert)
-2. Turn off a ring sound (for example in a movie theater), and switch all phones to vibrate.
-3. Restrict age appropriate content
-
-## Why FCC?
-
-Its important this is an FCC asset due to the fact if operating systems tried to deliver this type of solution to the users there would many different "domain zones" for citizens which would make it very confusing for users. It's important users get a consistent experience no matter what operating system they are on from vehicle operating systems, to mobile handsets.
+Enabling this system would require the General Administration to establish the appropriate legal framework and authority via legislation of their district.
 
 ## Risks
 
-One of the big risks with this technology is that people will be wondering around always pressing a button to see what application service is available. The [public service announcement system](/public-service-announcements/) will broadcast the best way to use these applications easily and safely. Each Application Zone will have a limit of 15 applications.
-
-## Public Market Application Approval
-
-When new applications are added by the market. The FCC would approve applications that are associated with a specific B2B specification that was defined in the business permit by the SBA.
-
-Once approved, business owners could add those applications as they deemed appropriate in solution categories, or one-off categories.
-
-A market place will provide solution categories, and one-off groups for the various b2b specification and business permits that the private market will maintain.
-
-## Government Application Approval
-
-A special government section will be available for each jurisdiction. Only top level government organizations can apply to have their apps automatically deployed at:
-
-1. Federal Level
-2. State Level
-3. City Level
-4. Country Level
-
-## Project Plan
-
-Our first version of the application will be done deployed federally at national parks, state parks, and local parks.
-
-## National Parks
-
-# Government applications for:
-
-- FEMA to request help while in the park
-- DOH Health Bathroom Maps
-
-# Public applications for:
-
-- Trail Maps
-- Vendors and out reach organizations
-
-## Laguna Parks
-
-A grant will be used to acquire all parks in Laguna.
-A grant will be request from HHS to manage the bathrooms at all parks where a board will be created.
-
-We will have two boards, one for action parks, or community parks.
+One of the big risks with this technology is that people will be wondering around always pressing a button to see what application service is available. The [public service announcement system](/public-service-announcements/) will broadcast the best way to use these applications easily and safely. Each Application Zone will have a limit of 7 applications to start.

@@ -6,7 +6,7 @@ The department of justice will run the court system for all civic related matter
 
 All federal, state and city laws will be added to the platform when it's brought up. No county and city laws may overlap.
 
-There is a board at the federal, state and city level. Who approve all laws brought by the public.
+There is a board at the on-line,federal, state and city level. Who approve all laws brought by the public.
 
 Any downstream law that is voted on the public, must receive an approval from the jurisdiction above. For example, city laws need to be approved by the state board. State laws need to be approved by federal boards.
 
@@ -21,6 +21,16 @@ It will be the job of the boards in each jurisdiction to add their laws to the p
 All people who vote must have a residency in that jurisdiction by a rental agreement, or title.
 
 DOJ will vote on if criminal history should be public released by the local court, or available in local media licenses.
+
+# On-Line Reporting
+
+Citizens will have the ability to report content on-line to the department of justice based on the on-line laws. For example President Trump made a law Deep Fakes, and revenge porn are illegal.
+
+All on-Line DOJ reporting links will have a key associated with it, once a warrant is issued. The DOJ can request the actual content based on the key. This will include the content, and the actual person that account belonged to.
+
+Content must be saved for 90 days from the date it posted.
+
+We will use the same mechanism for this that social security uses to report people that need help.
 
 # Licenses
 

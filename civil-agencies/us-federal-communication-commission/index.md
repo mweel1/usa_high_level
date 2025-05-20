@@ -1,70 +1,40 @@
 # Overview
 
-## FCC Website Revamp
+## FCC
 
-The FCC would receive money from the federal reserve directly.
-
-There would be 5 elected officials.
-
-All 5 officials would be appointed by the president where their salaries would be determined based on their value.
-
-Officials would be elected every 4 years, and impeachment procedures can occur for any official by the public. The election process would be staggered each year for each official.
-
-All working groups the public must approve. If your a business that depends on these service, get your people out to vote!
-
-The FCC would accept any technology communication standard recommendation on the American Internet, and allow people to vote on them.
-
-The FCC would have a justice department and arrest individuals who did not comply with the FCC which would be carried out by the Justice Department. In these cases, the justice department would require the new hire to comply with the laws of the FCC.
-
-To create standard/laws at the FCC in must support the standardization of communications on the American Internet DNS system.
+The FCC would have an additional function to manage domain zones.
 
 # Working Groups
 
-The entire FCC organization would be broke up various working groups, and be responsible for their own technology platforms.
+FCC organization would be broke up various working groups, and be responsible for their own technology platforms.
 
-When working groups are defined a notification to all government agencies are notified to participate. Market participants that are required to participate must also attend.
+When working groups are defined a notification to all government agencies are notified to participate.
 
 ## Radio
 
-Radio would develop a bidding platform for spectrum, the spectrum would be
-available for a number of years voted on by the members of the FCC, with recommendations from the public.
+Radio would develop a bidding platform for spectrum.
 
-Source : FCC
+### Domain Zones
 
-### Zone Application Technology Working Group
+[Domain Zones](./domain-zone/index.md) are going to usher in a new era of software development and device management opportunities.
 
-The zone application technology working group will be responsible for the application to ensure Domain Zones are working correctly in the market place.
+The domain zone technology working group will be responsible for the application to ensure Domain Zones are working correctly in the market place, and host it.
 
-The Zone Application must run on multiple-cloud providers, along with an on-premiss where the zone application working group, and FCC board will hold all credentials to terra-form deployments.
+### Zone Application Approval
 
-Source : FCC
+The federal FCC will allow anyone to add applications to a domain zone types based on the commerce department business process API.
 
-### Zone Application Approval Working Group
+Downstream Jurisdictions can disable applications based on local laws. For example, someone might provide a betting application, but betting laws are illegal by Gaming Commission locally. It's the downstream jurisdictions responsibility to monitor laws in their jurisdiction and ensure all apps meet the requirements.
 
-The zone application approval group will approve applications for various spheres of influence, and set the requirements for zone application approval.
-
-Source: FCC
+The applications must support all platforms to ensure interoperability, this includes native applications and web applications.
 
 ### Satellite
 
-The FCC would bid out at a sales and service platform that would:
+The FCC would provide a sales and service platform to the market for all our internet based satellite solutions that would:
 
 - Allow organizations to be created with a sales and services function.
-- Allow organizations to purchase hardware from 3rd party hardware manufactures at cost.
-- Allow organizations to RMA hardware from 3rd party hardware manufacturers
-- Allow to sell satellite services under two categories personal, or home. Both would have a bandwidth rate associated with them.
+- Allow organizations to purchase hardware from satellite hardware manufactures, where it could be marked up.
+- Allow organizations to RMA hardware to 3rd party hardware manufacturers.
+- Allow organizations to sell [bandwidth](./bandwidth) at various categories defined by the FCC.
 - An upgrade could be provided for a static IP address at an additional cost.
 - No satellite provide could couple their hardware with the service. For example StarLink would have to have a hardware component, and sales component.
-
-The satellite receiver must provide a static IP address for consumers, where the IP address can be registered on the USA Internet.
-
-## Emergency Communication System
-
-The FCC will manage the new multi-device [emergency communication system](./emergency-communication-system/).
-
-# Licenses
-
-The FCC will manage licenses and education for :
-
-- Press Passes
-- Media
