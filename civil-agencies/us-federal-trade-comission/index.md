@@ -8,6 +8,8 @@ The FTC will provide a platform that will local jurisdictions to participate in 
 
 The FTC would provide an education directory, and provide media licenses that are required to use various media containers.
 
+Media licenses must provide the full name of the person and the media license along with a watermark.
+
 ### Media containers would include:
 
 .ticketed-venue

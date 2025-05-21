@@ -97,3 +97,75 @@ Each district must develop their own domain zone applications for social securit
 ### American Internet On-Line Reporting
 
 Furthermore, links would be available on social networks to report people that need help. Their login session id would be provided, where social security could receive from the FCC the actual person logging in.
+
+## Single Sign On
+
+Operating systems will have a web-socket connection to the personal profile when it authorized via fingerprint or camera.
+
+A client side operation at the operating system and browser level would allow the application to receive a client side handshake key.
+
+The client would send the client side handshake key to the server side processes.
+
+The server side process would request a login to the personal profile.
+
+This request would include:
+
+- The domain name
+- Server Side handshake key
+- Client Side handshake key (Includes the FCC operating system Id)
+- Identification Requirements (Identification ID, Anonymous, Handle, First Name, First Name/Last Name)
+- [License ID](/civil-agencies/us-national-institute-of-standards-and-technology/personal-licenses/) (Required, or optional)
+
+The server side would provide an API to accept the /validate-handshake where the server side and client side handshake key would be confirmed.
+
+### Passkey Login (New Account)
+
+If no passkey was available for the domain, the user would confirm the login to the domain based on the identification requirements.
+
+The personal profile will provide back to the server via the /login API:
+
+- Server Side Handshake Key
+- Client Side Handshake Key
+- Personal Profile SSN current logged in
+- Identification Requirement
+- Domain
+
+All licenses must be validated before they are processed back to the server with their license ID, if they are not an end-point called /login-failed would be called with a code 01 - License not available
+
+### Passkey Login (Existing Account)
+
+The personal profile would check to see if there is a passkey valid for that domain after verifying the client and server handshake key and ask the user if they would like to login with it. The passkey will contain:
+
+- Passkey
+
+All licenses must be validated before they are processed back to the server with their license ID, if they are not an end-point called /login-failed would be called with a code 01 - License not available.
+
+All native applications in operating must connect to a domain to login and have it a security definition file built into the executable to define their point to point domain for at the very least, logging in.
+
+All steps of the authorization process must be logged to the personal profile, where with a warrant for a specific domain and a time frame the social security profile would provide:
+
+1. I.P Address of the server side request
+2. Client side handshake key which would include the operating system FCC device ID
+3. Domain name
+4. Social security number
+5. Identification requirements requested
+6. Identification requirements provided
+7. License ID's Requested
+8. License ID's Validated
+9. Passkey created
+10. Passkey provided
+
+### Social Security Login Log Warrant Access
+
+Social Security will provide an API to receive /login-logs via an API.
+
+The API will accept:
+
+- Domain name
+- Time Frame
+- Warrant Id
+- Warrant Key
+
+The information will be provided to the warrant's meta data at warrant.gov where with they provided access key where it can be accessed by the court or judge who issued it.
+
+The warrant.gov must validate the domain name that is passed to the warrant based on the warrant details before accepting it.

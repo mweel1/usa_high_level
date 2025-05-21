@@ -50,7 +50,7 @@ Each board consists of a number of members as defined by its bylaws and must hav
 
 ### Starting Up
 
-Downstream agencies are started up after the General Administration in their jurisdiction has approved them. The upstream agency will provide all the requirements of the board including the job descriptions of the board members, and an example budget from another jurisdiction.
+Federal General Administration will ensure the city general administration has all the resources and know how to bring in other civil agencies into a city to run its operations.
 
 ### Data Sharing
 
@@ -107,10 +107,22 @@ All agencies must get a domain setup by the top level agency via Homeland Securi
 
 ## Sibling Jurisdictions
 
-Top level organizations can have sibling jurisdictions. For example, the FCC could have a top level organization, with a Domain Zone sibling.
+Top level organizations can have sibling jurisdictions. For example, the FCC could have a top level organization.
 
 ## Cross Agency Analysis
 
 - Each type of agency at each jurisdiction will have metrics associated with them that must be released so civic agency over site and citizens can review them for inefficiencies.
 
 A civic agency over site report is provided to the agency once a year for citizens to help deal with inflationary measures from voting on agencies directly.
+
+## FCC Zone Applications
+
+The general administration would have to approve all applications added to the general administration district. For example, a City would provide a Taxi application to its constituents and ensure the DOT Taxi applications were available.
+
+## License Protests and Public Events
+
+General Administration would provide protest and public event licenses to individuals.
+
+## Health
+
+A board can vote off a board member at any time with a majority vote. This could be because of health reasons, or lack of participation.
