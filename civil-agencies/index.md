@@ -93,21 +93,29 @@ The following are the requirements for licensing and certification:
 
 - Education domains must have a secure connection with their top level agency to provide certificate and license approvals.
 
-## Container Deployment
+## Container and Standards
 
-- All top level domains would manage a container registry where all containers would have be signed provided by the NIST.
+Each top level agency will be responsible for their API standards in the market in collaboration with NITS.
 
-- All top level domains would have to have a number of approved hosting providers approved by the NIST that would be able to pull containers and run them, and roll back containers in case of issues.
+The top level agency will approve all containers and provide them to the NITS for 2nd level testing, hosting and deployment schedules.
 
-- All top level domains would be responsible for ensuring there are test environments where the market could test next releases.
+All containers must have cleansing scripts and NITS will provide test domain names for domains registered, that will auto-connect.
+
+All containers must have test scripts to support all operations.
+
+It's suggested the market work on its own testing with the market before deploying to the test environment.
+
+NITS will hold all standards for the country, but will also distribute them to Commerce Department and the Home Land Security for publishing.
 
 ## Domain Names
 
-All agencies must get a domain setup by the top level agency via Homeland Security where their government certificate will be issued to their domain.
+All agencies must get a domain setup by the top level agency via Homeland Security where their government certificate will be issued to their .gov domain.
+
+The domain specification will be <district>.<top-level>.gov. For example, laguna-beach.dot.gov
 
 ## Sibling Jurisdictions
 
-Top level organizations can have sibling jurisdictions. For example, the FCC could have a top level organization.
+Top level organizations can have sibling jurisdictions. For example, the FCC could have a spectrum division, and a domain zone division.
 
 ## Cross Agency Analysis
 

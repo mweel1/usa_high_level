@@ -59,3 +59,7 @@ HHS would provide grants for local cities to:
 ## Personal Wellbeing
 
 HHS will receive events each time a personal profile action takes place. If events are no longer be received and there is no death certificate present, a case will be sent to the FBI.
+
+## Marriage Certificates
+
+The attributes in which marriages can be commenced will have federal and district laws. Human and Health Services will license people who can put on marriages.

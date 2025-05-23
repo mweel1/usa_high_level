@@ -56,3 +56,13 @@ The [emergency communication system](./emergency-communication-system/index.md) 
 ## Disaster Recovery Grants
 
 Disaster recovery grants will be provided and managed to recover all the infrastructure managed by civil agencies in the effected area.
+
+## DOT Integration
+
+Allow DOT to send out a message during road construction to vehicles.
+
+## Coast Guard
+
+- Setup a communication channels between Coast Guard and Life Guards.
+- Allow Coast Guard to send messages to boat operating systems via the FCC boot loader.
+- Allow Coast Guard a map with all GPS coordinates of boats.

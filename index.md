@@ -36,4 +36,12 @@ features:
   - title: US National Institute of Standards and Technology
     link: /civil-agencies/us-national-institute-of-standards-and-technology
     details: Provide standards and technology to the market place.  Which includes infrastructure services.
+
+  - title: US Federal Trade Commission
+    link: /civil-agencies/us-federal-trade-commission
+    details: Take a front seat in the protection of content in the market place, especially for children.
+
+  - title: US Securities and Exchange Commission
+    link: /civil-agencies/us-securities-and-exchange
+    details: Provide a banking system for local investments, a credit system for on-line purchasing, banking agent licensing, manage the e-check processing network.
 ---

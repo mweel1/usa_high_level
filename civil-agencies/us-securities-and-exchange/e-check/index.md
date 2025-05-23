@@ -22,7 +22,7 @@ The United Stated E-check system provides the ability for both United States sel
 
 ## Payment Process
 
-The following process would be applied to create a debit profile at the Federal Reserve:
+The following process would be applied to create a debit profile at the securities exchange:
 
 E-check cards will be added by going oAuth with the federal reserve by approving the use of your social security number from your profile.
 

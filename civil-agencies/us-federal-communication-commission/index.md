@@ -31,3 +31,11 @@ The FCC would provide a sales and service platform to the market for all our int
 - An upgrade could be provided for a static IP address at an additional cost.
 - All providers must provide their hardware with their service.
 - Future generations of services could create standards around receivers and sat. services.
+
+### FCC - TV Management
+
+The FCC would provide an OS container on TV. On boot up TV applications can come up where people can save them.
+
+The FCC container would provide a proxy service to Home Land Security to define what domains can be accessed.
+
+All TV applications will only be able to access approved domain names.
