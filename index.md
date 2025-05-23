@@ -27,5 +27,5 @@ features:
 
   - title: US Federal Emergency Management Agency
     link: /civil-agencies/us-federal-emergency-management-agency
-    details: FEMA, the Federal Emergency Management Agency, is a U.S. government agency under the Department of Homeland Security (DHS). It is responsible for coordinating all emergency management efforts, including disaster response, support for firefighters, and lifeguard services.
+    details: FEMA, the Federal Emergency Management Agency, is a U.S. government agency under the Department of Homeland Security (DHS). It is responsible for coordinating all emergency management efforts.
 ---

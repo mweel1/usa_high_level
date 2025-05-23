@@ -1,6 +1,6 @@
 # Federal Emergency Management Agency
 
-FEMA, the Federal Emergency Management Agency, is a U.S. government agency under the Department of Homeland Security (DHS). It is responsible for coordinating all emergency management efforts, including disaster response, support for firefighters, and lifeguard services.
+FEMA, the Federal Emergency Management Agency, is a U.S. government agency under the Department of Homeland Security (DHS). It is responsible for coordinating all emergency management efforts.
 
 FEMA will also handle all the dispatch and emergency communication systems for civil agencies and the population.
 
@@ -52,3 +52,7 @@ FEMA would provide the [emergency dispatch systems](./emeregency-dispatch/index.
 ## Emergency Communication System
 
 The [emergency communication system](./emergency-communication-system/index.md) would allow civil agencies the ability to send direct messages and actions to operating system and the public.
+
+## Disaster Recovery Grants
+
+Disaster recovery grants will be provided and managed to recover all the infrastructure managed by civil agencies in the effected area.
