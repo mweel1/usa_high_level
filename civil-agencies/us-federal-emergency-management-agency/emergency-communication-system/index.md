@@ -1,14 +1,4 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "FCC"
-  text: "Emergency Communication System"
-  tagline: A channel of emergency communications to the publics operating systems
----
-
-## Overview
+## Emergency Communication Systems
 
 The emergency communication system would allow government agencies the ability to send direct messages and actions to operating system much like what happens with TV and radio today based on the agencies permissions.
 
@@ -21,24 +11,28 @@ Each government agency would need permission to use the emergency communication 
 - Fire Department
 - Water District
 - Energy Companies
-- Local City
+- General Administration
 - Animal Control
+- Weather Agency
+- Lifeguard
 
-Each user must have a .gov e-mail address, for example : us.mike@highwaypatrol.gov login. Each login must send a code to the e-mail address to verify they are still a valid user. All e-mail addresses must be verified via phone to the government agency.
+Each user must have a valid government license from Homeland Security to login.
 
-Once approved the e-mail address would be assigned to the correct government agency that is participating in the system.
-
-## Messaging
-
-Before a message would be sent to the population it would have to be approved by a pre-assigned quorum of members of the agency, There can be many predefined messages for each government agency, or they can customize one.
+Each login will have access limits to which districts they can send messaging out to.
 
 ## Devices
 
-All physical communication devices/operating systems would be registered with the Emergency Communication System via the personal profile where they would be notified in case of emergencies also during the [operating system setup](/government-os-services/) process.
+All physical communication devices/operating systems would be registered with the Emergency Communication System via the personal profile where they would be notified in case of emergencies.
 
-This would include drone owners.
+Furthermore, the FCC/NITS device would have a direct connection to FEMA incase it does not have a connection to the personal profile.
 
-## Location Based Emergency Messaging
+## Sending Messages
+
+FEMA will provide pre-defined messages that various jurisdictions which will be able to choose from where they will fill in specific fields.
+
+Any time a custom message is sent outside of this, it must be approved by 5 individuals from the customer messaging team at FEMA.
+
+### Location Based Messaging
 
 In the case of location based messages a geo-fence can be provided to ECS where from various jurisdictions can send message to citizens. This information would include both residents physical address, and operating systems in the geo-located area.
 
@@ -51,31 +45,22 @@ Some uses for this technology would be:
 - Active shooter at school
 - Emergency vehicles would emit its location and send messages to turn down the car radio and alert to pay attention for siren noises as it drives down the street.
 
-## Dynamic Spheres
+### Jurisdiction Messaging
 
-Police officers will have the ability to provide a sphere location and receive a list of vehicles and their facility by make, model, and license plate, and personal profile's driving in the vehicle.
-
-For example, the highway patrol would be able to message everyone
+The FEMA emergency communication system will also allow you to send emergency notifications to specific districts.
 
 ## Operating System Commands
 
-The CS would be able to provide commands to mobile phones to:
+The emergency communication system would be able to provide commands to mobile phones to:
 
 - Disable them incase a gathering are coordinating attacks in a crowd gathering.
 
-The ECS would also be able to provide commands to vehicle operating system which would include:
+The ECS would also be able to provide commands to vehicle operating system via a license plate which would include:
 
-- Turning down the radio
-- Pull Vehicle Over
+- Turn down the radio
+- Send a message to pull a vehicle over
+- Disable a vehicle in a pursuit
 
-### Message Requirements
+### Domain Zones
 
-When the Emergency Communication System sends message it will send a message along with an optional command.
-
-#### Commands
-
-- Show Emergency Domain Zone Application
-
-# Anonymous Mode
-
-ECS will have an API for non-authenticated devices that will allow devices to operate when nobody is authenticated into the system. Once authenticated however, the operating system must use the authorization processes for a authenticated user. The operating system will be loaded with a key to access ECS services anonymously.
+- A command can be sent to operating systems to show an emergency coordination domain zone, where an emergency icon will be shown on devices.

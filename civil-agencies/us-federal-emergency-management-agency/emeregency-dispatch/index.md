@@ -1,22 +1,25 @@
-# Emergency Dispatch
+# Emergency Dispatch System Overview
 
-A grant will be provided to license dispatch service people, and containers for local dispatch operations under .emergency-dispatch containers.
+A grant will be provided to license dispatch service managers and support containerized technology for local emergency dispatch operations using standardized emergency-dispatch containers.
 
-An oAuth with a personal profile and FCC containers will provide the ability to:
+Furthermore, all emergency equipment will be funded by the grant based on the district/city FEMA board's budget.
 
-1. Allow operating systems to receive a directory of their closest dispatch operation, and connect to dispatch with a standard API surface to:
+All FCC/NITS-approved operating systems will receive a directory of the nearest dispatch centers and will connect through a standardized API to enable the following:
 
-   - Make Calls
-   - Provide Communication Channel via Direct Messaging
+- Place emergency service calls
+- Enable communication via direct messaging and domain zone specific applications
+- Enable the vehicle to call dispatch during an accident
 
-All calls to the dispatch organization must provide their personal profile, or NTIS device Id if no personal profile is available.
+All calls to dispatch centers must include either a user’s personal profile or the FCC device ID (if no profile is logged in), allowing the system to access the device’s location for emergency responses.
 
-## Emergency Service Officer Locations
+# Emergency Officer and Vehicle Tracking
 
-All officer locations would be provided to the dispatch system by oAuthing to the police departments, ambulance providers, and fire services where officers cell phone locations would be available.
+Dispatch systems will receive real-time GPS coordinates for all registered emergency vehicles and personnel within the district to support accurate location-based response.
 
-## Dispatch Application
+# Dispatch Application
 
-Each emergency service officers would have a dispatch log application where they could acknowledge they are responding.
+Each emergency responder will use a dispatch log application to acknowledge and respond to service calls. These applications will be deployed within the appropriate domain zones and accessible only to licensed personnel.
 
-These applications would be deployed in the domain zone for people with these licenses.
+# Multi-District Coordination
+
+Federal agencies, including FEMA, will have access to the same services as local districts. This ensures coordination across jurisdictions for large-scale emergencies affecting multiple cities or districts.
