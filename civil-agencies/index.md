@@ -95,11 +95,11 @@ The following are the requirements for licensing and certification:
 
 ## Container Deployment
 
-- All top level domains would manage a container registry where all containers would have be signed provided by the NIST.
+- All top level domains would have access to their container registry at NITS where all containers would have been signed.
 
-- All top level domains would have to have a number of approved hosting providers approved by the NIST that would be able to pull containers and run them, and roll back containers in case of issues.
+- All top level domains can deploy containers to the market via NTIS.
 
-- All top level domains would be responsible for ensuring there are test environments where the market could test next releases.
+- All top level domains would be responsible for ensuring there domains are tested before solidifing business process specs and test environments where the market could 
 
 ## Domain Names
 
