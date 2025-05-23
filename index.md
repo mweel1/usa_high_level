@@ -28,4 +28,12 @@ features:
   - title: US Federal Emergency Management Agency
     link: /civil-agencies/us-federal-emergency-management-agency
     details: FEMA, the Federal Emergency Management Agency, is a U.S. government agency under the Department of Homeland Security (DHS). It is responsible for coordinating all emergency management efforts.
+
+  - title: Department of Education
+    link: /civil-agencies/us-department-of-education
+    details: A complete overhaul of the education which includes licensing, grants, and infrastructure to allow districts and schools to provide schooling services to children.
+
+  - title: US National Institute of Standards and Technology
+    link: /civil-agencies/us-national-institute-of-standards-and-technology
+    details: Provide standards and technology to the market place.  Which includes infrastructure services.
 ---

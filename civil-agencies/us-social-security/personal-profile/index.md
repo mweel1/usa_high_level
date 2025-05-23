@@ -37,6 +37,7 @@ They will be instructed to bring all government documentation with them they hav
 - Birth certificate
 - Children's birth certificates
 - Payment cards
+- Marriage certificates
 
 At least one government issued photo ID must be present and a birth certificate.
 
@@ -57,6 +58,10 @@ A $500 payment would be provided by Social Security for each child that was adde
 Monthly payments on an on-going basis would be a law in-acted by social security.
 
 Social Security should consider laws to keep culture diversity in our country, and keep races in-line with each other.
+
+### Marriage
+
+With a validated marriage license both personal profiles can be associated as married.
 
 ### Illegal Parents
 
